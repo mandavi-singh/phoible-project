@@ -1,0 +1,4741 @@
+State,SegmentClass,Phoneme,Count
+,consonant,b,1
+,consonant,bʱ,1
+,consonant,d,1
+,consonant,dz,1
+,consonant,dzʱ,1
+,consonant,dʱ,1
+,consonant,j,1
+,consonant,k,1
+,consonant,kʰ,1
+,consonant,l,1
+,consonant,m,1
+,consonant,n,1
+,consonant,p,1
+,consonant,pʰ,1
+,consonant,q,1
+,consonant,qʰ,1
+,consonant,r,1
+,consonant,s,1
+,consonant,t,1
+,consonant,ts,1
+,consonant,tsʰ,1
+,consonant,tʰ,1
+,consonant,t̠ʃ,1
+,consonant,w,1
+,consonant,ŋ,1
+,consonant,ɡ,1
+,consonant,ɡʱ,1
+,consonant,ɢ,1
+,consonant,ɲ,1
+,consonant,ɴ,1
+,consonant,ʔ,1
+,consonant,χ,1
+,vowel,a,1
+,vowel,e,1
+,vowel,i,1
+,vowel,o,1
+,vowel,u,1
+,vowel,ə,1
+Aceh,consonant,cç,1
+Aceh,consonant,d,1
+Aceh,consonant,f,1
+Aceh,consonant,h,1
+Aceh,consonant,k,1
+Aceh,consonant,l,1
+Aceh,consonant,m,1
+Aceh,consonant,n̪,1
+Aceh,consonant,p,1
+Aceh,consonant,r,1
+Aceh,consonant,s,1
+Aceh,consonant,t,1
+Aceh,consonant,ŋ,1
+Aceh,consonant,ɲ,1
+Aceh,consonant,ɾ,1
+Aceh,consonant,ʈ,1
+Aceh,vowel,e,1
+Aceh,vowel,eː,1
+Aceh,vowel,i,1
+Aceh,vowel,iː,1
+Aceh,vowel,o,1
+Aceh,vowel,oː,1
+Aceh,vowel,u,1
+Aceh,vowel,uː,1
+Aceh,vowel,æ,1
+Aceh,vowel,ɑ,1
+Aceh,vowel,ɑː,1
+Aceh,vowel,ɔ,1
+Aceh,vowel,ɔː,1
+Aceh,vowel,ə,1
+Aceh,vowel,əː,1
+Aceh,vowel,ɛ,1
+Aceh,vowel,ɛː,1
+Aceh,vowel,ɨː,1
+Aceh,vowel,ɯ,1
+Andaman and Nicobar Islands,consonant,j,6
+Andaman and Nicobar Islands,consonant,m,6
+Andaman and Nicobar Islands,consonant,w,6
+Andaman and Nicobar Islands,consonant,ŋ,6
+Andaman and Nicobar Islands,consonant,b,5
+Andaman and Nicobar Islands,consonant,p,5
+Andaman and Nicobar Islands,consonant,ɲ,5
+Andaman and Nicobar Islands,consonant,k,4
+Andaman and Nicobar Islands,consonant,l,4
+Andaman and Nicobar Islands,consonant,n,4
+Andaman and Nicobar Islands,consonant,r,4
+Andaman and Nicobar Islands,consonant,t̠ʃ,3
+Andaman and Nicobar Islands,consonant,ɡ,3
+Andaman and Nicobar Islands,consonant,ɾ,3
+Andaman and Nicobar Islands,consonant,c,2
+Andaman and Nicobar Islands,consonant,d̠ʒ,2
+Andaman and Nicobar Islands,consonant,d̪,2
+Andaman and Nicobar Islands,consonant,d̪|d,2
+Andaman and Nicobar Islands,consonant,k̙,2
+Andaman and Nicobar Islands,consonant,l̪|l,2
+Andaman and Nicobar Islands,consonant,n̪|n,2
+Andaman and Nicobar Islands,consonant,s,2
+Andaman and Nicobar Islands,consonant,t,2
+Andaman and Nicobar Islands,consonant,tʰ,2
+Andaman and Nicobar Islands,consonant,t̪,2
+Andaman and Nicobar Islands,consonant,t̪|t,2
+Andaman and Nicobar Islands,consonant,t̪ʰ,2
+Andaman and Nicobar Islands,consonant,ɖ,2
+Andaman and Nicobar Islands,consonant,ɟ,2
+Andaman and Nicobar Islands,consonant,ɳ,2
+Andaman and Nicobar Islands,consonant,ɹ̪|ɹ,2
+Andaman and Nicobar Islands,consonant,ʈ,2
+Andaman and Nicobar Islands,consonant,ʈʰ,2
+Andaman and Nicobar Islands,consonant,θ,2
+Andaman and Nicobar Islands,consonant,χ,2
+Andaman and Nicobar Islands,consonant,cç,1
+Andaman and Nicobar Islands,consonant,d,1
+Andaman and Nicobar Islands,consonant,f,1
+Andaman and Nicobar Islands,consonant,h,1
+Andaman and Nicobar Islands,consonant,n̠,1
+Andaman and Nicobar Islands,consonant,s̪,1
+Andaman and Nicobar Islands,consonant,ɟʝ,1
+Andaman and Nicobar Islands,consonant,ʔ,1
+Andaman and Nicobar Islands,vowel,i,6
+Andaman and Nicobar Islands,vowel,u,6
+Andaman and Nicobar Islands,vowel,ɔ,6
+Andaman and Nicobar Islands,vowel,ɛ,6
+Andaman and Nicobar Islands,vowel,a,5
+Andaman and Nicobar Islands,vowel,e,4
+Andaman and Nicobar Islands,vowel,o,4
+Andaman and Nicobar Islands,vowel,ɯ,3
+Andaman and Nicobar Islands,vowel,e̞,2
+Andaman and Nicobar Islands,vowel,o̞,2
+Andaman and Nicobar Islands,vowel,æ,2
+Andaman and Nicobar Islands,vowel,ə,2
+Andaman and Nicobar Islands,vowel,ɪ,2
+Andaman and Nicobar Islands,vowel,ɒ,1
+Andaman and Nicobar Islands,vowel,ɘ,1
+Andaman and Nicobar Islands,vowel,ɤ,1
+Andhra Pradesh,consonant,b,17
+Andhra Pradesh,consonant,k,17
+Andhra Pradesh,consonant,l,17
+Andhra Pradesh,consonant,m,17
+Andhra Pradesh,consonant,p,17
+Andhra Pradesh,consonant,s,17
+Andhra Pradesh,consonant,ɡ,17
+Andhra Pradesh,consonant,ŋ,16
+Andhra Pradesh,consonant,n,14
+Andhra Pradesh,consonant,r,13
+Andhra Pradesh,consonant,j,12
+Andhra Pradesh,consonant,ɲ,12
+Andhra Pradesh,consonant,ɽ,11
+Andhra Pradesh,consonant,ʔ,11
+Andhra Pradesh,consonant,d,10
+Andhra Pradesh,consonant,ɖ,10
+Andhra Pradesh,consonant,t,9
+Andhra Pradesh,consonant,n̪,8
+Andhra Pradesh,consonant,t̪,8
+Andhra Pradesh,consonant,ɳ,8
+Andhra Pradesh,consonant,ɾ,8
+Andhra Pradesh,consonant,ɟʝ,7
+Andhra Pradesh,consonant,ʈ,7
+Andhra Pradesh,consonant,h,6
+Andhra Pradesh,consonant,w,6
+Andhra Pradesh,consonant,c,5
+Andhra Pradesh,consonant,d̪,5
+Andhra Pradesh,consonant,z,5
+Andhra Pradesh,consonant,ɟ,5
+Andhra Pradesh,consonant,cç,4
+Andhra Pradesh,consonant,b̻,3
+Andhra Pradesh,consonant,d̻,3
+Andhra Pradesh,consonant,k̻,3
+Andhra Pradesh,consonant,mb,3
+Andhra Pradesh,consonant,nd,3
+Andhra Pradesh,consonant,p̻,3
+Andhra Pradesh,consonant,r̠ʲ,3
+Andhra Pradesh,consonant,ŋɡ,3
+Andhra Pradesh,consonant,ɲɟ,2
+Andhra Pradesh,consonant,ɳɖ,2
+Andhra Pradesh,consonant,ʂ,2
+Andhra Pradesh,consonant,dz,1
+Andhra Pradesh,consonant,dʑ,1
+Andhra Pradesh,consonant,kʰ,1
+Andhra Pradesh,consonant,l̥,1
+Andhra Pradesh,consonant,ndz,1
+Andhra Pradesh,consonant,ndʑ,1
+Andhra Pradesh,consonant,pʰ,1
+Andhra Pradesh,consonant,r̥,1
+Andhra Pradesh,consonant,sʰ,1
+Andhra Pradesh,consonant,ts,1
+Andhra Pradesh,consonant,tsʰ,1
+Andhra Pradesh,consonant,tɕ,1
+Andhra Pradesh,consonant,tɕʰ,1
+Andhra Pradesh,consonant,tʰ,1
+Andhra Pradesh,consonant,x,1
+Andhra Pradesh,consonant,xʰ,1
+Andhra Pradesh,consonant,ɕ,1
+Andhra Pradesh,consonant,ɕʰ,1
+Andhra Pradesh,consonant,ɖʐ,1
+Andhra Pradesh,consonant,ɣ,1
+Andhra Pradesh,consonant,ɭ,1
+Andhra Pradesh,consonant,ɳɖʐ,1
+Andhra Pradesh,consonant,ʁ,1
+Andhra Pradesh,consonant,ʂʰ,1
+Andhra Pradesh,consonant,ʈʂ,1
+Andhra Pradesh,consonant,ʈʂʰ,1
+Andhra Pradesh,consonant,ʑ,1
+Andhra Pradesh,vowel,i,17
+Andhra Pradesh,vowel,u,17
+Andhra Pradesh,vowel,e,16
+Andhra Pradesh,vowel,o,16
+Andhra Pradesh,vowel,a,13
+Andhra Pradesh,vowel,ə,12
+Andhra Pradesh,vowel,ʊ,11
+Andhra Pradesh,vowel,ɪ,9
+Andhra Pradesh,vowel,æ,6
+Andhra Pradesh,vowel,ɛ,6
+Andhra Pradesh,vowel,ũː,5
+Andhra Pradesh,vowel,æ̞̃,5
+Andhra Pradesh,vowel,iː,4
+Andhra Pradesh,vowel,õ̞,4
+Andhra Pradesh,vowel,uː,4
+Andhra Pradesh,vowel,ũ,4
+Andhra Pradesh,vowel,ɑ,4
+Andhra Pradesh,vowel,ɨ,4
+Andhra Pradesh,vowel,aː,3
+Andhra Pradesh,vowel,ã,3
+Andhra Pradesh,vowel,eː,3
+Andhra Pradesh,vowel,ĩː,3
+Andhra Pradesh,vowel,oː,3
+Andhra Pradesh,vowel,õː,3
+Andhra Pradesh,vowel,y,3
+Andhra Pradesh,vowel,ø,3
+Andhra Pradesh,vowel,ɔ,3
+Andhra Pradesh,vowel,ə̃ː,3
+Andhra Pradesh,vowel,ʊ̃,3
+Andhra Pradesh,vowel,ʌ,3
+Andhra Pradesh,vowel,ẽ,2
+Andhra Pradesh,vowel,ia,2
+Andhra Pradesh,vowel,ĩ,2
+Andhra Pradesh,vowel,oi,2
+Andhra Pradesh,vowel,õ,2
+Andhra Pradesh,vowel,ui,2
+Andhra Pradesh,vowel,u̯a,2
+Andhra Pradesh,vowel,u̯e,2
+Andhra Pradesh,vowel,u̯i,2
+Andhra Pradesh,vowel,œ,2
+Andhra Pradesh,vowel,ɑ̃ː,2
+Andhra Pradesh,vowel,ɪ̃,2
+Andhra Pradesh,vowel,ãː,1
+Andhra Pradesh,vowel,ẽː,1
+Andhra Pradesh,vowel,ɑː,1
+Andhra Pradesh,vowel,ɪː,1
+Andhra Pradesh,vowel,ʉ,1
+Andhra Pradesh,vowel,ʉː,1
+Arunachal Pradesh,consonant,b,9
+Arunachal Pradesh,consonant,m,9
+Arunachal Pradesh,consonant,ŋ,9
+Arunachal Pradesh,consonant,ɡ,9
+Arunachal Pradesh,consonant,j,8
+Arunachal Pradesh,consonant,k,8
+Arunachal Pradesh,consonant,p,8
+Arunachal Pradesh,consonant,s,7
+Arunachal Pradesh,consonant,x,7
+Arunachal Pradesh,consonant,d,5
+Arunachal Pradesh,consonant,l,5
+Arunachal Pradesh,consonant,n,5
+Arunachal Pradesh,consonant,r,5
+Arunachal Pradesh,consonant,l̪,4
+Arunachal Pradesh,consonant,t,4
+Arunachal Pradesh,consonant,ɦ,4
+Arunachal Pradesh,consonant,ʔ,4
+Arunachal Pradesh,consonant,cç,3
+Arunachal Pradesh,consonant,h,3
+Arunachal Pradesh,consonant,kʰ,3
+Arunachal Pradesh,consonant,pʰ,3
+Arunachal Pradesh,consonant,ɟʝ,3
+Arunachal Pradesh,consonant,ɲ,3
+Arunachal Pradesh,consonant,ɾ,3
+Arunachal Pradesh,consonant,d̪,2
+Arunachal Pradesh,consonant,d̪|d,2
+Arunachal Pradesh,consonant,n̪,2
+Arunachal Pradesh,consonant,n̪|n,2
+Arunachal Pradesh,consonant,s̪|s,2
+Arunachal Pradesh,consonant,ts,2
+Arunachal Pradesh,consonant,tʰ,2
+Arunachal Pradesh,consonant,t̪,2
+Arunachal Pradesh,consonant,t̪|t,2
+Arunachal Pradesh,consonant,w,2
+Arunachal Pradesh,consonant,z,2
+Arunachal Pradesh,consonant,bʲ,1
+Arunachal Pradesh,consonant,dz,1
+Arunachal Pradesh,consonant,dʑ,1
+Arunachal Pradesh,consonant,d̠ʒ,1
+Arunachal Pradesh,consonant,lʲ,1
+Arunachal Pradesh,consonant,l̥,1
+Arunachal Pradesh,consonant,mʲ,1
+Arunachal Pradesh,consonant,nʲ,1
+Arunachal Pradesh,consonant,pʲ,1
+Arunachal Pradesh,consonant,tsʰ,1
+Arunachal Pradesh,consonant,tɕ,1
+Arunachal Pradesh,consonant,tɕʰ,1
+Arunachal Pradesh,consonant,t̠ʃʰ,1
+Arunachal Pradesh,consonant,t̪ʰ,1
+Arunachal Pradesh,consonant,ç,1
+Arunachal Pradesh,consonant,ɕ,1
+Arunachal Pradesh,consonant,ɖʐ,1
+Arunachal Pradesh,consonant,ɡʲ,1
+Arunachal Pradesh,consonant,ɣ,1
+Arunachal Pradesh,consonant,ɸ,1
+Arunachal Pradesh,consonant,ɻ,1
+Arunachal Pradesh,consonant,ʂ,1
+Arunachal Pradesh,consonant,ʃ,1
+Arunachal Pradesh,consonant,ʈʂ,1
+Arunachal Pradesh,consonant,ʈʂʰ,1
+Arunachal Pradesh,consonant,ʑ,1
+Arunachal Pradesh,consonant,β,1
+Arunachal Pradesh,tone,˥˦,2
+Arunachal Pradesh,tone,˩˨,2
+Arunachal Pradesh,tone,˥˩,1
+Arunachal Pradesh,tone,˧,1
+Arunachal Pradesh,tone,˩˥,1
+Arunachal Pradesh,vowel,u,9
+Arunachal Pradesh,vowel,i,8
+Arunachal Pradesh,vowel,ɔ,6
+Arunachal Pradesh,vowel,e,5
+Arunachal Pradesh,vowel,o,5
+Arunachal Pradesh,vowel,ɑ,5
+Arunachal Pradesh,vowel,ə,5
+Arunachal Pradesh,vowel,ɛ,5
+Arunachal Pradesh,vowel,ɯ,5
+Arunachal Pradesh,vowel,ʌ,5
+Arunachal Pradesh,vowel,i̥,4
+Arunachal Pradesh,vowel,u̥,4
+Arunachal Pradesh,vowel,a,3
+Arunachal Pradesh,vowel,aː,2
+Arunachal Pradesh,vowel,iː,2
+Arunachal Pradesh,vowel,uː,2
+Arunachal Pradesh,vowel,ɨ,2
+Arunachal Pradesh,vowel,eu,1
+Arunachal Pradesh,vowel,eː,1
+Arunachal Pradesh,vowel,io,1
+Arunachal Pradesh,vowel,iu,1
+Arunachal Pradesh,vowel,iɑ,1
+Arunachal Pradesh,vowel,oː,1
+Arunachal Pradesh,vowel,ui,1
+Arunachal Pradesh,vowel,uɑ,1
+Arunachal Pradesh,vowel,ũː,1
+Arunachal Pradesh,vowel,y,1
+Arunachal Pradesh,vowel,yu,1
+Arunachal Pradesh,vowel,æ,1
+Arunachal Pradesh,vowel,ø,1
+Arunachal Pradesh,vowel,øu,1
+Arunachal Pradesh,vowel,ɑi,1
+Arunachal Pradesh,vowel,ɑu,1
+Arunachal Pradesh,vowel,ɑː,1
+Arunachal Pradesh,vowel,ɔː,1
+Arunachal Pradesh,vowel,əu,1
+Arunachal Pradesh,vowel,əː,1
+Arunachal Pradesh,vowel,ɵ,1
+Arunachal Pradesh,vowel,ɵː,1
+Arunachal Pradesh,vowel,ʊ̃,1
+Assam,consonant,b,8
+Assam,consonant,j,8
+Assam,consonant,k,8
+Assam,consonant,l,8
+Assam,consonant,m,8
+Assam,consonant,p,8
+Assam,consonant,ŋ,8
+Assam,consonant,d,7
+Assam,consonant,kʰ,7
+Assam,consonant,n,7
+Assam,consonant,pʰ,7
+Assam,consonant,s,7
+Assam,consonant,t,7
+Assam,consonant,w,7
+Assam,consonant,ɡ,7
+Assam,consonant,tʰ,6
+Assam,consonant,z,6
+Assam,consonant,b̤,5
+Assam,consonant,h,5
+Assam,consonant,r,5
+Assam,consonant,d̤,4
+Assam,consonant,ɡʱ,4
+Assam,consonant,x,3
+Assam,consonant,ɾ,3
+Assam,consonant,d̠ʒ,2
+Assam,consonant,d̪,2
+Assam,consonant,n̪,2
+Assam,consonant,ts,2
+Assam,consonant,t̠ʃ,2
+Assam,consonant,t̪,2
+Assam,consonant,ɟʝ,2
+Assam,consonant,ɡ̤,2
+Assam,consonant,ɦ,2
+Assam,consonant,ɲ,2
+Assam,consonant,ʔ,2
+Assam,consonant,bʱ,1
+Assam,consonant,b̰,1
+Assam,consonant,cç,1
+Assam,consonant,cçʰ,1
+Assam,consonant,dz,1
+Assam,consonant,dʱ,1
+Assam,consonant,d̠ʒʱ,1
+Assam,consonant,d̪̤,1
+Assam,consonant,l̩,1
+Assam,consonant,n̩,1
+Assam,consonant,r̩,1
+Assam,consonant,tsʰ,1
+Assam,consonant,t̠ʃʰ,1
+Assam,consonant,t̪ʰ,1
+Assam,consonant,t̪̰,1
+Assam,consonant,z̤,1
+Assam,consonant,ɡ̰,1
+Assam,consonant,ɹ,1
+Assam,consonant,ɽ,1
+Assam,tone,˧,2
+Assam,tone,˥,1
+Assam,tone,˥˩,1
+Assam,tone,˩,1
+Assam,tone,˩˥,1
+Assam,vowel,i,8
+Assam,vowel,u,8
+Assam,vowel,a,7
+Assam,vowel,e,7
+Assam,vowel,o,7
+Assam,vowel,ɔ,7
+Assam,vowel,ɛ,6
+Assam,vowel,ə,3
+Assam,vowel,ʊ,3
+Assam,vowel,ai,2
+Assam,vowel,ei,2
+Assam,vowel,oi,2
+Assam,vowel,ui,2
+Assam,vowel,ɪ,2
+Assam,vowel,ʊ̃,2
+Assam,vowel,ae̞,1
+Assam,vowel,ao,1
+Assam,vowel,au,1
+Assam,vowel,ã,1
+Assam,vowel,eu,1
+Assam,vowel,eə,1
+Assam,vowel,ẽ,1
+Assam,vowel,e̞,1
+Assam,vowel,ẽ̞,1
+Assam,vowel,ia,1
+Assam,vowel,ie,1
+Assam,vowel,io,1
+Assam,vowel,iɔ,1
+Assam,vowel,ĩ,1
+Assam,vowel,i̯a,1
+Assam,vowel,i̯u,1
+Assam,vowel,i̯ɔ,1
+Assam,vowel,oe̞,1
+Assam,vowel,ou,1
+Assam,vowel,õ,1
+Assam,vowel,õ̞,1
+Assam,vowel,ũ,1
+Assam,vowel,ũː,1
+Assam,vowel,u̞,1
+Assam,vowel,u̯ə,1
+Assam,vowel,æ̞̃,1
+Assam,vowel,ɑ,1
+Assam,vowel,ɑ̃,1
+Assam,vowel,ɒ,1
+Assam,vowel,ɛ̃,1
+Assam,vowel,ɪ̃,1
+Assam,vowel,ɯ,1
+Assam,vowel,ʌ̃,1
+Badakhshan,consonant,b,2
+Badakhshan,consonant,d,2
+Badakhshan,consonant,dz,2
+Badakhshan,consonant,d̠ʒ,2
+Badakhshan,consonant,f,2
+Badakhshan,consonant,h,2
+Badakhshan,consonant,k,2
+Badakhshan,consonant,l,2
+Badakhshan,consonant,m,2
+Badakhshan,consonant,n,2
+Badakhshan,consonant,p,2
+Badakhshan,consonant,q,2
+Badakhshan,consonant,r,2
+Badakhshan,consonant,s,2
+Badakhshan,consonant,t,2
+Badakhshan,consonant,ts,2
+Badakhshan,consonant,t̠ʃ,2
+Badakhshan,consonant,v,2
+Badakhshan,consonant,w,2
+Badakhshan,consonant,x,2
+Badakhshan,consonant,z,2
+Badakhshan,consonant,ɡ,2
+Badakhshan,consonant,ʂ,2
+Badakhshan,consonant,ʃ,2
+Badakhshan,consonant,ʈʂ,2
+Badakhshan,consonant,ʐ,2
+Badakhshan,consonant,ʒ,2
+Badakhshan,consonant,c,1
+Badakhshan,consonant,j,1
+Badakhshan,consonant,ç,1
+Badakhshan,consonant,ɖ,1
+Badakhshan,consonant,ɖʐ,1
+Badakhshan,consonant,ɟ,1
+Badakhshan,consonant,ɣ,1
+Badakhshan,consonant,ɭ,1
+Badakhshan,consonant,ɲ,1
+Badakhshan,consonant,ɽ,1
+Badakhshan,consonant,ʈ,1
+Badakhshan,consonant,ʝ,1
+Badakhshan,consonant,χ,1
+Badakhshan,vowel,ə,2
+Badakhshan,vowel,a,1
+Badakhshan,vowel,ä,1
+Badakhshan,vowel,eː,1
+Badakhshan,vowel,e̞,1
+Badakhshan,vowel,i,1
+Badakhshan,vowel,iː,1
+Badakhshan,vowel,o,1
+Badakhshan,vowel,u,1
+Badakhshan,vowel,uː,1
+Badakhshan,vowel,ɐ,1
+Badakhshan,vowel,ɑː,1
+Badakhshan,vowel,ɔ,1
+Badakhshan,vowel,ɔ̜ː,1
+Badakhshan,vowel,ʊ,1
+Balochistan,consonant,b,12
+Balochistan,consonant,m,12
+Balochistan,consonant,ɡ,12
+Balochistan,consonant,d̠ʒ,11
+Balochistan,consonant,x,11
+Balochistan,consonant,ɣ,11
+Balochistan,consonant,j,10
+Balochistan,consonant,k,10
+Balochistan,consonant,p,10
+Balochistan,consonant,t̠ʃ,10
+Balochistan,consonant,ɖ,10
+Balochistan,consonant,ɽ,10
+Balochistan,consonant,ʃ,10
+Balochistan,consonant,ʒ,10
+Balochistan,consonant,h,8
+Balochistan,consonant,s,8
+Balochistan,consonant,z,8
+Balochistan,consonant,ʈ,8
+Balochistan,consonant,d,7
+Balochistan,consonant,d̪,7
+Balochistan,consonant,f,7
+Balochistan,consonant,l,7
+Balochistan,consonant,ɾ,7
+Balochistan,consonant,n,6
+Balochistan,consonant,n̪,6
+Balochistan,consonant,t,6
+Balochistan,consonant,t̪,6
+Balochistan,consonant,w,5
+Balochistan,consonant,ʋ,5
+Balochistan,consonant,l̪,4
+Balochistan,consonant,r̪,4
+Balochistan,consonant,s̪,4
+Balochistan,consonant,z̪,4
+Balochistan,consonant,ɬ̪,4
+Balochistan,consonant,ʔ,4
+Balochistan,consonant,kʰ,2
+Balochistan,consonant,pʰ,2
+Balochistan,consonant,r,2
+Balochistan,consonant,t̠ʃʰ,2
+Balochistan,consonant,v,2
+Balochistan,consonant,ɬ̪|ɬ,2
+Balochistan,consonant,ʈʰ,2
+Balochistan,consonant,b̤,1
+Balochistan,consonant,dz,1
+Balochistan,consonant,d̠̤ʒ̤,1
+Balochistan,consonant,d̤,1
+Balochistan,consonant,tsʰ,1
+Balochistan,consonant,tʰ,1
+Balochistan,consonant,t̪ʰ,1
+Balochistan,consonant,w̤,1
+Balochistan,consonant,ð,1
+Balochistan,consonant,ɖ̤,1
+Balochistan,consonant,ɡ̤,1
+Balochistan,consonant,ɳ,1
+Balochistan,consonant,ɽ̃,1
+Balochistan,consonant,ʁ,1
+Balochistan,consonant,β,1
+Balochistan,consonant,θ,1
+Balochistan,consonant,χ,1
+Balochistan,vowel,iː,12
+Balochistan,vowel,uː,10
+Balochistan,vowel,a,7
+Balochistan,vowel,i,6
+Balochistan,vowel,ĩː,6
+Balochistan,vowel,oː,6
+Balochistan,vowel,u,6
+Balochistan,vowel,eː,5
+Balochistan,vowel,ũː,5
+Balochistan,vowel,ɪ,5
+Balochistan,vowel,ʊ,5
+Balochistan,vowel,aː,4
+Balochistan,vowel,ã,4
+Balochistan,vowel,ãː,4
+Balochistan,vowel,ä,4
+Balochistan,vowel,ĩ,4
+Balochistan,vowel,ũ,4
+Balochistan,vowel,ɑː,4
+Balochistan,vowel,ɔʊ̯,4
+Balochistan,vowel,ɔː,4
+Balochistan,vowel,ɔ̃ː,4
+Balochistan,vowel,ɛ,4
+Balochistan,vowel,ɛː,4
+Balochistan,vowel,ɛ̃ː,4
+Balochistan,vowel,äː,3
+Balochistan,vowel,e,3
+Balochistan,vowel,æɪ̯,3
+Balochistan,vowel,æ̃ɪ̯̃,2
+Balochistan,vowel,ɔ̃ʊ̯̃,2
+Balochistan,vowel,ɪ̃,2
+Balochistan,vowel,ʊ̃,2
+Balochistan,vowel,aːɪ,1
+Balochistan,vowel,ã̈ː,1
+Balochistan,vowel,ẽː,1
+Balochistan,vowel,iɛː,1
+Balochistan,vowel,ĩɛ̃ː,1
+Balochistan,vowel,i̯ɛ,1
+Balochistan,vowel,o,1
+Balochistan,vowel,õː,1
+Balochistan,vowel,uɔː,1
+Balochistan,vowel,ũɔ̃ː,1
+Balochistan,vowel,u̯ɔ,1
+Balochistan,vowel,yː,1
+Balochistan,vowel,æɛ,1
+Balochistan,vowel,øː,1
+Balochistan,vowel,ø̃,1
+Balochistan,vowel,ɑʊ̯,1
+Balochistan,vowel,ɒː,1
+Balochistan,vowel,ɒ̃ː,1
+Balochistan,vowel,ə,1
+Bihar,consonant,b,4
+Bihar,consonant,b̤,4
+Bihar,consonant,d̪,4
+Bihar,consonant,d̪̤,4
+Bihar,consonant,k,4
+Bihar,consonant,kʰ,4
+Bihar,consonant,m,4
+Bihar,consonant,n,4
+Bihar,consonant,p,4
+Bihar,consonant,pʰ,4
+Bihar,consonant,s,4
+Bihar,consonant,t̪,4
+Bihar,consonant,t̪ʰ,4
+Bihar,consonant,ɖ,4
+Bihar,consonant,ɖ̤,4
+Bihar,consonant,ɡ,4
+Bihar,consonant,ʈ,4
+Bihar,consonant,ʈʰ,4
+Bihar,consonant,h,3
+Bihar,consonant,j,3
+Bihar,consonant,r,3
+Bihar,consonant,w,3
+Bihar,consonant,ŋ,3
+Bihar,consonant,ɡ̤,3
+Bihar,consonant,ɽ,3
+Bihar,consonant,ɽ̤,3
+Bihar,consonant,c,2
+Bihar,consonant,cʰ,2
+Bihar,consonant,l,2
+Bihar,consonant,l̤,2
+Bihar,consonant,m̤,2
+Bihar,consonant,n̤,2
+Bihar,consonant,rʰ,2
+Bihar,consonant,ɟ,2
+Bihar,consonant,ɟ̤,2
+Bihar,consonant,cç,1
+Bihar,consonant,cçʰ,1
+Bihar,consonant,d̠ʒ,1
+Bihar,consonant,d̠̤ʒ̤,1
+Bihar,consonant,t̠ʃ,1
+Bihar,consonant,t̠ʃʰ,1
+Bihar,consonant,ç,1
+Bihar,consonant,ŋʰ,1
+Bihar,consonant,ɟʝ,1
+Bihar,consonant,ɟ̤ʝ,1
+Bihar,consonant,ɡʱ,1
+Bihar,consonant,ɲ,1
+Bihar,consonant,ɳ,1
+Bihar,consonant,ɾ,1
+Bihar,consonant,ʂ,1
+Bihar,vowel,a,4
+Bihar,vowel,e,4
+Bihar,vowel,i,4
+Bihar,vowel,o,4
+Bihar,vowel,u,4
+Bihar,vowel,ã,3
+Bihar,vowel,ẽ,3
+Bihar,vowel,ĩ,3
+Bihar,vowel,õ,3
+Bihar,vowel,ũ,3
+Bihar,vowel,ai,2
+Bihar,vowel,au,2
+Bihar,vowel,æ,2
+Bihar,vowel,ɔ,2
+Bihar,vowel,ə,2
+Bihar,vowel,əi,2
+Bihar,vowel,əu,2
+Bihar,vowel,ʌ,2
+Bihar,vowel,ʌ̃,2
+Bihar,vowel,ãĩ,1
+Bihar,vowel,ãũ,1
+Bihar,vowel,eu,1
+Bihar,vowel,iu,1
+Bihar,vowel,oi,1
+Bihar,vowel,ou,1
+Bihar,vowel,ui,1
+Bihar,vowel,æ̃,1
+Bihar,vowel,ɔ̃,1
+Bihar,vowel,ə̃,1
+Bihar,vowel,ə̃ĩ,1
+Bihar,vowel,ə̃ũ,1
+Bumthang,consonant,b,1
+Bumthang,consonant,c,1
+Bumthang,consonant,cʰ,1
+Bumthang,consonant,d̪,1
+Bumthang,consonant,h,1
+Bumthang,consonant,j,1
+Bumthang,consonant,k,1
+Bumthang,consonant,kʰ,1
+Bumthang,consonant,l,1
+Bumthang,consonant,m,1
+Bumthang,consonant,n,1
+Bumthang,consonant,p,1
+Bumthang,consonant,pʰ,1
+Bumthang,consonant,r,1
+Bumthang,consonant,s,1
+Bumthang,consonant,t̪,1
+Bumthang,consonant,t̪s̪,1
+Bumthang,consonant,t̪s̪ʰ,1
+Bumthang,consonant,t̪ʰ,1
+Bumthang,consonant,w,1
+Bumthang,consonant,z,1
+Bumthang,consonant,ç,1
+Bumthang,consonant,ŋ,1
+Bumthang,consonant,ɖ,1
+Bumthang,consonant,ɟ,1
+Bumthang,consonant,ɡ,1
+Bumthang,consonant,ɬ,1
+Bumthang,consonant,ɲ,1
+Bumthang,consonant,ʈ,1
+Bumthang,consonant,ʈʰ,1
+Bumthang,consonant,ʔ,1
+Bumthang,vowel,e,1
+Bumthang,vowel,eː,1
+Bumthang,vowel,i,1
+Bumthang,vowel,iu,1
+Bumthang,vowel,iː,1
+Bumthang,vowel,o,1
+Bumthang,vowel,oi,1
+Bumthang,vowel,oː,1
+Bumthang,vowel,u,1
+Bumthang,vowel,ui,1
+Bumthang,vowel,uː,1
+Bumthang,vowel,ɑ,1
+Bumthang,vowel,ɑu,1
+Bumthang,vowel,ɑː,1
+Central Region,consonant,b,15
+Central Region,consonant,k,15
+Central Region,consonant,m,15
+Central Region,consonant,p,15
+Central Region,consonant,ɡ,15
+Central Region,consonant,kʰ,14
+Central Region,consonant,pʰ,14
+Central Region,consonant,s,14
+Central Region,consonant,l,13
+Central Region,consonant,ŋ,13
+Central Region,consonant,d̪,12
+Central Region,consonant,h,12
+Central Region,consonant,t̪,12
+Central Region,consonant,ʈ,12
+Central Region,consonant,ʈʰ,12
+Central Region,consonant,t̪ʰ,11
+Central Region,consonant,ɖ,11
+Central Region,consonant,j,10
+Central Region,consonant,w,10
+Central Region,consonant,b̤,9
+Central Region,consonant,dz,8
+Central Region,consonant,d̪̤,8
+Central Region,consonant,ts,8
+Central Region,consonant,ɖ̤,8
+Central Region,consonant,n,7
+Central Region,consonant,n̪,7
+Central Region,consonant,r,7
+Central Region,consonant,tsʰ,7
+Central Region,consonant,ɡ̤,7
+Central Region,consonant,ɾ,6
+Central Region,consonant,c,3
+Central Region,consonant,cʰ,3
+Central Region,consonant,dʑ,3
+Central Region,consonant,l̥,3
+Central Region,consonant,tɕ,3
+Central Region,consonant,ɟ,3
+Central Region,consonant,ɡʱ,3
+Central Region,consonant,ɦ,3
+Central Region,consonant,ɲ,3
+Central Region,consonant,bː,2
+Central Region,consonant,b̤ː,2
+Central Region,consonant,cç,2
+Central Region,consonant,cçʰ,2
+Central Region,consonant,d,2
+Central Region,consonant,dzː,2
+Central Region,consonant,dz̤,2
+Central Region,consonant,d̠ʒ,2
+Central Region,consonant,d̤z̤,2
+Central Region,consonant,d̤z̤ː,2
+Central Region,consonant,d̪ː,2
+Central Region,consonant,d̪̤ː,2
+Central Region,consonant,kʰː,2
+Central Region,consonant,kː,2
+Central Region,consonant,lː,2
+Central Region,consonant,l̤,2
+Central Region,consonant,mː,2
+Central Region,consonant,nː,2
+Central Region,consonant,pʰː,2
+Central Region,consonant,pː,2
+Central Region,consonant,rː,2
+Central Region,consonant,sː,2
+Central Region,consonant,t,2
+Central Region,consonant,tsʰː,2
+Central Region,consonant,tsː,2
+Central Region,consonant,tɕʰ,2
+Central Region,consonant,tʰ,2
+Central Region,consonant,t̠ʃ,2
+Central Region,consonant,t̠ʃʰ,2
+Central Region,consonant,t̪ʰː,2
+Central Region,consonant,t̪ː,2
+Central Region,consonant,ç,2
+Central Region,consonant,ŋː,2
+Central Region,consonant,ɖː,2
+Central Region,consonant,ɖ̤ː,2
+Central Region,consonant,ɟʝ,2
+Central Region,consonant,ɟ̤,2
+Central Region,consonant,ɟ̤ʝ,2
+Central Region,consonant,ɡː,2
+Central Region,consonant,ɡ̤ː,2
+Central Region,consonant,ɽ,2
+Central Region,consonant,ɽ̤,2
+Central Region,consonant,ʂ,2
+Central Region,consonant,ʈʰː,2
+Central Region,consonant,ʈː,2
+Central Region,consonant,ʔ,2
+Central Region,consonant,bʱ,1
+Central Region,consonant,d̠ʒʱ,1
+Central Region,consonant,d̪z̪|dz,1
+Central Region,consonant,d̪z̪̤|dz̤,1
+Central Region,consonant,d̪|d,1
+Central Region,consonant,d̪ʱ,1
+Central Region,consonant,d̪̤|d̤,1
+Central Region,consonant,jʱ,1
+Central Region,consonant,l̪,1
+Central Region,consonant,l̪|l,1
+Central Region,consonant,l̪̤|l̤,1
+Central Region,consonant,mʱ,1
+Central Region,consonant,m̤,1
+Central Region,consonant,nʱ,1
+Central Region,consonant,n̪|n,1
+Central Region,consonant,n̪̤|n̤,1
+Central Region,consonant,s̪|s,1
+Central Region,consonant,t̪s̪|ts,1
+Central Region,consonant,t̪s̪ʰ|tsʰ,1
+Central Region,consonant,t̪|t,1
+Central Region,consonant,t̪ʰ|tʰ,1
+Central Region,consonant,wʱ,1
+Central Region,consonant,x,1
+Central Region,consonant,z,1
+Central Region,consonant,ɕ,1
+Central Region,consonant,ɗ,1
+Central Region,consonant,ɗʱ,1
+Central Region,consonant,ɹ,1
+Central Region,consonant,ɹ̥,1
+Central Region,consonant,ɾʱ,1
+Central Region,consonant,ʃ,1
+Central Region,consonant,ʍ,1
+Central Region,consonant,ʑ,1
+Central Region,vowel,i,15
+Central Region,vowel,u,15
+Central Region,vowel,a,13
+Central Region,vowel,e,11
+Central Region,vowel,ĩ,10
+Central Region,vowel,o,10
+Central Region,vowel,ũ,10
+Central Region,vowel,ã,8
+Central Region,vowel,ẽ,6
+Central Region,vowel,ə,5
+Central Region,vowel,ʌ,5
+Central Region,vowel,aː,4
+Central Region,vowel,eː,4
+Central Region,vowel,iː,4
+Central Region,vowel,uː,4
+Central Region,vowel,ə̃,4
+Central Region,vowel,oː,3
+Central Region,vowel,ɛ,3
+Central Region,vowel,ai,2
+Central Region,vowel,au,2
+Central Region,vowel,ei,2
+Central Region,vowel,eu,2
+Central Region,vowel,e̞,2
+Central Region,vowel,ẽ̞,2
+Central Region,vowel,iu,2
+Central Region,vowel,oi,2
+Central Region,vowel,ou,2
+Central Region,vowel,õ,2
+Central Region,vowel,o̞,2
+Central Region,vowel,õ̞,2
+Central Region,vowel,ui,2
+Central Region,vowel,ɔ,2
+Central Region,vowel,ɔː,2
+Central Region,vowel,əi,2
+Central Region,vowel,əĩ,2
+Central Region,vowel,əu,2
+Central Region,vowel,əũ,2
+Central Region,vowel,ʌi,2
+Central Region,vowel,ʌu,2
+Central Region,vowel,ʌ̃,2
+Central Region,vowel,ãː,1
+Central Region,vowel,a̟,1
+Central Region,vowel,ã̟,1
+Central Region,vowel,ẽː,1
+Central Region,vowel,ĩː,1
+Central Region,vowel,i̤,1
+Central Region,vowel,õː,1
+Central Region,vowel,ũː,1
+Central Region,vowel,ṳ,1
+Central Region,vowel,ɑ,1
+Central Region,vowel,ɑ̃,1
+Central Region,vowel,ɔ̃,1
+Central Region,vowel,ɔ̤,1
+Central Region,vowel,ɔ̤ː,1
+Central Region,vowel,ɛː,1
+Central Region,vowel,ɛ̃,1
+Central Region,vowel,ɛ̤,1
+Central Region,vowel,ɛ̤ː,1
+Central Region,vowel,ɤ̞,1
+Central Region,vowel,ɤ̞̃,1
+Central Region,vowel,ɪ,1
+Central Region,vowel,ɪː,1
+Central Region,vowel,ɪ̃,1
+Central Region,vowel,ɪ̃ː,1
+Central Region,vowel,ʊ,1
+Central Region,vowel,ʊː,1
+Central Region,vowel,ʊ̃,1
+Central Region,vowel,ʊ̃ː,1
+Central Region,vowel,ʌː,1
+Central Region,vowel,ʌ̤,1
+Central Region,vowel,ʌ̤ː,1
+Chhattisgarh,consonant,b,3
+Chhattisgarh,consonant,h,3
+Chhattisgarh,consonant,j,3
+Chhattisgarh,consonant,k,3
+Chhattisgarh,consonant,l,3
+Chhattisgarh,consonant,m,3
+Chhattisgarh,consonant,n,3
+Chhattisgarh,consonant,p,3
+Chhattisgarh,consonant,s,3
+Chhattisgarh,consonant,w,3
+Chhattisgarh,consonant,ŋ,3
+Chhattisgarh,consonant,ɡ,3
+Chhattisgarh,consonant,cç,2
+Chhattisgarh,consonant,d,2
+Chhattisgarh,consonant,r,2
+Chhattisgarh,consonant,t,2
+Chhattisgarh,consonant,ɖ,2
+Chhattisgarh,consonant,ɟʝ,2
+Chhattisgarh,consonant,ɽ,2
+Chhattisgarh,consonant,ʈ,2
+Chhattisgarh,consonant,b̤,1
+Chhattisgarh,consonant,c,1
+Chhattisgarh,consonant,d̤,1
+Chhattisgarh,consonant,d̪,1
+Chhattisgarh,consonant,f,1
+Chhattisgarh,consonant,kʰ,1
+Chhattisgarh,consonant,pʰ,1
+Chhattisgarh,consonant,r̥,1
+Chhattisgarh,consonant,ts,1
+Chhattisgarh,consonant,tʰ,1
+Chhattisgarh,consonant,t̪,1
+Chhattisgarh,consonant,v,1
+Chhattisgarh,consonant,z,1
+Chhattisgarh,consonant,ç,1
+Chhattisgarh,consonant,ɟ,1
+Chhattisgarh,consonant,ɡʱ,1
+Chhattisgarh,consonant,ɲ,1
+Chhattisgarh,consonant,ɾ,1
+Chhattisgarh,consonant,ʔ,1
+Chhattisgarh,vowel,a,3
+Chhattisgarh,vowel,e,3
+Chhattisgarh,vowel,i,3
+Chhattisgarh,vowel,o,3
+Chhattisgarh,vowel,u,3
+Chhattisgarh,vowel,aː,1
+Chhattisgarh,vowel,eː,1
+Chhattisgarh,vowel,iː,1
+Chhattisgarh,vowel,oː,1
+Chhattisgarh,vowel,uː,1
+Chhattisgarh,vowel,æ,1
+Chhattisgarh,vowel,ø,1
+Chhattisgarh,vowel,ɘ,1
+Chhattisgarh,vowel,ɛ,1
+Chhattisgarh,vowel,ɨ,1
+Chhattisgarh,vowel,ɪ,1
+Chhattisgarh,vowel,ʊ,1
+Chhattisgarh,vowel,ʌ,1
+Dhaka,consonant,b,10
+Dhaka,consonant,h,10
+Dhaka,consonant,k,10
+Dhaka,consonant,kʰ,10
+Dhaka,consonant,l,10
+Dhaka,consonant,m,10
+Dhaka,consonant,n,10
+Dhaka,consonant,p,10
+Dhaka,consonant,ŋ,10
+Dhaka,consonant,ɡ,10
+Dhaka,consonant,b̤,8
+Dhaka,consonant,d̪,8
+Dhaka,consonant,pʰ,8
+Dhaka,consonant,s,8
+Dhaka,consonant,t̪,8
+Dhaka,consonant,t̪ʰ,8
+Dhaka,consonant,d,6
+Dhaka,consonant,d̪̤,6
+Dhaka,consonant,j,6
+Dhaka,consonant,t,6
+Dhaka,consonant,tʰ,6
+Dhaka,consonant,w,6
+Dhaka,consonant,ɖ,6
+Dhaka,consonant,ɖ̤,6
+Dhaka,consonant,ɡ̤,6
+Dhaka,consonant,ɽ,6
+Dhaka,consonant,ɾ,6
+Dhaka,consonant,ʈ,6
+Dhaka,consonant,ʈʰ,6
+Dhaka,consonant,d̠ʒ,4
+Dhaka,consonant,d̠ʒ̤,4
+Dhaka,consonant,d̤,4
+Dhaka,consonant,r,4
+Dhaka,consonant,t̠ʃ,4
+Dhaka,consonant,t̠ʃʰ,4
+Dhaka,consonant,ç,4
+Dhaka,consonant,ɡʱ,4
+Dhaka,consonant,ɽ̤,4
+Dhaka,consonant,ʃ,4
+Dhaka,consonant,bʱ,2
+Dhaka,consonant,bʱː,2
+Dhaka,consonant,bː,2
+Dhaka,consonant,c,2
+Dhaka,consonant,cç,2
+Dhaka,consonant,cçʰ,2
+Dhaka,consonant,cʰ,2
+Dhaka,consonant,dʑ,2
+Dhaka,consonant,dʑʱ,2
+Dhaka,consonant,dʑʱː,2
+Dhaka,consonant,dʑː,2
+Dhaka,consonant,dʱ,2
+Dhaka,consonant,dː,2
+Dhaka,consonant,d̪ʱ,2
+Dhaka,consonant,d̪ʱː,2
+Dhaka,consonant,d̪ː,2
+Dhaka,consonant,f,2
+Dhaka,consonant,kʰː,2
+Dhaka,consonant,kː,2
+Dhaka,consonant,lː,2
+Dhaka,consonant,l̤,2
+Dhaka,consonant,mː,2
+Dhaka,consonant,m̤,2
+Dhaka,consonant,nː,2
+Dhaka,consonant,n̤,2
+Dhaka,consonant,pː,2
+Dhaka,consonant,s̪,2
+Dhaka,consonant,tɕ,2
+Dhaka,consonant,tɕʰ,2
+Dhaka,consonant,tɕʰː,2
+Dhaka,consonant,tɕː,2
+Dhaka,consonant,tʰː,2
+Dhaka,consonant,tː,2
+Dhaka,consonant,t̪ʰː,2
+Dhaka,consonant,t̪ː,2
+Dhaka,consonant,ɕ,2
+Dhaka,consonant,ɟ,2
+Dhaka,consonant,ɟʝ,2
+Dhaka,consonant,ɟ̤,2
+Dhaka,consonant,ɟ̤ʝ,2
+Dhaka,consonant,ɡː,2
+Dhaka,consonant,ɦ,2
+Dhaka,consonant,ɹ,2
+Dhaka,consonant,ɾ̤,2
+Dhaka,consonant,ʃː,2
+Dhaka,vowel,o,10
+Dhaka,vowel,ɔ,10
+Dhaka,vowel,a,8
+Dhaka,vowel,æ,8
+Dhaka,vowel,e̞,6
+Dhaka,vowel,ẽ̞,6
+Dhaka,vowel,i,6
+Dhaka,vowel,õ,6
+Dhaka,vowel,u,6
+Dhaka,vowel,æ̃,6
+Dhaka,vowel,ɔ̃,6
+Dhaka,vowel,ɪ̃,6
+Dhaka,vowel,ʊ̃,6
+Dhaka,vowel,ã,4
+Dhaka,vowel,e,4
+Dhaka,vowel,ɑ̃,4
+Dhaka,vowel,ɪ,4
+Dhaka,vowel,ʊ,4
+Dhaka,vowel,ae,2
+Dhaka,vowel,ai,2
+Dhaka,vowel,ao,2
+Dhaka,vowel,au,2
+Dhaka,vowel,ei,2
+Dhaka,vowel,eu,2
+Dhaka,vowel,e̯,2
+Dhaka,vowel,iu,2
+Dhaka,vowel,ĩ,2
+Dhaka,vowel,oe,2
+Dhaka,vowel,oi,2
+Dhaka,vowel,oo,2
+Dhaka,vowel,ou,2
+Dhaka,vowel,o̞,2
+Dhaka,vowel,õ̞,2
+Dhaka,vowel,o̯,2
+Dhaka,vowel,ui,2
+Dhaka,vowel,ũ,2
+Dhaka,vowel,ũː,2
+Dhaka,vowel,æi̯,2
+Dhaka,vowel,æ̞̃,2
+Dhaka,vowel,ɑ,2
+Dhaka,vowel,ɑi̯,2
+Dhaka,vowel,ɔe,2
+Dhaka,vowel,ɔi̯,2
+Dhaka,vowel,ɔo,2
+Dhaka,vowel,ɛ,2
+Dhaka,vowel,ɛe,2
+Dhaka,vowel,ɛo,2
+Dhaka,vowel,ɛ̃,2
+Eastern Region,consonant,h,13
+Eastern Region,consonant,j,13
+Eastern Region,consonant,k,13
+Eastern Region,consonant,kʰ,13
+Eastern Region,consonant,m,13
+Eastern Region,consonant,p,13
+Eastern Region,consonant,pʰ,13
+Eastern Region,consonant,w,13
+Eastern Region,consonant,ŋ,13
+Eastern Region,consonant,l,11
+Eastern Region,consonant,r,11
+Eastern Region,consonant,s,11
+Eastern Region,consonant,n,10
+Eastern Region,consonant,ts,10
+Eastern Region,consonant,tsʰ,10
+Eastern Region,consonant,ɡ,9
+Eastern Region,consonant,b,8
+Eastern Region,consonant,ʈ,8
+Eastern Region,consonant,ʈʰ,8
+Eastern Region,consonant,t,7
+Eastern Region,consonant,tʰ,7
+Eastern Region,consonant,d,6
+Eastern Region,consonant,dz,6
+Eastern Region,consonant,t̪,6
+Eastern Region,consonant,t̪ʰ,6
+Eastern Region,consonant,ɖ,6
+Eastern Region,consonant,l̥,5
+Eastern Region,consonant,r̥,5
+Eastern Region,consonant,c,4
+Eastern Region,consonant,cʰ,4
+Eastern Region,consonant,d̪,4
+Eastern Region,consonant,ɟ,4
+Eastern Region,consonant,b̤,3
+Eastern Region,consonant,d̤z̤,3
+Eastern Region,consonant,n̪,3
+Eastern Region,consonant,ɡ̤,3
+Eastern Region,consonant,ɲ,3
+Eastern Region,consonant,ʔ,3
+Eastern Region,consonant,bʱ,2
+Eastern Region,consonant,dzʱ,2
+Eastern Region,consonant,dʱ,2
+Eastern Region,consonant,d̠ʒ,2
+Eastern Region,consonant,d̤,2
+Eastern Region,consonant,j̊,2
+Eastern Region,consonant,l̪,2
+Eastern Region,consonant,m̥,2
+Eastern Region,consonant,n̥,2
+Eastern Region,consonant,r̪,2
+Eastern Region,consonant,sʰ,2
+Eastern Region,consonant,s̪,2
+Eastern Region,consonant,ts͇,2
+Eastern Region,consonant,ts͇ʰ,2
+Eastern Region,consonant,t̠ʃ,2
+Eastern Region,consonant,t̠ʃʰ,2
+Eastern Region,consonant,t̪s̪,2
+Eastern Region,consonant,t̪s̪ʰ,2
+Eastern Region,consonant,ŋ̊,2
+Eastern Region,consonant,ɖ̤,2
+Eastern Region,consonant,ɡʱ,2
+Eastern Region,consonant,ʃ,2
+Eastern Region,consonant,ʍ,2
+Eastern Region,consonant,d̪̤,1
+Eastern Region,consonant,d̺,1
+Eastern Region,consonant,d̺̤,1
+Eastern Region,consonant,l̤,1
+Eastern Region,consonant,m̤,1
+Eastern Region,consonant,n̩,1
+Eastern Region,consonant,n̪̤,1
+Eastern Region,consonant,rʱ,1
+Eastern Region,consonant,r̤,1
+Eastern Region,consonant,tɕ,1
+Eastern Region,consonant,tɕʰ,1
+Eastern Region,consonant,t̺,1
+Eastern Region,consonant,t̺ʰ,1
+Eastern Region,consonant,z,1
+Eastern Region,consonant,ŋ̤,1
+Eastern Region,consonant,ɕ,1
+Eastern Region,consonant,ɖʱ,1
+Eastern Region,vowel,e,13
+Eastern Region,vowel,i,13
+Eastern Region,vowel,o,13
+Eastern Region,vowel,u,13
+Eastern Region,vowel,a,12
+Eastern Region,vowel,aː,6
+Eastern Region,vowel,eː,6
+Eastern Region,vowel,iː,6
+Eastern Region,vowel,oː,6
+Eastern Region,vowel,uː,6
+Eastern Region,vowel,ai,5
+Eastern Region,vowel,au,5
+Eastern Region,vowel,oi,5
+Eastern Region,vowel,a̤,3
+Eastern Region,vowel,ei,3
+Eastern Region,vowel,eu,3
+Eastern Region,vowel,e̤,3
+Eastern Region,vowel,ĩ,3
+Eastern Region,vowel,i̤,3
+Eastern Region,vowel,o̤,3
+Eastern Region,vowel,ui,3
+Eastern Region,vowel,ṳ,3
+Eastern Region,vowel,ʌ,3
+Eastern Region,vowel,ẽ,2
+Eastern Region,vowel,i̯a,2
+Eastern Region,vowel,i̯ai,2
+Eastern Region,vowel,i̯au,2
+Eastern Region,vowel,i̯aː,2
+Eastern Region,vowel,i̯o,2
+Eastern Region,vowel,i̯oi,2
+Eastern Region,vowel,i̯oː,2
+Eastern Region,vowel,i̯u,2
+Eastern Region,vowel,i̯uaː,2
+Eastern Region,vowel,i̯ui,2
+Eastern Region,vowel,i̯uː,2
+Eastern Region,vowel,ũ,2
+Eastern Region,vowel,u̯a,2
+Eastern Region,vowel,u̯ai,2
+Eastern Region,vowel,u̯aː,2
+Eastern Region,vowel,u̯i,2
+Eastern Region,vowel,y,2
+Eastern Region,vowel,ɔ,2
+Eastern Region,vowel,ã,1
+Eastern Region,vowel,iu,1
+Eastern Region,vowel,ou,1
+Eastern Region,vowel,õ,1
+Eastern Region,vowel,ũĩ,1
+Eastern Region,vowel,yː,1
+Eastern Region,vowel,æ,1
+Eastern Region,vowel,æ̃,1
+Eastern Region,vowel,ø,1
+Eastern Region,vowel,øː,1
+Eastern Region,vowel,ɑ,1
+Eastern Region,vowel,ɑ̤,1
+Eastern Region,vowel,ɔ̃,1
+Eastern Region,vowel,ə,1
+Eastern Region,vowel,əi,1
+Eastern Region,vowel,əː,1
+Eastern Region,vowel,ɛ,1
+Eastern Region,vowel,ɛ̃,1
+Eastern Region,vowel,ɯ,1
+Eastern Region,vowel,ʌ̃,1
+Federally Administered Tribal Areas,consonant,b,14
+Federally Administered Tribal Areas,consonant,j,14
+Federally Administered Tribal Areas,consonant,m,14
+Federally Administered Tribal Areas,consonant,s,14
+Federally Administered Tribal Areas,consonant,w,14
+Federally Administered Tribal Areas,consonant,z,14
+Federally Administered Tribal Areas,consonant,ɖ,14
+Federally Administered Tribal Areas,consonant,ɡ,14
+Federally Administered Tribal Areas,consonant,ʃ,14
+Federally Administered Tribal Areas,consonant,ʒ,13
+Federally Administered Tribal Areas,consonant,d̪,11
+Federally Administered Tribal Areas,consonant,h,11
+Federally Administered Tribal Areas,consonant,n,11
+Federally Administered Tribal Areas,consonant,dz,9
+Federally Administered Tribal Areas,consonant,ʂ,9
+Federally Administered Tribal Areas,consonant,ʐ,9
+Federally Administered Tribal Areas,consonant,d̠ʒ,8
+Federally Administered Tribal Areas,consonant,kʰ,8
+Federally Administered Tribal Areas,consonant,pʰ,8
+Federally Administered Tribal Areas,consonant,t̠ʃʰ,8
+Federally Administered Tribal Areas,consonant,t̪ʰ,8
+Federally Administered Tribal Areas,consonant,x,8
+Federally Administered Tribal Areas,consonant,ɣ,8
+Federally Administered Tribal Areas,consonant,ɽ,8
+Federally Administered Tribal Areas,consonant,ɽ̃,8
+Federally Administered Tribal Areas,consonant,ʈʰ,8
+Federally Administered Tribal Areas,consonant,f,6
+Federally Administered Tribal Areas,consonant,k,6
+Federally Administered Tribal Areas,consonant,p,6
+Federally Administered Tribal Areas,consonant,r,6
+Federally Administered Tribal Areas,consonant,tsʰ,6
+Federally Administered Tribal Areas,consonant,t̠ʃ,6
+Federally Administered Tribal Areas,consonant,ɳ,6
+Federally Administered Tribal Areas,consonant,ʁ,6
+Federally Administered Tribal Areas,consonant,ʈ,6
+Federally Administered Tribal Areas,consonant,β,6
+Federally Administered Tribal Areas,consonant,χ,6
+Federally Administered Tribal Areas,consonant,d,3
+Federally Administered Tribal Areas,consonant,d̪z̪,3
+Federally Administered Tribal Areas,consonant,l,3
+Federally Administered Tribal Areas,consonant,l̠,3
+Federally Administered Tribal Areas,consonant,n̪,3
+Federally Administered Tribal Areas,consonant,r̠,3
+Federally Administered Tribal Areas,consonant,t,3
+Federally Administered Tribal Areas,consonant,ts,3
+Federally Administered Tribal Areas,consonant,t̪,3
+Federally Administered Tribal Areas,consonant,t̪s̪,3
+Federally Administered Tribal Areas,consonant,ɺ̠,3
+Federally Administered Tribal Areas,consonant,ç,1
+Federally Administered Tribal Areas,consonant,ʝ,1
+Federally Administered Tribal Areas,vowel,a,14
+Federally Administered Tribal Areas,vowel,ə,14
+Federally Administered Tribal Areas,vowel,eː,8
+Federally Administered Tribal Areas,vowel,ɑː,8
+Federally Administered Tribal Areas,vowel,ɪ,8
+Federally Administered Tribal Areas,vowel,e̞ː,6
+Federally Administered Tribal Areas,vowel,i,6
+Federally Administered Tribal Areas,vowel,o̞ː,6
+Federally Administered Tribal Areas,vowel,u,6
+Federally Administered Tribal Areas,vowel,œː,6
+Federally Administered Tribal Areas,vowel,ɒː,3
+Federally Administered Tribal Areas,vowel,ɔː,3
+Federally Administered Tribal Areas,vowel,aː,2
+Federally Administered Tribal Areas,vowel,iː,2
+Federally Administered Tribal Areas,vowel,oː,2
+Federally Administered Tribal Areas,vowel,uː,2
+Federally Administered Tribal Areas,vowel,ɛ,2
+Federally Administered Tribal Areas,vowel,ʊ,2
+Gilgit-Baltistan,consonant,b,10
+Gilgit-Baltistan,consonant,f,10
+Gilgit-Baltistan,consonant,h,10
+Gilgit-Baltistan,consonant,j,10
+Gilgit-Baltistan,consonant,k,10
+Gilgit-Baltistan,consonant,kʰ,10
+Gilgit-Baltistan,consonant,m,10
+Gilgit-Baltistan,consonant,p,10
+Gilgit-Baltistan,consonant,pʰ,10
+Gilgit-Baltistan,consonant,q,10
+Gilgit-Baltistan,consonant,qʰ,10
+Gilgit-Baltistan,consonant,w,10
+Gilgit-Baltistan,consonant,ŋ,10
+Gilgit-Baltistan,consonant,ɖ,10
+Gilgit-Baltistan,consonant,ɖʐ,10
+Gilgit-Baltistan,consonant,ɡ,10
+Gilgit-Baltistan,consonant,ʂ,10
+Gilgit-Baltistan,consonant,ʈ,10
+Gilgit-Baltistan,consonant,ʈʂ,10
+Gilgit-Baltistan,consonant,ʈʂʰ,10
+Gilgit-Baltistan,consonant,ʈʰ,10
+Gilgit-Baltistan,consonant,d,8
+Gilgit-Baltistan,consonant,l,8
+Gilgit-Baltistan,consonant,n,8
+Gilgit-Baltistan,consonant,r,8
+Gilgit-Baltistan,consonant,s,8
+Gilgit-Baltistan,consonant,t,8
+Gilgit-Baltistan,consonant,ts,8
+Gilgit-Baltistan,consonant,tsʰ,8
+Gilgit-Baltistan,consonant,tʰ,8
+Gilgit-Baltistan,consonant,z,8
+Gilgit-Baltistan,consonant,dʑ,6
+Gilgit-Baltistan,consonant,tɕ,6
+Gilgit-Baltistan,consonant,tɕʰ,6
+Gilgit-Baltistan,consonant,x,6
+Gilgit-Baltistan,consonant,ɕ,6
+Gilgit-Baltistan,consonant,ʁ,6
+Gilgit-Baltistan,consonant,d̠ʒ,4
+Gilgit-Baltistan,consonant,t̠ʃ,4
+Gilgit-Baltistan,consonant,t̠ʃʰ,4
+Gilgit-Baltistan,consonant,ɢ,4
+Gilgit-Baltistan,consonant,ʃ,4
+Gilgit-Baltistan,consonant,ʐʲ,4
+Gilgit-Baltistan,consonant,ʐ͇,4
+Gilgit-Baltistan,consonant,χ,4
+Gilgit-Baltistan,consonant,R̪|R,2
+Gilgit-Baltistan,consonant,d̪|d,2
+Gilgit-Baltistan,consonant,l̪|l,2
+Gilgit-Baltistan,consonant,n̪|n,2
+Gilgit-Baltistan,consonant,s̪|s,2
+Gilgit-Baltistan,consonant,t̪s̪|ts,2
+Gilgit-Baltistan,consonant,t̪s̪ʰ|tsʰ,2
+Gilgit-Baltistan,consonant,t̪|t,2
+Gilgit-Baltistan,consonant,t̪ʰ|tʰ,2
+Gilgit-Baltistan,consonant,z̪|z,2
+Gilgit-Baltistan,consonant,ɬ,2
+Gilgit-Baltistan,tone,˥˦,2
+Gilgit-Baltistan,tone,˧,2
+Gilgit-Baltistan,tone,˩˨,2
+Gilgit-Baltistan,vowel,i,10
+Gilgit-Baltistan,vowel,u,10
+Gilgit-Baltistan,vowel,iː,8
+Gilgit-Baltistan,vowel,uː,8
+Gilgit-Baltistan,vowel,äː,6
+Gilgit-Baltistan,vowel,o,6
+Gilgit-Baltistan,vowel,oː,6
+Gilgit-Baltistan,vowel,ɛ,6
+Gilgit-Baltistan,vowel,ɛː,6
+Gilgit-Baltistan,vowel,ʌ,6
+Gilgit-Baltistan,vowel,a,4
+Gilgit-Baltistan,vowel,e̞,4
+Gilgit-Baltistan,vowel,o̞,4
+Gilgit-Baltistan,vowel,ũː,4
+Gilgit-Baltistan,vowel,aː,2
+Gilgit-Baltistan,vowel,ãː,2
+Gilgit-Baltistan,vowel,ã̈ː,2
+Gilgit-Baltistan,vowel,e̞ː,2
+Gilgit-Baltistan,vowel,ĩ,2
+Gilgit-Baltistan,vowel,ĩː,2
+Gilgit-Baltistan,vowel,õ,2
+Gilgit-Baltistan,vowel,õː,2
+Gilgit-Baltistan,vowel,o̞ː,2
+Gilgit-Baltistan,vowel,ũ,2
+Gilgit-Baltistan,vowel,æ,2
+Gilgit-Baltistan,vowel,ɛ̃,2
+Gilgit-Baltistan,vowel,ɛ̃ː,2
+Gilgit-Baltistan,vowel,ʌ̃,2
+Gorno-Badakhshan,consonant,b,1
+Gorno-Badakhshan,consonant,d,1
+Gorno-Badakhshan,consonant,dz,1
+Gorno-Badakhshan,consonant,d̠ʒ,1
+Gorno-Badakhshan,consonant,f,1
+Gorno-Badakhshan,consonant,j,1
+Gorno-Badakhshan,consonant,k,1
+Gorno-Badakhshan,consonant,l̥,1
+Gorno-Badakhshan,consonant,m,1
+Gorno-Badakhshan,consonant,n,1
+Gorno-Badakhshan,consonant,p,1
+Gorno-Badakhshan,consonant,q,1
+Gorno-Badakhshan,consonant,r,1
+Gorno-Badakhshan,consonant,s,1
+Gorno-Badakhshan,consonant,t,1
+Gorno-Badakhshan,consonant,ts,1
+Gorno-Badakhshan,consonant,t̠ʃ,1
+Gorno-Badakhshan,consonant,v,1
+Gorno-Badakhshan,consonant,w,1
+Gorno-Badakhshan,consonant,x,1
+Gorno-Badakhshan,consonant,z,1
+Gorno-Badakhshan,consonant,ç,1
+Gorno-Badakhshan,consonant,ð,1
+Gorno-Badakhshan,consonant,ɖ,1
+Gorno-Badakhshan,consonant,ɖʐ,1
+Gorno-Badakhshan,consonant,ɡ,1
+Gorno-Badakhshan,consonant,ɣ,1
+Gorno-Badakhshan,consonant,ɭ̥,1
+Gorno-Badakhshan,consonant,ɽ̊,1
+Gorno-Badakhshan,consonant,ʁ,1
+Gorno-Badakhshan,consonant,ʂ,1
+Gorno-Badakhshan,consonant,ʃ,1
+Gorno-Badakhshan,consonant,ʈ,1
+Gorno-Badakhshan,consonant,ʈʂ,1
+Gorno-Badakhshan,consonant,ʐ,1
+Gorno-Badakhshan,consonant,ʒ,1
+Gorno-Badakhshan,consonant,θ,1
+Gorno-Badakhshan,consonant,χ,1
+Gorno-Badakhshan,vowel,ä,1
+Gorno-Badakhshan,vowel,äː,1
+Gorno-Badakhshan,vowel,iː,1
+Gorno-Badakhshan,vowel,o,1
+Gorno-Badakhshan,vowel,u̞,1
+Gorno-Badakhshan,vowel,u̞ː,1
+Gorno-Badakhshan,vowel,ɔː,1
+Gorno-Badakhshan,vowel,ɜ̹,1
+Gorno-Badakhshan,vowel,ɜ̹ː,1
+Gorno-Badakhshan,vowel,ɨ̹,1
+Gorno-Badakhshan,vowel,ɨ̹ː,1
+Gorno-Badakhshan,vowel,ɪ,1
+Gujarat,consonant,b,4
+Gujarat,consonant,b̤,4
+Gujarat,consonant,d̪,4
+Gujarat,consonant,d̪̤,4
+Gujarat,consonant,j,4
+Gujarat,consonant,k,4
+Gujarat,consonant,kʰ,4
+Gujarat,consonant,l,4
+Gujarat,consonant,m,4
+Gujarat,consonant,p,4
+Gujarat,consonant,s,4
+Gujarat,consonant,t̪,4
+Gujarat,consonant,t̪ʰ,4
+Gujarat,consonant,ɖ,4
+Gujarat,consonant,ɖ̤,4
+Gujarat,consonant,ɡ,4
+Gujarat,consonant,ɾ,4
+Gujarat,consonant,ʈ,4
+Gujarat,consonant,ʈʰ,4
+Gujarat,consonant,h,3
+Gujarat,consonant,pʰ,3
+Gujarat,consonant,ɭ,3
+Gujarat,consonant,cç,2
+Gujarat,consonant,d̠ʒ,2
+Gujarat,consonant,d̠̤ʒ̤,2
+Gujarat,consonant,n,2
+Gujarat,consonant,n̪,2
+Gujarat,consonant,t̠ʃ,2
+Gujarat,consonant,w,2
+Gujarat,consonant,ç,2
+Gujarat,consonant,ɟʝ,2
+Gujarat,consonant,ɟ̤ʝ,2
+Gujarat,consonant,ɡ̤,2
+Gujarat,consonant,ɦ,2
+Gujarat,consonant,ɳ,2
+Gujarat,consonant,ʋ,2
+Gujarat,consonant,cçʰ,1
+Gujarat,consonant,dz,1
+Gujarat,consonant,f,1
+Gujarat,consonant,l̤,1
+Gujarat,consonant,m̤,1
+Gujarat,consonant,n̪̤,1
+Gujarat,consonant,ts,1
+Gujarat,consonant,t̠ʃʰ,1
+Gujarat,consonant,v,1
+Gujarat,consonant,ŋ,1
+Gujarat,consonant,ɡʱ,1
+Gujarat,consonant,ɲ,1
+Gujarat,consonant,ɺ,1
+Gujarat,consonant,ɽ,1
+Gujarat,consonant,ʂ,1
+Gujarat,consonant,ʃ,1
+Gujarat,vowel,i,4
+Gujarat,vowel,o,4
+Gujarat,vowel,u,4
+Gujarat,vowel,ũː,4
+Gujarat,vowel,ə,4
+Gujarat,vowel,ɛ,4
+Gujarat,vowel,e,3
+Gujarat,vowel,õ,3
+Gujarat,vowel,a,2
+Gujarat,vowel,ä,2
+Gujarat,vowel,ẽ̞,2
+Gujarat,vowel,iː,2
+Gujarat,vowel,ĩː,2
+Gujarat,vowel,oː,2
+Gujarat,vowel,õː,2
+Gujarat,vowel,uː,2
+Gujarat,vowel,ũ,2
+Gujarat,vowel,ɔ,2
+Gujarat,vowel,ɔ̤,2
+Gujarat,vowel,ə̤,2
+Gujarat,vowel,ɛ̤,2
+Gujarat,vowel,aː,1
+Gujarat,vowel,aˑ,1
+Gujarat,vowel,ã,1
+Gujarat,vowel,ã̈,1
+Gujarat,vowel,ã̈ː,1
+Gujarat,vowel,ã̤̈ː,1
+Gujarat,vowel,ä̤,1
+Gujarat,vowel,eː,1
+Gujarat,vowel,eˑ,1
+Gujarat,vowel,ẽ,1
+Gujarat,vowel,e̤,1
+Gujarat,vowel,iˑ,1
+Gujarat,vowel,ĩ,1
+Gujarat,vowel,i̤,1
+Gujarat,vowel,i̤ː,1
+Gujarat,vowel,ĩ̤ː,1
+Gujarat,vowel,oˑ,1
+Gujarat,vowel,o̤,1
+Gujarat,vowel,uˑ,1
+Gujarat,vowel,ṳ,1
+Gujarat,vowel,ṳː,1
+Gujarat,vowel,ṳ̃ː,1
+Gujarat,vowel,æ,1
+Gujarat,vowel,ɑ̃,1
+Gujarat,vowel,ɑ̤,1
+Gujarat,vowel,ɔ̃ː,1
+Gujarat,vowel,ɔ̤̃ː,1
+Gujarat,vowel,əː,1
+Gujarat,vowel,əˑ,1
+Gujarat,vowel,ə̃,1
+Gujarat,vowel,ə̃ː,1
+Gujarat,vowel,ə̤̃ː,1
+Gujarat,vowel,ɛː,1
+Gujarat,vowel,ɛ̃ː,1
+Gujarat,vowel,ɛ̤̃ː,1
+Gujarat,vowel,ɨ,1
+Gujarat,vowel,ɨː,1
+Gujarat,vowel,ɨˑ,1
+Gujarat,vowel,ɪ,1
+Gujarat,vowel,ʊ,1
+Gujarat,vowel,ʊ̃,1
+Haryana,consonant,b,1
+Haryana,consonant,bʱ,1
+Haryana,consonant,d̠ʒ,1
+Haryana,consonant,d̠ʒʱ,1
+Haryana,consonant,d̪,1
+Haryana,consonant,d̪ʱ,1
+Haryana,consonant,h,1
+Haryana,consonant,j,1
+Haryana,consonant,k,1
+Haryana,consonant,kʰ,1
+Haryana,consonant,l̪,1
+Haryana,consonant,m,1
+Haryana,consonant,n̪,1
+Haryana,consonant,p,1
+Haryana,consonant,pʰ,1
+Haryana,consonant,r̪,1
+Haryana,consonant,s̪,1
+Haryana,consonant,t̠ʃ,1
+Haryana,consonant,t̠ʃʰ,1
+Haryana,consonant,t̪,1
+Haryana,consonant,t̪ʰ,1
+Haryana,consonant,w,1
+Haryana,consonant,ɖ,1
+Haryana,consonant,ɖʱ,1
+Haryana,consonant,ɡ,1
+Haryana,consonant,ɡʱ,1
+Haryana,consonant,ɳ,1
+Haryana,consonant,ɽ,1
+Haryana,consonant,ʈ,1
+Haryana,consonant,ʈʰ,1
+Haryana,vowel,a,1
+Haryana,vowel,ã,1
+Haryana,vowel,e,1
+Haryana,vowel,ẽ,1
+Haryana,vowel,i,1
+Haryana,vowel,ĩ,1
+Haryana,vowel,o,1
+Haryana,vowel,õ,1
+Haryana,vowel,u,1
+Haryana,vowel,ũ,1
+Haryana,vowel,ɔ,1
+Haryana,vowel,ɔ̃,1
+Haryana,vowel,ə,1
+Haryana,vowel,ə̃,1
+Haryana,vowel,ɛ,1
+Haryana,vowel,ɛ̃,1
+Haryana,vowel,ɪ,1
+Haryana,vowel,ɪ̃,1
+Haryana,vowel,ʊ,1
+Haryana,vowel,ʊ̃,1
+Himachal Pradesh,consonant,b,5
+Himachal Pradesh,consonant,j,5
+Himachal Pradesh,consonant,k,5
+Himachal Pradesh,consonant,kʰ,5
+Himachal Pradesh,consonant,p,5
+Himachal Pradesh,consonant,pʰ,5
+Himachal Pradesh,consonant,r,5
+Himachal Pradesh,consonant,w,5
+Himachal Pradesh,consonant,ŋ,5
+Himachal Pradesh,consonant,ɖ,5
+Himachal Pradesh,consonant,ɡ,5
+Himachal Pradesh,consonant,ʈ,5
+Himachal Pradesh,consonant,ʈʰ,5
+Himachal Pradesh,consonant,d̪,4
+Himachal Pradesh,consonant,l,4
+Himachal Pradesh,consonant,m,4
+Himachal Pradesh,consonant,n,4
+Himachal Pradesh,consonant,t̪,4
+Himachal Pradesh,consonant,t̪ʰ,4
+Himachal Pradesh,consonant,ɲ,4
+Himachal Pradesh,consonant,h,3
+Himachal Pradesh,consonant,s,3
+Himachal Pradesh,consonant,z,3
+Himachal Pradesh,consonant,ɭ,3
+Himachal Pradesh,consonant,ɳ,3
+Himachal Pradesh,consonant,ɽ,3
+Himachal Pradesh,consonant,ʂ,3
+Himachal Pradesh,consonant,c,2
+Himachal Pradesh,consonant,cç,2
+Himachal Pradesh,consonant,cçʰ,2
+Himachal Pradesh,consonant,dz,2
+Himachal Pradesh,consonant,d̪̤,2
+Himachal Pradesh,consonant,ts,2
+Himachal Pradesh,consonant,tsʰ,2
+Himachal Pradesh,consonant,ɟ,2
+Himachal Pradesh,consonant,ɟʝ,2
+Himachal Pradesh,consonant,ʃ,2
+Himachal Pradesh,consonant,ʒ,2
+Himachal Pradesh,consonant,b̤,1
+Himachal Pradesh,consonant,cʰ,1
+Himachal Pradesh,consonant,c̤,1
+Himachal Pradesh,consonant,d,1
+Himachal Pradesh,consonant,dʑ,1
+Himachal Pradesh,consonant,d̠ʒ,1
+Himachal Pradesh,consonant,f,1
+Himachal Pradesh,consonant,l̤,1
+Himachal Pradesh,consonant,l̪,1
+Himachal Pradesh,consonant,m̤,1
+Himachal Pradesh,consonant,n̤,1
+Himachal Pradesh,consonant,n̪,1
+Himachal Pradesh,consonant,r̤,1
+Himachal Pradesh,consonant,s̪,1
+Himachal Pradesh,consonant,t,1
+Himachal Pradesh,consonant,tɕ,1
+Himachal Pradesh,consonant,tɕʰ,1
+Himachal Pradesh,consonant,tʰ,1
+Himachal Pradesh,consonant,t̠ʃ,1
+Himachal Pradesh,consonant,t̠ʃʰ,1
+Himachal Pradesh,consonant,v,1
+Himachal Pradesh,consonant,z̪,1
+Himachal Pradesh,consonant,ç,1
+Himachal Pradesh,consonant,ɖ̤,1
+Himachal Pradesh,consonant,ɟ̤,1
+Himachal Pradesh,consonant,ɡ̤,1
+Himachal Pradesh,consonant,ɽ̃,1
+Himachal Pradesh,consonant,ɽ̤,1
+Himachal Pradesh,consonant,ɽ̩,1
+Himachal Pradesh,consonant,ʐ,1
+Himachal Pradesh,vowel,e,5
+Himachal Pradesh,vowel,o,5
+Himachal Pradesh,vowel,i,4
+Himachal Pradesh,vowel,u,4
+Himachal Pradesh,vowel,a,3
+Himachal Pradesh,vowel,ə,3
+Himachal Pradesh,vowel,aː,2
+Himachal Pradesh,vowel,iː,2
+Himachal Pradesh,vowel,uː,2
+Himachal Pradesh,vowel,ɔ,2
+Himachal Pradesh,vowel,eː,1
+Himachal Pradesh,vowel,oː,1
+Himachal Pradesh,vowel,æ,1
+Himachal Pradesh,vowel,æː,1
+Himachal Pradesh,vowel,ɐ,1
+Himachal Pradesh,vowel,ɑ,1
+Himachal Pradesh,vowel,ɔː,1
+Himachal Pradesh,vowel,ɘ,1
+Himachal Pradesh,vowel,ɛ,1
+Himachal Pradesh,vowel,ɛː,1
+Himachal Pradesh,vowel,ɜ,1
+Himachal Pradesh,vowel,ɨ,1
+Himachal Pradesh,vowel,ɪ,1
+Himachal Pradesh,vowel,ʊ,1
+Jharkhand,consonant,k,34
+Jharkhand,consonant,m,34
+Jharkhand,consonant,p,34
+Jharkhand,consonant,ʈ,34
+Jharkhand,consonant,b,31
+Jharkhand,consonant,j,31
+Jharkhand,consonant,w,31
+Jharkhand,consonant,ɡ,31
+Jharkhand,consonant,ɖ,29
+Jharkhand,consonant,ŋ,28
+Jharkhand,consonant,ʔ,28
+Jharkhand,consonant,kʰ,25
+Jharkhand,consonant,ʈʰ,25
+Jharkhand,consonant,s,24
+Jharkhand,consonant,b̤,23
+Jharkhand,consonant,ɖ̤,23
+Jharkhand,consonant,ɲ,22
+Jharkhand,consonant,ɳ,22
+Jharkhand,consonant,ɽ,22
+Jharkhand,consonant,l,21
+Jharkhand,consonant,pʰ,21
+Jharkhand,consonant,h,20
+Jharkhand,consonant,d̪,18
+Jharkhand,consonant,n,18
+Jharkhand,consonant,t̪,18
+Jharkhand,consonant,r,15
+Jharkhand,consonant,t̪ʰ,15
+Jharkhand,consonant,ɡ̤,15
+Jharkhand,consonant,n̪,14
+Jharkhand,consonant,ɾ,14
+Jharkhand,consonant,d̠ʒ̤,13
+Jharkhand,consonant,d̪̤,13
+Jharkhand,consonant,t,13
+Jharkhand,consonant,t̠ʃ,13
+Jharkhand,consonant,t̠ʃʰ,13
+Jharkhand,consonant,cç,11
+Jharkhand,consonant,ɟʝ,11
+Jharkhand,consonant,d,10
+Jharkhand,consonant,d̠ʒ,10
+Jharkhand,consonant,d̤,10
+Jharkhand,consonant,tʰ,10
+Jharkhand,consonant,ɟ,10
+Jharkhand,consonant,ɡʱ,10
+Jharkhand,consonant,c,8
+Jharkhand,consonant,cçʰ,8
+Jharkhand,consonant,ɦ,8
+Jharkhand,consonant,r̠,6
+Jharkhand,consonant,ɟ̤ʝ,6
+Jharkhand,consonant,ɭ,6
+Jharkhand,consonant,χ,6
+Jharkhand,consonant,l̪,5
+Jharkhand,consonant,l̪|l,5
+Jharkhand,consonant,n̪|n,5
+Jharkhand,consonant,s̪,5
+Jharkhand,consonant,s̪|s,5
+Jharkhand,consonant,ˀb,5
+Jharkhand,consonant,f,4
+Jharkhand,consonant,d̠ʒː,3
+Jharkhand,consonant,d̪|d,3
+Jharkhand,consonant,d̪ː,3
+Jharkhand,consonant,jː,3
+Jharkhand,consonant,kː,3
+Jharkhand,consonant,lː,3
+Jharkhand,consonant,pː,3
+Jharkhand,consonant,rː,3
+Jharkhand,consonant,r̪|r,3
+Jharkhand,consonant,s̪ː,3
+Jharkhand,consonant,t̠ʃː,3
+Jharkhand,consonant,t̪|t,3
+Jharkhand,consonant,t̪ː,3
+Jharkhand,consonant,wː,3
+Jharkhand,consonant,x,3
+Jharkhand,consonant,ŋː,3
+Jharkhand,consonant,ɖː,3
+Jharkhand,consonant,ʈː,3
+Jharkhand,consonant,ˀd,3
+Jharkhand,consonant,ˀd̠ʒ,3
+Jharkhand,consonant,ˀɖ,3
+Jharkhand,consonant,ˀɡ,3
+Jharkhand,consonant,bʱ,2
+Jharkhand,consonant,cʰ,2
+Jharkhand,consonant,d̪ʱ,2
+Jharkhand,consonant,ts,2
+Jharkhand,consonant,tsʰ,2
+Jharkhand,consonant,ɗ,2
+Jharkhand,consonant,ɗʱ,2
+Jharkhand,consonant,ɟʱ,2
+Jharkhand,consonant,ɟ̤,2
+Jharkhand,consonant,ɸ,2
+Jharkhand,consonant,ɽʱ,2
+Jharkhand,consonant,ɽ̤,2
+Jharkhand,consonant,ɾ̪,2
+Jharkhand,consonant,ˀɗ,2
+Jharkhand,consonant,ˀɟ,2
+Jharkhand,vowel,a,29
+Jharkhand,vowel,i,26
+Jharkhand,vowel,u,26
+Jharkhand,vowel,e,20
+Jharkhand,vowel,e̞,18
+Jharkhand,vowel,o,18
+Jharkhand,vowel,o̞,14
+Jharkhand,vowel,õ̞,14
+Jharkhand,vowel,ũː,14
+Jharkhand,vowel,ɪ,14
+Jharkhand,vowel,ʊ,14
+Jharkhand,vowel,ã,11
+Jharkhand,vowel,iː,11
+Jharkhand,vowel,ĩ,11
+Jharkhand,vowel,oː,11
+Jharkhand,vowel,uː,11
+Jharkhand,vowel,ʊ̃,11
+Jharkhand,vowel,aː,9
+Jharkhand,vowel,ẽ̞,9
+Jharkhand,vowel,ə,9
+Jharkhand,vowel,eː,8
+Jharkhand,vowel,ũ,8
+Jharkhand,vowel,æ̞̃,8
+Jharkhand,vowel,ɔ,8
+Jharkhand,vowel,ɪ̃,8
+Jharkhand,vowel,ĩː,6
+Jharkhand,vowel,u̞,6
+Jharkhand,vowel,ʌ,6
+Jharkhand,vowel,ɑ,5
+Jharkhand,vowel,ɛ,5
+Jharkhand,vowel,ãː,3
+Jharkhand,vowel,ẽ,3
+Jharkhand,vowel,e̞ː,3
+Jharkhand,vowel,ẽ̞ː,3
+Jharkhand,vowel,õː,3
+Jharkhand,vowel,o̞ː,3
+Jharkhand,vowel,õ̞ː,3
+Jharkhand,vowel,ɑ̃,3
+Jharkhand,vowel,ɑ̃ː,3
+Jharkhand,vowel,ɔ̃,3
+Jharkhand,vowel,ɔ̃ː,3
+Jharkhand,vowel,əː,3
+Jharkhand,vowel,ə̃,3
+Jharkhand,vowel,ʌ̃,3
+Jharkhand,vowel,ao,2
+Jharkhand,vowel,oi,2
+Jharkhand,vowel,ou,2
+Jharkhand,vowel,õ,2
+Jharkhand,vowel,ui,2
+Jharkhand,vowel,æ,2
+Jharkhand,vowel,ɛ̃,2
+Kachin,consonant,R̪|R,1
+Kachin,consonant,b,1
+Kachin,consonant,d̠ʒ,1
+Kachin,consonant,d̪z̪|dz,1
+Kachin,consonant,d̪|d,1
+Kachin,consonant,h,1
+Kachin,consonant,j,1
+Kachin,consonant,k,1
+Kachin,consonant,kʰ,1
+Kachin,consonant,l̪|l,1
+Kachin,consonant,m,1
+Kachin,consonant,n̪|n,1
+Kachin,consonant,p,1
+Kachin,consonant,pʰ,1
+Kachin,consonant,s̪|s,1
+Kachin,consonant,t̠ʃ,1
+Kachin,consonant,t̠ʃʰ,1
+Kachin,consonant,t̪s̪|ts,1
+Kachin,consonant,t̪|t,1
+Kachin,consonant,t̪ʰ|tʰ,1
+Kachin,consonant,w,1
+Kachin,consonant,ŋ,1
+Kachin,consonant,ɡ,1
+Kachin,consonant,ʃ,1
+Kachin,consonant,ʔ,1
+Kachin,vowel,a,1
+Kachin,vowel,e̞,1
+Kachin,vowel,i,1
+Kachin,vowel,o̞,1
+Kachin,vowel,u,1
+Karnataka,consonant,b,15
+Karnataka,consonant,d̪,15
+Karnataka,consonant,j,15
+Karnataka,consonant,k,15
+Karnataka,consonant,p,15
+Karnataka,consonant,ɡ,15
+Karnataka,consonant,ɳ,15
+Karnataka,consonant,ʈ,15
+Karnataka,consonant,ŋ,14
+Karnataka,consonant,m,13
+Karnataka,consonant,n̪,13
+Karnataka,consonant,t̪,13
+Karnataka,consonant,w,13
+Karnataka,consonant,ɖ,13
+Karnataka,consonant,ɲ,13
+Karnataka,consonant,s,12
+Karnataka,consonant,ɭ,12
+Karnataka,consonant,ʂ,11
+Karnataka,consonant,cç,10
+Karnataka,consonant,l,10
+Karnataka,consonant,ç,9
+Karnataka,consonant,ɟʝ,9
+Karnataka,consonant,h,7
+Karnataka,consonant,n,7
+Karnataka,consonant,r,7
+Karnataka,consonant,l̪,5
+Karnataka,consonant,s̪,5
+Karnataka,consonant,ɾ,5
+Karnataka,consonant,ʃ,5
+Karnataka,consonant,c,4
+Karnataka,consonant,dz,4
+Karnataka,consonant,ts,4
+Karnataka,consonant,x,4
+Karnataka,consonant,ɟ,4
+Karnataka,consonant,r̪,3
+Karnataka,consonant,v,3
+Karnataka,consonant,ɽ,3
+Karnataka,consonant,b̤,2
+Karnataka,consonant,d̠ʒ,2
+Karnataka,consonant,d̪̤,2
+Karnataka,consonant,f,2
+Karnataka,consonant,kʰ,2
+Karnataka,consonant,pʰ,2
+Karnataka,consonant,t̠ʃ,2
+Karnataka,consonant,t̪ʰ,2
+Karnataka,consonant,ɖ̤,2
+Karnataka,consonant,ʈʰ,2
+Karnataka,consonant,ʋ,2
+Karnataka,consonant,cçʰ,1
+Karnataka,consonant,cʰ,1
+Karnataka,consonant,z̪,1
+Karnataka,consonant,ð,1
+Karnataka,consonant,ɟ̤,1
+Karnataka,consonant,ɟ̤ʝ,1
+Karnataka,consonant,ɡʱ,1
+Karnataka,consonant,ɡ̤,1
+Karnataka,vowel,e,15
+Karnataka,vowel,i,15
+Karnataka,vowel,o,15
+Karnataka,vowel,u,15
+Karnataka,vowel,eː,13
+Karnataka,vowel,iː,13
+Karnataka,vowel,oː,13
+Karnataka,vowel,uː,13
+Karnataka,vowel,a,9
+Karnataka,vowel,aː,9
+Karnataka,vowel,ɛ,9
+Karnataka,vowel,ɛː,9
+Karnataka,vowel,ɑ,5
+Karnataka,vowel,ɑː,5
+Karnataka,vowel,ɯ,5
+Karnataka,vowel,ə,4
+Karnataka,vowel,ɨ,4
+Karnataka,vowel,ʌ,3
+Karnataka,vowel,ĩː,2
+Karnataka,vowel,õ̞,2
+Karnataka,vowel,ũ,2
+Karnataka,vowel,ũː,2
+Karnataka,vowel,æ̞̃,2
+Karnataka,vowel,ɐ,2
+Karnataka,vowel,ɔ,2
+Karnataka,vowel,əː,2
+Karnataka,vowel,ɨː,2
+Karnataka,vowel,ɨ̃ː,2
+Karnataka,vowel,ɪ,2
+Karnataka,vowel,ɪ̃,2
+Karnataka,vowel,ɯː,2
+Karnataka,vowel,ʊ,2
+Karnataka,vowel,ʊ̃,2
+Karnataka,vowel,ë,1
+Karnataka,vowel,ëː,1
+Karnataka,vowel,e̞,1
+Karnataka,vowel,u̞,1
+Karnataka,vowel,æ,1
+Kashmir,consonant,b,22
+Kashmir,consonant,j,22
+Kashmir,consonant,k,22
+Kashmir,consonant,p,22
+Kashmir,consonant,pʰ,22
+Kashmir,consonant,ɡ,22
+Kashmir,consonant,kʰ,21
+Kashmir,consonant,m,21
+Kashmir,consonant,w,21
+Kashmir,consonant,l,20
+Kashmir,consonant,s,20
+Kashmir,consonant,ʈ,19
+Kashmir,consonant,n,18
+Kashmir,consonant,r,18
+Kashmir,consonant,ts,18
+Kashmir,consonant,ɖ,18
+Kashmir,consonant,ʈʰ,18
+Kashmir,consonant,d̪,17
+Kashmir,consonant,t̪,17
+Kashmir,consonant,t̪ʰ,17
+Kashmir,consonant,tsʰ,16
+Kashmir,consonant,z,14
+Kashmir,consonant,ŋ,14
+Kashmir,consonant,h,13
+Kashmir,consonant,ç,10
+Kashmir,consonant,ɦ,10
+Kashmir,consonant,cç,9
+Kashmir,consonant,cçʰ,9
+Kashmir,consonant,dz,9
+Kashmir,consonant,ɟʝ,9
+Kashmir,consonant,d,8
+Kashmir,consonant,t,8
+Kashmir,consonant,tʰ,8
+Kashmir,consonant,ɲ,8
+Kashmir,consonant,f,7
+Kashmir,consonant,x,7
+Kashmir,consonant,ɣ,7
+Kashmir,consonant,d̠ʒ,6
+Kashmir,consonant,d̠ʒʲ,6
+Kashmir,consonant,q,6
+Kashmir,consonant,t̠ʃ,6
+Kashmir,consonant,t̠ʃʰ,6
+Kashmir,consonant,t̠ʃʲ,6
+Kashmir,consonant,t̠ʃʲʰ,6
+Kashmir,consonant,ɳ,6
+Kashmir,consonant,ʃ,6
+Kashmir,consonant,ʃʲ,6
+Kashmir,consonant,n̪,5
+Kashmir,consonant,ɭ,5
+Kashmir,consonant,ɽ,5
+Kashmir,consonant,ʂ,5
+Kashmir,consonant,ʝ,5
+Kashmir,consonant,ʒ,4
+Kashmir,consonant,ʐ,3
+Kashmir,consonant,χ,3
+Kashmir,consonant,l̥,2
+Kashmir,consonant,l̪,2
+Kashmir,consonant,s̪,2
+Kashmir,consonant,v,2
+Kashmir,consonant,z̪,2
+Kashmir,consonant,ɡ̙,2
+Kashmir,consonant,ɮ,2
+Kashmir,consonant,ɾ̪,2
+Kashmir,consonant,ʁ,2
+Kashmir,consonant,ʈʂ,2
+Kashmir,consonant,ʈʂʰ,2
+Kashmir,consonant,c,1
+Kashmir,consonant,dʱ,1
+Kashmir,consonant,k̙,1
+Kashmir,consonant,l̤,1
+Kashmir,consonant,r̥,1
+Kashmir,consonant,x̥,1
+Kashmir,consonant,z̥,1
+Kashmir,consonant,ð,1
+Kashmir,consonant,ɖʐ,1
+Kashmir,consonant,ɗ,1
+Kashmir,consonant,ɢ,1
+Kashmir,consonant,ɣ̥,1
+Kashmir,consonant,β,1
+Kashmir,tone,˥,2
+Kashmir,tone,˧,2
+Kashmir,tone,˩,2
+Kashmir,vowel,u,22
+Kashmir,vowel,i,20
+Kashmir,vowel,e,19
+Kashmir,vowel,o,19
+Kashmir,vowel,a,15
+Kashmir,vowel,aː,15
+Kashmir,vowel,iː,15
+Kashmir,vowel,uː,15
+Kashmir,vowel,ə,15
+Kashmir,vowel,eː,12
+Kashmir,vowel,oː,12
+Kashmir,vowel,ĩː,11
+Kashmir,vowel,ũː,10
+Kashmir,vowel,ã,9
+Kashmir,vowel,ũ,9
+Kashmir,vowel,ɨ,9
+Kashmir,vowel,ɨː,9
+Kashmir,vowel,ɨ̃ː,9
+Kashmir,vowel,ãː,8
+Kashmir,vowel,ẽː,8
+Kashmir,vowel,ĩ,8
+Kashmir,vowel,õː,8
+Kashmir,vowel,ɔː,8
+Kashmir,vowel,ɔ,7
+Kashmir,vowel,ẽ,6
+Kashmir,vowel,õ,6
+Kashmir,vowel,əː,6
+Kashmir,vowel,ə̃ː,6
+Kashmir,vowel,ɛ,6
+Kashmir,vowel,ɛː,6
+Kashmir,vowel,õ̞,5
+Kashmir,vowel,æ̞̃,5
+Kashmir,vowel,ɑ̃,5
+Kashmir,vowel,ɔ̃ː,5
+Kashmir,vowel,ə̃,5
+Kashmir,vowel,ɛ̃ː,5
+Kashmir,vowel,ɪ̃,5
+Kashmir,vowel,ɪ,4
+Kashmir,vowel,ɑ̃ː,3
+Kashmir,vowel,ɒ,3
+Kashmir,vowel,ɘ,3
+Kashmir,vowel,ɘː,3
+Kashmir,vowel,ɘ̃ː,3
+Kashmir,vowel,ɜ,3
+Kashmir,vowel,ɜ̃,3
+Kashmir,vowel,ɨ̃,3
+Kashmir,vowel,ɨ̆,3
+Kashmir,vowel,aˑ,2
+Kashmir,vowel,ẽ̞,2
+Kashmir,vowel,iˑ,2
+Kashmir,vowel,oˑ,2
+Kashmir,vowel,uˑ,2
+Kashmir,vowel,æ,2
+Kashmir,vowel,ʊ,2
+Kashmir,vowel,ʊ̃,2
+Kashmir,vowel,eˑ,1
+Kashmir,vowel,e̞,1
+Kashmir,vowel,u̞,1
+Kashmir,vowel,ʌ,1
+Kerala,consonant,b,3
+Kerala,consonant,c,3
+Kerala,consonant,j,3
+Kerala,consonant,k,3
+Kerala,consonant,l,3
+Kerala,consonant,m,3
+Kerala,consonant,n,3
+Kerala,consonant,n̪,3
+Kerala,consonant,p,3
+Kerala,consonant,r,3
+Kerala,consonant,s,3
+Kerala,consonant,t̪,3
+Kerala,consonant,ɖ,3
+Kerala,consonant,ɟ,3
+Kerala,consonant,ɡ,3
+Kerala,consonant,ɭ,3
+Kerala,consonant,ɳ,3
+Kerala,consonant,ʂ,3
+Kerala,consonant,ʈ,3
+Kerala,consonant,d,2
+Kerala,consonant,d̪,2
+Kerala,consonant,h,2
+Kerala,consonant,t,2
+Kerala,consonant,w,2
+Kerala,consonant,ŋ,2
+Kerala,consonant,ɲ,2
+Kerala,consonant,b̤,1
+Kerala,consonant,cʰ,1
+Kerala,consonant,d̤,1
+Kerala,consonant,f,1
+Kerala,consonant,kʰ,1
+Kerala,consonant,l̠˞,1
+Kerala,consonant,pʰ,1
+Kerala,consonant,r̪,1
+Kerala,consonant,tʰ,1
+Kerala,consonant,x,1
+Kerala,consonant,ç,1
+Kerala,consonant,ð,1
+Kerala,consonant,ɖ̤,1
+Kerala,consonant,ɟ̤,1
+Kerala,consonant,ɡ̤,1
+Kerala,consonant,ɣ,1
+Kerala,consonant,ɽ,1
+Kerala,consonant,ɾ,1
+Kerala,consonant,ʃ,1
+Kerala,consonant,ʈʰ,1
+Kerala,consonant,ʋ,1
+Kerala,consonant,ʐ,1
+Kerala,consonant,β,1
+Kerala,vowel,e,3
+Kerala,vowel,i,3
+Kerala,vowel,iː,3
+Kerala,vowel,o,3
+Kerala,vowel,u,3
+Kerala,vowel,uː,3
+Kerala,vowel,a,2
+Kerala,vowel,aː,2
+Kerala,vowel,eː,2
+Kerala,vowel,oː,2
+Kerala,vowel,ʊ,2
+Kerala,vowel,ai,1
+Kerala,vowel,au,1
+Kerala,vowel,ä,1
+Kerala,vowel,ei,1
+Kerala,vowel,ë,1
+Kerala,vowel,e̞,1
+Kerala,vowel,ë̞,1
+Kerala,vowel,ï,1
+Kerala,vowel,oi,1
+Kerala,vowel,üː,1
+Kerala,vowel,u̞,1
+Kerala,vowel,æ,1
+Kerala,vowel,ɑ,1
+Kerala,vowel,ɑ̈,1
+Kerala,vowel,ɑ̈ː,1
+Kerala,vowel,ə,1
+Kerala,vowel,ɛ,1
+Kerala,vowel,ɨ,1
+Kerala,vowel,ɪ,1
+Kerala,vowel,ʌ,1
+Khyber Pakhtunkhwa,consonant,b,2
+Khyber Pakhtunkhwa,consonant,d̪,2
+Khyber Pakhtunkhwa,consonant,j,2
+Khyber Pakhtunkhwa,consonant,k,2
+Khyber Pakhtunkhwa,consonant,m,2
+Khyber Pakhtunkhwa,consonant,n̪,2
+Khyber Pakhtunkhwa,consonant,p,2
+Khyber Pakhtunkhwa,consonant,t̪,2
+Khyber Pakhtunkhwa,consonant,w,2
+Khyber Pakhtunkhwa,consonant,x,2
+Khyber Pakhtunkhwa,consonant,ɖ,2
+Khyber Pakhtunkhwa,consonant,ɡ,2
+Khyber Pakhtunkhwa,consonant,ɣ,2
+Khyber Pakhtunkhwa,consonant,ʂ,2
+Khyber Pakhtunkhwa,consonant,ʈ,2
+Khyber Pakhtunkhwa,consonant,ʈʂ,2
+Khyber Pakhtunkhwa,consonant,ʐ,2
+Khyber Pakhtunkhwa,consonant,bʱ,1
+Khyber Pakhtunkhwa,consonant,d̠ʒ,1
+Khyber Pakhtunkhwa,consonant,d̪ʱ,1
+Khyber Pakhtunkhwa,consonant,f,1
+Khyber Pakhtunkhwa,consonant,h,1
+Khyber Pakhtunkhwa,consonant,kʰ,1
+Khyber Pakhtunkhwa,consonant,l,1
+Khyber Pakhtunkhwa,consonant,l̪,1
+Khyber Pakhtunkhwa,consonant,pʰ,1
+Khyber Pakhtunkhwa,consonant,q,1
+Khyber Pakhtunkhwa,consonant,r,1
+Khyber Pakhtunkhwa,consonant,r̪,1
+Khyber Pakhtunkhwa,consonant,s,1
+Khyber Pakhtunkhwa,consonant,s̪,1
+Khyber Pakhtunkhwa,consonant,ts,1
+Khyber Pakhtunkhwa,consonant,tɕ,1
+Khyber Pakhtunkhwa,consonant,t̠ʃ,1
+Khyber Pakhtunkhwa,consonant,t̠ʃʰ,1
+Khyber Pakhtunkhwa,consonant,t̪s̪,1
+Khyber Pakhtunkhwa,consonant,t̪ʰ,1
+Khyber Pakhtunkhwa,consonant,z,1
+Khyber Pakhtunkhwa,consonant,z̪,1
+Khyber Pakhtunkhwa,consonant,ŋ,1
+Khyber Pakhtunkhwa,consonant,ɕ,1
+Khyber Pakhtunkhwa,consonant,ɖʐ,1
+Khyber Pakhtunkhwa,consonant,ɖʱ,1
+Khyber Pakhtunkhwa,consonant,ɡʱ,1
+Khyber Pakhtunkhwa,consonant,ɰ,1
+Khyber Pakhtunkhwa,consonant,ɳ,1
+Khyber Pakhtunkhwa,consonant,ɽ,1
+Khyber Pakhtunkhwa,consonant,ʃ,1
+Khyber Pakhtunkhwa,consonant,ʈʂʰ,1
+Khyber Pakhtunkhwa,consonant,ʈʰ,1
+Khyber Pakhtunkhwa,consonant,ʑ,1
+Khyber Pakhtunkhwa,vowel,e,2
+Khyber Pakhtunkhwa,vowel,i,2
+Khyber Pakhtunkhwa,vowel,o,2
+Khyber Pakhtunkhwa,vowel,u,2
+Khyber Pakhtunkhwa,vowel,a,1
+Khyber Pakhtunkhwa,vowel,aː,1
+Khyber Pakhtunkhwa,vowel,eː,1
+Khyber Pakhtunkhwa,vowel,ẽ,1
+Khyber Pakhtunkhwa,vowel,iː,1
+Khyber Pakhtunkhwa,vowel,ĩ,1
+Khyber Pakhtunkhwa,vowel,oː,1
+Khyber Pakhtunkhwa,vowel,õ,1
+Khyber Pakhtunkhwa,vowel,uː,1
+Khyber Pakhtunkhwa,vowel,ũ,1
+Khyber Pakhtunkhwa,vowel,æ,1
+Khyber Pakhtunkhwa,vowel,æ̃,1
+Khyber Pakhtunkhwa,vowel,ɑ,1
+Khyber Pakhtunkhwa,vowel,ɑ̃,1
+Khyber Pakhtunkhwa,vowel,ə,1
+Madhya Pradesh,consonant,b,4
+Madhya Pradesh,consonant,b̤,4
+Madhya Pradesh,consonant,j,4
+Madhya Pradesh,consonant,k,4
+Madhya Pradesh,consonant,kʰ,4
+Madhya Pradesh,consonant,l,4
+Madhya Pradesh,consonant,m,4
+Madhya Pradesh,consonant,p,4
+Madhya Pradesh,consonant,pʰ,4
+Madhya Pradesh,consonant,s,4
+Madhya Pradesh,consonant,ɡ,4
+Madhya Pradesh,consonant,ɽ,4
+Madhya Pradesh,consonant,h,3
+Madhya Pradesh,consonant,n,3
+Madhya Pradesh,consonant,r,3
+Madhya Pradesh,consonant,ŋ,3
+Madhya Pradesh,consonant,ɖ,3
+Madhya Pradesh,consonant,ɖ̤,3
+Madhya Pradesh,consonant,ɡʱ,3
+Madhya Pradesh,consonant,ʈ,3
+Madhya Pradesh,consonant,ʈʰ,3
+Madhya Pradesh,consonant,c,2
+Madhya Pradesh,consonant,cç,2
+Madhya Pradesh,consonant,cçʰ,2
+Madhya Pradesh,consonant,d,2
+Madhya Pradesh,consonant,d̤,2
+Madhya Pradesh,consonant,d̪,2
+Madhya Pradesh,consonant,d̪̤,2
+Madhya Pradesh,consonant,m̤,2
+Madhya Pradesh,consonant,t,2
+Madhya Pradesh,consonant,tʰ,2
+Madhya Pradesh,consonant,t̪,2
+Madhya Pradesh,consonant,t̪ʰ,2
+Madhya Pradesh,consonant,w,2
+Madhya Pradesh,consonant,ɟ,2
+Madhya Pradesh,consonant,ɟʝ,2
+Madhya Pradesh,consonant,ɟ̤,2
+Madhya Pradesh,consonant,ɟ̤ʝ,2
+Madhya Pradesh,consonant,ɲ,2
+Madhya Pradesh,consonant,ɳ,2
+Madhya Pradesh,consonant,ʔ,2
+Madhya Pradesh,consonant,c̤,1
+Madhya Pradesh,consonant,l̤,1
+Madhya Pradesh,consonant,n̤,1
+Madhya Pradesh,consonant,n̪,1
+Madhya Pradesh,consonant,r̤,1
+Madhya Pradesh,consonant,v,1
+Madhya Pradesh,consonant,ɡ̤,1
+Madhya Pradesh,consonant,ɦ,1
+Madhya Pradesh,consonant,ɭ,1
+Madhya Pradesh,consonant,ɽ̤,1
+Madhya Pradesh,consonant,ɾ,1
+Madhya Pradesh,vowel,e,4
+Madhya Pradesh,vowel,i,4
+Madhya Pradesh,vowel,o,4
+Madhya Pradesh,vowel,u,4
+Madhya Pradesh,vowel,a,3
+Madhya Pradesh,vowel,ũː,3
+Madhya Pradesh,vowel,ʊ̃,3
+Madhya Pradesh,vowel,ã,2
+Madhya Pradesh,vowel,ĩ,2
+Madhya Pradesh,vowel,õ,2
+Madhya Pradesh,vowel,õ̞,2
+Madhya Pradesh,vowel,æ,2
+Madhya Pradesh,vowel,æ̞̃,2
+Madhya Pradesh,vowel,ɪ̃,2
+Madhya Pradesh,vowel,eː,1
+Madhya Pradesh,vowel,ẽ,1
+Madhya Pradesh,vowel,ẽ̞,1
+Madhya Pradesh,vowel,iː,1
+Madhya Pradesh,vowel,oː,1
+Madhya Pradesh,vowel,uː,1
+Madhya Pradesh,vowel,ũ,1
+Madhya Pradesh,vowel,ɑ,1
+Madhya Pradesh,vowel,ɑː,1
+Madhya Pradesh,vowel,ɑ̃,1
+Madhya Pradesh,vowel,ɔ,1
+Madhya Pradesh,vowel,ə,1
+Madhya Pradesh,vowel,ə̃,1
+Madhya Pradesh,vowel,ɛ,1
+Madhya Pradesh,vowel,ɛ̃,1
+Madhya Pradesh,vowel,ɨ,1
+Madhya Pradesh,vowel,ɪ,1
+Madhya Pradesh,vowel,ʊ,1
+Magway,consonant,b,8
+Magway,consonant,d̠ʒ,8
+Magway,consonant,h,8
+Magway,consonant,j,8
+Magway,consonant,k,8
+Magway,consonant,kʰ,8
+Magway,consonant,m,8
+Magway,consonant,p,8
+Magway,consonant,pʰ,8
+Magway,consonant,t̠ʃ,8
+Magway,consonant,t̠ʃʰ,8
+Magway,consonant,w,8
+Magway,consonant,ŋ,8
+Magway,consonant,ɡ,8
+Magway,consonant,ɲ,8
+Magway,consonant,ʃ,8
+Magway,consonant,ʔ,8
+Magway,consonant,d,6
+Magway,consonant,l,6
+Magway,consonant,m̥,6
+Magway,consonant,n,6
+Magway,consonant,s,6
+Magway,consonant,sʰ,6
+Magway,consonant,t,6
+Magway,consonant,tʰ,6
+Magway,consonant,z,6
+Magway,consonant,ð,6
+Magway,consonant,ʍ,6
+Magway,consonant,θ,6
+Magway,consonant,n̥,4
+Magway,consonant,ŋ̥,4
+Magway,consonant,ɲ̥,4
+Magway,consonant,d̪|d,2
+Magway,consonant,d̪ð̪,2
+Magway,consonant,l̥,2
+Magway,consonant,l̪|l,2
+Magway,consonant,l̪̥|l̥,2
+Magway,consonant,m̥m,2
+Magway,consonant,n̥n,2
+Magway,consonant,n̪|n,2
+Magway,consonant,n̪̥|n̥,2
+Magway,consonant,s̪|s,2
+Magway,consonant,s̪ʰ|sʰ,2
+Magway,consonant,t̪|t,2
+Magway,consonant,t̪ʰ|tʰ,2
+Magway,consonant,t̪θ̪,2
+Magway,consonant,z̪|z,2
+Magway,consonant,ŋ̊,2
+Magway,consonant,ŋ̥ŋ,2
+Magway,consonant,ɬ,2
+Magway,consonant,ɬl,2
+Magway,consonant,ɲ̊,2
+Magway,consonant,ɲ̥ɲ,2
+Magway,consonant,ɾ,2
+Magway,consonant,ʍw,2
+Magway,tone,˥,2
+Magway,tone,˥̰,2
+Magway,tone,˦,2
+Magway,tone,˦ˀ,2
+Magway,tone,˦̰,2
+Magway,tone,˨,2
+Magway,tone,˩,2
+Magway,vowel,a,8
+Magway,vowel,e,8
+Magway,vowel,i,8
+Magway,vowel,o,8
+Magway,vowel,u,8
+Magway,vowel,ɔ,8
+Magway,vowel,ə,8
+Magway,vowel,ɛ,8
+Magway,vowel,ɪ̃,6
+Magway,vowel,ʊ̃,6
+Magway,vowel,aɪ,4
+Magway,vowel,aɪ̃,4
+Magway,vowel,aʊ,4
+Magway,vowel,aʊ̃,4
+Magway,vowel,ã,4
+Magway,vowel,eɪ,4
+Magway,vowel,eɪ̃,4
+Magway,vowel,oʊ,4
+Magway,vowel,oʊ̃,4
+Magway,vowel,æ̃,4
+Magway,vowel,eĩ,2
+Magway,vowel,ẽ̞ĩ,2
+Magway,vowel,ĩ,2
+Magway,vowel,oũ,2
+Magway,vowel,õ̞ũ,2
+Magway,vowel,ũ,2
+Magway,vowel,ɪ,2
+Magway,vowel,ʊ,2
+Maharashtra,consonant,b,9
+Maharashtra,consonant,d̪,9
+Maharashtra,consonant,j,9
+Maharashtra,consonant,k,9
+Maharashtra,consonant,l,9
+Maharashtra,consonant,p,9
+Maharashtra,consonant,t̪,9
+Maharashtra,consonant,ɖ,9
+Maharashtra,consonant,ɡ,9
+Maharashtra,consonant,ʈ,9
+Maharashtra,consonant,s,8
+Maharashtra,consonant,m,7
+Maharashtra,consonant,w,7
+Maharashtra,consonant,cç,6
+Maharashtra,consonant,ɟʝ,6
+Maharashtra,consonant,ɭ,6
+Maharashtra,consonant,h,5
+Maharashtra,consonant,n̪,5
+Maharashtra,consonant,ɳ,5
+Maharashtra,consonant,ɾ,5
+Maharashtra,consonant,b̤,4
+Maharashtra,consonant,cçʰ,4
+Maharashtra,consonant,dz,4
+Maharashtra,consonant,d̪̤,4
+Maharashtra,consonant,kʰ,4
+Maharashtra,consonant,n,4
+Maharashtra,consonant,pʰ,4
+Maharashtra,consonant,r,4
+Maharashtra,consonant,ts,4
+Maharashtra,consonant,t̪ʰ,4
+Maharashtra,consonant,ç,4
+Maharashtra,consonant,ŋ,4
+Maharashtra,consonant,ɖ̤,4
+Maharashtra,consonant,ɟ̤ʝ,4
+Maharashtra,consonant,ɡʱ,4
+Maharashtra,consonant,ʂ,4
+Maharashtra,consonant,ʈʰ,4
+Maharashtra,consonant,d̤z,3
+Maharashtra,consonant,f,3
+Maharashtra,consonant,tsʰ,3
+Maharashtra,consonant,dʑ,2
+Maharashtra,consonant,tɕ,2
+Maharashtra,consonant,v,2
+Maharashtra,consonant,ɲ,2
+Maharashtra,consonant,l̤,1
+Maharashtra,consonant,m̤,1
+Maharashtra,consonant,n̪̤,1
+Maharashtra,consonant,r̠ʲ,1
+Maharashtra,consonant,w̤,1
+Maharashtra,consonant,z,1
+Maharashtra,consonant,ɦ,1
+Maharashtra,consonant,ɳ̤,1
+Maharashtra,consonant,ɽ,1
+Maharashtra,consonant,ɽ̤,1
+Maharashtra,consonant,ɾ̤,1
+Maharashtra,vowel,a,9
+Maharashtra,vowel,i,9
+Maharashtra,vowel,u,9
+Maharashtra,vowel,e,8
+Maharashtra,vowel,o,8
+Maharashtra,vowel,iː,7
+Maharashtra,vowel,uː,7
+Maharashtra,vowel,aː,6
+Maharashtra,vowel,eː,6
+Maharashtra,vowel,ɔ,5
+Maharashtra,vowel,ə,5
+Maharashtra,vowel,oː,4
+Maharashtra,vowel,ã,2
+Maharashtra,vowel,a̟,2
+Maharashtra,vowel,ã̟,2
+Maharashtra,vowel,ẽ,2
+Maharashtra,vowel,ĩ,2
+Maharashtra,vowel,õ,2
+Maharashtra,vowel,ũ,2
+Maharashtra,vowel,ɔ̃,2
+Maharashtra,vowel,əː,2
+Maharashtra,vowel,ə̃,2
+Maharashtra,vowel,ɛ,2
+Maharashtra,vowel,ɛ̃,2
+Maharashtra,vowel,ɨ,2
+Maharashtra,vowel,ɨː,2
+Maharashtra,vowel,aˑ,1
+Maharashtra,vowel,eˑ,1
+Maharashtra,vowel,iˑ,1
+Maharashtra,vowel,oˑ,1
+Maharashtra,vowel,uˑ,1
+Maharashtra,vowel,æ,1
+Manipur,consonant,j,7
+Manipur,consonant,l,7
+Manipur,consonant,m,7
+Manipur,consonant,p,7
+Manipur,consonant,pʰ,7
+Manipur,consonant,s,7
+Manipur,consonant,b,6
+Manipur,consonant,h,6
+Manipur,consonant,k,6
+Manipur,consonant,kʰ,6
+Manipur,consonant,w,6
+Manipur,consonant,ɡ,6
+Manipur,consonant,cç,5
+Manipur,consonant,n,5
+Manipur,consonant,v,5
+Manipur,consonant,ŋ,5
+Manipur,consonant,f,4
+Manipur,consonant,r,4
+Manipur,consonant,tʰ,4
+Manipur,consonant,t̪,4
+Manipur,consonant,z,4
+Manipur,consonant,ç,4
+Manipur,consonant,ɟʝ,4
+Manipur,consonant,ʔ,4
+Manipur,consonant,d̪,3
+Manipur,consonant,t,3
+Manipur,consonant,t̪ʰ,3
+Manipur,consonant,x,3
+Manipur,consonant,b̤,2
+Manipur,consonant,cçʰ,2
+Manipur,consonant,d,2
+Manipur,consonant,l̤,2
+Manipur,consonant,n̪,2
+Manipur,consonant,ts,2
+Manipur,consonant,ɡʱ,2
+Manipur,consonant,ɦ,2
+Manipur,consonant,ɾ,2
+Manipur,consonant,ʝ,2
+Manipur,consonant,bv,1
+Manipur,consonant,bʱ,1
+Manipur,consonant,dz,1
+Manipur,consonant,dʱ,1
+Manipur,consonant,d̠ʒ,1
+Manipur,consonant,d̠ʒʱ,1
+Manipur,consonant,d̤,1
+Manipur,consonant,d̪̤,1
+Manipur,consonant,m̤,1
+Manipur,consonant,m̩,1
+Manipur,consonant,n̤,1
+Manipur,consonant,n̩,1
+Manipur,consonant,n̪̤,1
+Manipur,consonant,pf,1
+Manipur,consonant,pfʰ,1
+Manipur,consonant,tsʰ,1
+Manipur,consonant,t̠ʃ,1
+Manipur,consonant,t̠ʃʰ,1
+Manipur,consonant,w̤,1
+Manipur,consonant,ŋ̩,1
+Manipur,consonant,ɟ̤ʝ,1
+Manipur,consonant,ɲ,1
+Manipur,consonant,ɲ̤,1
+Manipur,consonant,ɾ̤,1
+Manipur,consonant,ʈ,1
+Manipur,tone,˧,4
+Manipur,tone,˥˩,3
+Manipur,tone,˩˥,3
+Manipur,tone,˥,2
+Manipur,tone,˨,2
+Manipur,tone,˩,2
+Manipur,tone,˦,1
+Manipur,tone,˦˥,1
+Manipur,tone,˩˨,1
+Manipur,vowel,i,7
+Manipur,vowel,u,7
+Manipur,vowel,a,6
+Manipur,vowel,e,6
+Manipur,vowel,o,6
+Manipur,vowel,ɔ,4
+Manipur,vowel,ə,4
+Manipur,vowel,ɨ,3
+Manipur,vowel,ʌ,3
+Manipur,vowel,e̞,2
+Manipur,vowel,ɛ,2
+Manipur,vowel,ʊ,2
+Manipur,vowel,aː,1
+Manipur,vowel,eː,1
+Manipur,vowel,iː,1
+Manipur,vowel,oː,1
+Manipur,vowel,uː,1
+Manipur,vowel,æ,1
+Manipur,vowel,ɑ,1
+Manipur,vowel,ɘ,1
+Manipur,vowel,ɪ,1
+Manipur,vowel,ɯ,1
+Meghalaya,consonant,b,2
+Meghalaya,consonant,dz,2
+Meghalaya,consonant,h,2
+Meghalaya,consonant,m,2
+Meghalaya,consonant,ts,2
+Meghalaya,consonant,ŋ,2
+Meghalaya,consonant,ɡ,2
+Meghalaya,consonant,ɾ,2
+Meghalaya,consonant,ʔ,2
+Meghalaya,consonant,d,1
+Meghalaya,consonant,d̪,1
+Meghalaya,consonant,k,1
+Meghalaya,consonant,kʰ,1
+Meghalaya,consonant,l,1
+Meghalaya,consonant,mˀ,1
+Meghalaya,consonant,n,1
+Meghalaya,consonant,nˀ,1
+Meghalaya,consonant,n̪,1
+Meghalaya,consonant,p,1
+Meghalaya,consonant,pʰ,1
+Meghalaya,consonant,s,1
+Meghalaya,consonant,s̻,1
+Meghalaya,consonant,tʰ,1
+Meghalaya,consonant,t̪,1
+Meghalaya,consonant,w,1
+Meghalaya,consonant,z,1
+Meghalaya,consonant,ŋˀ,1
+Meghalaya,consonant,ɾˀ,1
+Meghalaya,vowel,a,2
+Meghalaya,vowel,i,2
+Meghalaya,vowel,o,2
+Meghalaya,vowel,e,1
+Meghalaya,vowel,e̞,1
+Meghalaya,vowel,u,1
+Meghalaya,vowel,ʉ,1
+Mizoram,consonant,h,3
+Mizoram,consonant,k,3
+Mizoram,consonant,m,3
+Mizoram,consonant,p,3
+Mizoram,consonant,pʰ,3
+Mizoram,consonant,v,3
+Mizoram,consonant,ŋ,3
+Mizoram,consonant,ʔ,3
+Mizoram,consonant,b,2
+Mizoram,consonant,f,2
+Mizoram,consonant,kʰ,2
+Mizoram,consonant,l,2
+Mizoram,consonant,s,2
+Mizoram,consonant,w̰,2
+Mizoram,consonant,x,2
+Mizoram,consonant,z,2
+Mizoram,consonant,ɡ,2
+Mizoram,consonant,cç,1
+Mizoram,consonant,cçʰ,1
+Mizoram,consonant,d,1
+Mizoram,consonant,d̪,1
+Mizoram,consonant,j,1
+Mizoram,consonant,j̥,1
+Mizoram,consonant,j̰,1
+Mizoram,consonant,kʲ,1
+Mizoram,consonant,kʷ,1
+Mizoram,consonant,kʷʰ,1
+Mizoram,consonant,l̪|l,1
+Mizoram,consonant,l̪ʲ|lʲ,1
+Mizoram,consonant,l̰,1
+Mizoram,consonant,mb,1
+Mizoram,consonant,mbʲ,1
+Mizoram,consonant,mʲ,1
+Mizoram,consonant,n,1
+Mizoram,consonant,n̪,1
+Mizoram,consonant,n̪d̪|nd,1
+Mizoram,consonant,n̪d̪ʲ|ndʲ,1
+Mizoram,consonant,n̪|n,1
+Mizoram,consonant,pʲ,1
+Mizoram,consonant,pʲʰ,1
+Mizoram,consonant,q,1
+Mizoram,consonant,qʰ,1
+Mizoram,consonant,s̪|s,1
+Mizoram,consonant,s̪ʲ|sʲ,1
+Mizoram,consonant,t,1
+Mizoram,consonant,ts,1
+Mizoram,consonant,tɕ,1
+Mizoram,consonant,tɕʰ,1
+Mizoram,consonant,tʰ,1
+Mizoram,consonant,t̪,1
+Mizoram,consonant,t̪|t,1
+Mizoram,consonant,t̪ɬ̪,1
+Mizoram,consonant,t̪ɬ̪ʰ,1
+Mizoram,consonant,t̪ʰ,1
+Mizoram,consonant,t̪ʰ|tʰ,1
+Mizoram,consonant,t̪ʲ|tʲ,1
+Mizoram,consonant,t̪ʲʰ|tʲʰ,1
+Mizoram,consonant,vʲ,1
+Mizoram,consonant,w,1
+Mizoram,consonant,ɕ,1
+Mizoram,consonant,ɣ,1
+Mizoram,consonant,ɬ̪|ɬ,1
+Mizoram,consonant,ɬ̪ʲ|ɬʲ,1
+Mizoram,consonant,ɲ,1
+Mizoram,consonant,ɾ,1
+Mizoram,consonant,ɾ̪̊,1
+Mizoram,consonant,ɾ̪̊ʰ,1
+Mizoram,consonant,ʍ,1
+Mizoram,consonant,ʑ,1
+Mizoram,consonant,ʱl,1
+Mizoram,consonant,ʱm,1
+Mizoram,consonant,ʱn̪,1
+Mizoram,consonant,ʱŋ,1
+Mizoram,consonant,ʱɾ,1
+Mizoram,tone,˥,1
+Mizoram,tone,˥˩,1
+Mizoram,tone,˧˩,1
+Mizoram,tone,˩˥,1
+Mizoram,vowel,a,3
+Mizoram,vowel,i,3
+Mizoram,vowel,u,3
+Mizoram,vowel,ɔ,2
+Mizoram,vowel,aː,1
+Mizoram,vowel,e,1
+Mizoram,vowel,e̞,1
+Mizoram,vowel,o,1
+Mizoram,vowel,o̞,1
+Mizoram,vowel,ə,1
+Mizoram,vowel,ɛ,1
+Nagaland,consonant,k,12
+Nagaland,consonant,l,12
+Nagaland,consonant,m,12
+Nagaland,consonant,p,12
+Nagaland,consonant,s,11
+Nagaland,consonant,z,11
+Nagaland,consonant,ŋ,11
+Nagaland,consonant,j,10
+Nagaland,consonant,n,10
+Nagaland,consonant,ts,10
+Nagaland,consonant,w,10
+Nagaland,consonant,ɡ,10
+Nagaland,consonant,b,9
+Nagaland,consonant,cç,9
+Nagaland,consonant,kʰ,9
+Nagaland,consonant,l̤,9
+Nagaland,consonant,pʰ,9
+Nagaland,consonant,f,8
+Nagaland,consonant,v,8
+Nagaland,consonant,ç,8
+Nagaland,consonant,m̤,7
+Nagaland,consonant,t,7
+Nagaland,consonant,h,6
+Nagaland,consonant,tsʰ,6
+Nagaland,consonant,ʔ,6
+Nagaland,consonant,ʝ,6
+Nagaland,consonant,d,5
+Nagaland,consonant,d̪,5
+Nagaland,consonant,n̤,5
+Nagaland,consonant,tʰ,5
+Nagaland,consonant,t̪,5
+Nagaland,consonant,cçʰ,4
+Nagaland,consonant,n̪,4
+Nagaland,consonant,t̪ʰ,4
+Nagaland,consonant,x,4
+Nagaland,consonant,ɟʝ,4
+Nagaland,consonant,ɣ,4
+Nagaland,consonant,ɲ,4
+Nagaland,consonant,ɲ̤,4
+Nagaland,consonant,bv,3
+Nagaland,consonant,dz,3
+Nagaland,consonant,pf,3
+Nagaland,consonant,r,3
+Nagaland,consonant,ɾ,3
+Nagaland,consonant,n̪̤,2
+Nagaland,consonant,q,2
+Nagaland,consonant,qʰ,2
+Nagaland,consonant,r̤,2
+Nagaland,consonant,t̠ʃ,2
+Nagaland,consonant,t̠ʃʰ,2
+Nagaland,consonant,ɦ,2
+Nagaland,consonant,ɭ͓,2
+Nagaland,consonant,ɹ,2
+Nagaland,consonant,ʃ,2
+Nagaland,consonant,ʒ,2
+Nagaland,consonant,j̤,1
+Nagaland,consonant,w̤,1
+Nagaland,consonant,ŋ̤,1
+Nagaland,consonant,ɱ,1
+Nagaland,consonant,ɾ̤,1
+Nagaland,tone,˧,9
+Nagaland,tone,˥,4
+Nagaland,tone,˩,4
+Nagaland,tone,˥˩,3
+Nagaland,tone,˨,3
+Nagaland,tone,˩˥,3
+Nagaland,tone,˦,2
+Nagaland,tone,˧˥,1
+Nagaland,tone,˨˩,1
+Nagaland,vowel,e,12
+Nagaland,vowel,i,12
+Nagaland,vowel,o,12
+Nagaland,vowel,u,12
+Nagaland,vowel,a,11
+Nagaland,vowel,ə,8
+Nagaland,vowel,ɯ,6
+Nagaland,vowel,ɨ,4
+Nagaland,vowel,e̞,2
+Nagaland,vowel,u̞,2
+Nagaland,vowel,ɔ,2
+Nagaland,vowel,ʌ,2
+Nagaland,vowel,ɪ,1
+Nagaland,vowel,ʊ,1
+Nangarhar,consonant,b,1
+Nangarhar,consonant,d,1
+Nangarhar,consonant,d̠ʒ,1
+Nangarhar,consonant,f,1
+Nangarhar,consonant,h,1
+Nangarhar,consonant,j,1
+Nangarhar,consonant,k,1
+Nangarhar,consonant,l,1
+Nangarhar,consonant,m,1
+Nangarhar,consonant,n,1
+Nangarhar,consonant,p,1
+Nangarhar,consonant,q,1
+Nangarhar,consonant,r,1
+Nangarhar,consonant,s,1
+Nangarhar,consonant,t,1
+Nangarhar,consonant,t̠ʃ,1
+Nangarhar,consonant,w,1
+Nangarhar,consonant,x,1
+Nangarhar,consonant,z,1
+Nangarhar,consonant,ɖ,1
+Nangarhar,consonant,ɡ,1
+Nangarhar,consonant,ɣ,1
+Nangarhar,consonant,ɬ,1
+Nangarhar,consonant,ɳ,1
+Nangarhar,consonant,ɽ,1
+Nangarhar,consonant,ʂ,1
+Nangarhar,consonant,ʃ,1
+Nangarhar,consonant,ʈ,1
+Nangarhar,consonant,ʒ,1
+Nangarhar,vowel,a,1
+Nangarhar,vowel,e,1
+Nangarhar,vowel,eː,1
+Nangarhar,vowel,i,1
+Nangarhar,vowel,iː,1
+Nangarhar,vowel,o,1
+Nangarhar,vowel,oː,1
+Nangarhar,vowel,uː,1
+Nangarhar,vowel,ɑ,1
+Nangarhar,vowel,ɑː,1
+Nangarhar,vowel,ʊ,1
+North Central,consonant,b,4
+North Central,consonant,cç,4
+North Central,consonant,j,4
+North Central,consonant,k,4
+North Central,consonant,l,4
+North Central,consonant,m,4
+North Central,consonant,n,4
+North Central,consonant,p,4
+North Central,consonant,s,4
+North Central,consonant,ŋ,4
+North Central,consonant,ɖ,4
+North Central,consonant,ɟʝ,4
+North Central,consonant,ɡ,4
+North Central,consonant,ɦ,4
+North Central,consonant,ɲ,4
+North Central,consonant,ɸ,4
+North Central,consonant,ɾ,4
+North Central,consonant,ʃ,4
+North Central,consonant,ʈ,4
+North Central,consonant,ʋ,4
+North Central,consonant,bː,2
+North Central,consonant,cçː,2
+North Central,consonant,d,2
+North Central,consonant,dː,2
+North Central,consonant,d̪,2
+North Central,consonant,kː,2
+North Central,consonant,lː,2
+North Central,consonant,mː,2
+North Central,consonant,nː,2
+North Central,consonant,pː,2
+North Central,consonant,sː,2
+North Central,consonant,t,2
+North Central,consonant,tː,2
+North Central,consonant,t̪,2
+North Central,consonant,ɖː,2
+North Central,consonant,ɟʝː,2
+North Central,consonant,ɡː,2
+North Central,consonant,ɲː,2
+North Central,consonant,ʈː,2
+North Central,vowel,aː,4
+North Central,vowel,a̟,4
+North Central,vowel,eː,4
+North Central,vowel,e̞,4
+North Central,vowel,iː,4
+North Central,vowel,oː,4
+North Central,vowel,o̞,4
+North Central,vowel,uː,4
+North Central,vowel,æː,4
+North Central,vowel,ə,4
+North Central,vowel,əː,4
+North Central,vowel,ɪ,4
+North Central,vowel,ʊ,4
+North Central,vowel,a,2
+North Central,vowel,ãː,2
+North Central,vowel,æ̃ː,2
+North Central,vowel,ɑ,2
+Odisha,consonant,m,20
+Odisha,consonant,ɖ,20
+Odisha,consonant,ɡ,20
+Odisha,consonant,b,19
+Odisha,consonant,k,19
+Odisha,consonant,p,19
+Odisha,consonant,ŋ,19
+Odisha,consonant,s,17
+Odisha,consonant,ʈ,17
+Odisha,consonant,l,16
+Odisha,consonant,ɳ,16
+Odisha,consonant,d̪,14
+Odisha,consonant,j,12
+Odisha,consonant,n,12
+Odisha,consonant,t̪,12
+Odisha,consonant,ɲ,12
+Odisha,consonant,r,11
+Odisha,consonant,ɟʝ,11
+Odisha,consonant,cç,10
+Odisha,consonant,n̪,10
+Odisha,consonant,ʔ,10
+Odisha,consonant,ɽ,9
+Odisha,consonant,h,8
+Odisha,consonant,z,8
+Odisha,consonant,ɟ,8
+Odisha,consonant,w,7
+Odisha,consonant,t,6
+Odisha,consonant,v,6
+Odisha,consonant,ɭ,6
+Odisha,consonant,c,5
+Odisha,consonant,ɾ,5
+Odisha,consonant,d,4
+Odisha,consonant,dz,4
+Odisha,consonant,kʰ,4
+Odisha,consonant,l̪,4
+Odisha,consonant,pʰ,4
+Odisha,consonant,ts,4
+Odisha,consonant,ʈʰ,4
+Odisha,consonant,s̪,3
+Odisha,consonant,t̪ʰ,3
+Odisha,consonant,b̤,2
+Odisha,consonant,d̪̤,2
+Odisha,consonant,r̪,2
+Odisha,consonant,ɖ̤,2
+Odisha,consonant,ʂ,2
+Odisha,consonant,b̰,1
+Odisha,consonant,cçʰ,1
+Odisha,consonant,cʰ,1
+Odisha,consonant,d̪̺,1
+Odisha,consonant,tʰ,1
+Odisha,consonant,t̪̰,1
+Odisha,consonant,t̪̺,1
+Odisha,consonant,ç,1
+Odisha,consonant,ɟ̤,1
+Odisha,consonant,ɟ̤ʝ,1
+Odisha,consonant,ɡʱ,1
+Odisha,consonant,ɡ̤,1
+Odisha,consonant,ɽ̃,1
+Odisha,consonant,ɽ̩,1
+Odisha,consonant,β̞,1
+Odisha,vowel,i,20
+Odisha,vowel,u,20
+Odisha,vowel,a,17
+Odisha,vowel,e,17
+Odisha,vowel,o,16
+Odisha,vowel,iː,11
+Odisha,vowel,uː,11
+Odisha,vowel,ũ,11
+Odisha,vowel,aː,10
+Odisha,vowel,ã,9
+Odisha,vowel,eː,9
+Odisha,vowel,ĩ,9
+Odisha,vowel,ɔ,9
+Odisha,vowel,oː,8
+Odisha,vowel,õ̞,8
+Odisha,vowel,ũː,8
+Odisha,vowel,ẽ,7
+Odisha,vowel,æ̞̃,7
+Odisha,vowel,õ,6
+Odisha,vowel,ʊ̃,6
+Odisha,vowel,ɪ̃,5
+Odisha,vowel,ĩː,4
+Odisha,vowel,ɛ,4
+Odisha,vowel,ãː,3
+Odisha,vowel,õː,3
+Odisha,vowel,ɔː,3
+Odisha,vowel,ɔ̃,3
+Odisha,vowel,ẽː,2
+Odisha,vowel,ɑ̃,2
+Odisha,vowel,ə,2
+Odisha,vowel,ə̃ː,2
+Odisha,vowel,ɪ,2
+Odisha,vowel,ai,1
+Odisha,vowel,ai̯,1
+Odisha,vowel,ao,1
+Odisha,vowel,au̯,1
+Odisha,vowel,ãi̯,1
+Odisha,vowel,ãõ,1
+Odisha,vowel,ãu̯,1
+Odisha,vowel,a̰,1
+Odisha,vowel,ea,1
+Odisha,vowel,ei,1
+Odisha,vowel,ei̯,1
+Odisha,vowel,ẽi̯,1
+Odisha,vowel,e̞,1
+Odisha,vowel,e̞ː,1
+Odisha,vowel,ẽ̞,1
+Odisha,vowel,ḛ,1
+Odisha,vowel,ia,1
+Odisha,vowel,ie,1
+Odisha,vowel,io,1
+Odisha,vowel,ĩã,1
+Odisha,vowel,ĩõ,1
+Odisha,vowel,oi,1
+Odisha,vowel,oi̯,1
+Odisha,vowel,õi̯,1
+Odisha,vowel,o̞,1
+Odisha,vowel,o̞ː,1
+Odisha,vowel,o̰,1
+Odisha,vowel,ua,1
+Odisha,vowel,ui̯,1
+Odisha,vowel,ṵ,1
+Odisha,vowel,æ,1
+Odisha,vowel,æː,1
+Odisha,vowel,æ̃,1
+Odisha,vowel,ɑ̃ː,1
+Odisha,vowel,ɛː,1
+Odisha,vowel,ɛ̞,1
+Odisha,vowel,ɯ̰,1
+Odisha,vowel,ʊ,1
+Odisha,vowel,ʌ,1
+Paktika,consonant,b,1
+Paktika,consonant,d̠ʒ,1
+Paktika,consonant,d̪z̪|dz,1
+Paktika,consonant,d̪|d,1
+Paktika,consonant,f,1
+Paktika,consonant,h,1
+Paktika,consonant,j,1
+Paktika,consonant,k,1
+Paktika,consonant,l̪|l,1
+Paktika,consonant,m,1
+Paktika,consonant,n̪|n,1
+Paktika,consonant,p,1
+Paktika,consonant,r̪|r,1
+Paktika,consonant,s̪|s,1
+Paktika,consonant,t̠ʃ,1
+Paktika,consonant,t̪s̪|ts,1
+Paktika,consonant,t̪|t,1
+Paktika,consonant,x,1
+Paktika,consonant,z̪|z,1
+Paktika,consonant,ɡ,1
+Paktika,consonant,ʁ,1
+Paktika,consonant,ʃ,1
+Paktika,consonant,ʒ,1
+Paktika,consonant,β̞,1
+Paktika,consonant,χ,1
+Paktika,vowel,a̟,1
+Paktika,vowel,e,1
+Paktika,vowel,o,1
+Paktika,vowel,ɔ,1
+Paktika,vowel,ɪ,1
+Paktika,vowel,ʊ,1
+Punjab,consonant,b,7
+Punjab,consonant,j,7
+Punjab,consonant,k,7
+Punjab,consonant,kʰ,7
+Punjab,consonant,m,7
+Punjab,consonant,p,7
+Punjab,consonant,pʰ,7
+Punjab,consonant,ɖ,7
+Punjab,consonant,ɡ,7
+Punjab,consonant,ɳ,7
+Punjab,consonant,ɽ,7
+Punjab,consonant,ʈ,7
+Punjab,consonant,ʈʰ,7
+Punjab,consonant,r,6
+Punjab,consonant,w,6
+Punjab,consonant,ɦ,6
+Punjab,consonant,ɭ,6
+Punjab,consonant,d̪,5
+Punjab,consonant,f,5
+Punjab,consonant,l,5
+Punjab,consonant,s,5
+Punjab,consonant,t̪,5
+Punjab,consonant,t̪ʰ,5
+Punjab,consonant,n̪,4
+Punjab,consonant,c,3
+Punjab,consonant,cʰ,3
+Punjab,consonant,h,3
+Punjab,consonant,x,3
+Punjab,consonant,z,3
+Punjab,consonant,ŋ,3
+Punjab,consonant,ɟ,3
+Punjab,consonant,ɣ,3
+Punjab,consonant,ɲ,3
+Punjab,consonant,ʃ,3
+Punjab,consonant,bː,2
+Punjab,consonant,cç,2
+Punjab,consonant,cçʰ,2
+Punjab,consonant,d̠ʒ,2
+Punjab,consonant,d̠ʒː,2
+Punjab,consonant,d̻,2
+Punjab,consonant,d̻ː,2
+Punjab,consonant,kʰː,2
+Punjab,consonant,kː,2
+Punjab,consonant,l̻,2
+Punjab,consonant,l̻ː,2
+Punjab,consonant,mː,2
+Punjab,consonant,n̻,2
+Punjab,consonant,n̻ː,2
+Punjab,consonant,pʰː,2
+Punjab,consonant,pː,2
+Punjab,consonant,s̻,2
+Punjab,consonant,s̻ː,2
+Punjab,consonant,t̠ʃ,2
+Punjab,consonant,t̠ʃʰ,2
+Punjab,consonant,t̠ʃʰː,2
+Punjab,consonant,t̠ʃː,2
+Punjab,consonant,t̻,2
+Punjab,consonant,t̻ʰ,2
+Punjab,consonant,t̻ʰː,2
+Punjab,consonant,t̻ː,2
+Punjab,consonant,z̻,2
+Punjab,consonant,ç,2
+Punjab,consonant,ɖː,2
+Punjab,consonant,ɟʝ,2
+Punjab,consonant,ɡː,2
+Punjab,consonant,ʂ,2
+Punjab,consonant,ʈʰː,2
+Punjab,consonant,ʈː,2
+Punjab,consonant,bʱ,1
+Punjab,consonant,d̪ʱ,1
+Punjab,consonant,lʱ,1
+Punjab,consonant,mʱ,1
+Punjab,consonant,n,1
+Punjab,consonant,nʱ,1
+Punjab,consonant,v,1
+Punjab,consonant,vʱ,1
+Punjab,consonant,ɓ,1
+Punjab,consonant,ɖʱ,1
+Punjab,consonant,ɗ,1
+Punjab,consonant,ɟʱ,1
+Punjab,consonant,ɠ,1
+Punjab,consonant,ɡʱ,1
+Punjab,consonant,ɳʱ,1
+Punjab,consonant,ɽʱ,1
+Punjab,consonant,ɾʱ,1
+Punjab,consonant,ɾ̪,1
+Punjab,consonant,ʄ,1
+Punjab,tone,˧,4
+Punjab,tone,˩,4
+Punjab,tone,˥,2
+Punjab,tone,˦˥,2
+Punjab,vowel,a,7
+Punjab,vowel,i,7
+Punjab,vowel,ĩ,7
+Punjab,vowel,u,7
+Punjab,vowel,ɪ,7
+Punjab,vowel,ʊ,7
+Punjab,vowel,ə,6
+Punjab,vowel,ã,5
+Punjab,vowel,e,5
+Punjab,vowel,o,5
+Punjab,vowel,ũ,5
+Punjab,vowel,ɪ̃,5
+Punjab,vowel,ʊ̃,5
+Punjab,vowel,ẽ̞,4
+Punjab,vowel,õ̞,4
+Punjab,vowel,ɔ,4
+Punjab,vowel,ə̃,4
+Punjab,vowel,ɛ,4
+Punjab,vowel,ẽ,3
+Punjab,vowel,õ,3
+Punjab,vowel,æ,3
+Punjab,vowel,æ̃,3
+Punjab,vowel,e̞,2
+Punjab,vowel,o̞,2
+Punjab,vowel,ũː,2
+Punjab,vowel,æ̞̃,2
+Punjab,vowel,ɑ̃,2
+Punjab,vowel,ɒ,2
+Punjab,vowel,ɒ̃,2
+Punjab,vowel,ɔ̃,2
+Punjab,vowel,ɛ̃,2
+Punjab,vowel,ae,1
+Punjab,vowel,ai,1
+Punjab,vowel,ea,1
+Punjab,vowel,ia,1
+Punjab,vowel,iã,1
+Punjab,vowel,oi,1
+Punjab,vowel,ua,1
+Punjab,vowel,uẽ,1
+Punjab,vowel,ui,1
+Punjab,vowel,æe,1
+Punjab,vowel,ɪa,1
+Punjab,vowel,ɪã,1
+Punjab,vowel,ɪʌ,1
+Punjab,vowel,ʊa,1
+Punjab,vowel,ʊe,1
+Punjab,vowel,ʊi,1
+Punjab,vowel,ʌ,1
+Punjab,vowel,ʌi,1
+Punjab,vowel,ʌ̃,1
+Rajasthan,consonant,b,16
+Rajasthan,consonant,k,16
+Rajasthan,consonant,kʰ,16
+Rajasthan,consonant,m,16
+Rajasthan,consonant,p,16
+Rajasthan,consonant,pʰ,16
+Rajasthan,consonant,ɖ,16
+Rajasthan,consonant,ɡ,16
+Rajasthan,consonant,ʈ,16
+Rajasthan,consonant,ʈʰ,16
+Rajasthan,consonant,b̤,15
+Rajasthan,consonant,f,15
+Rajasthan,consonant,j,15
+Rajasthan,consonant,ɖ̤,15
+Rajasthan,consonant,d̠ʒ,13
+Rajasthan,consonant,d̪,13
+Rajasthan,consonant,s,13
+Rajasthan,consonant,t̠ʃ,13
+Rajasthan,consonant,t̪,13
+Rajasthan,consonant,t̪ʰ,13
+Rajasthan,consonant,d̪̤,12
+Rajasthan,consonant,t̠ʃʰ,12
+Rajasthan,consonant,z,12
+Rajasthan,consonant,ɡ̤,12
+Rajasthan,consonant,l,10
+Rajasthan,consonant,ɽ,10
+Rajasthan,consonant,n̪,9
+Rajasthan,consonant,ɦ,9
+Rajasthan,consonant,ɽ̤,9
+Rajasthan,consonant,ʃ,9
+Rajasthan,consonant,ʋ,9
+Rajasthan,consonant,h,7
+Rajasthan,consonant,ŋ,7
+Rajasthan,consonant,ɾ,7
+Rajasthan,consonant,bː,6
+Rajasthan,consonant,d̠ʒː,6
+Rajasthan,consonant,d̠ʒ̤,6
+Rajasthan,consonant,d̪ː,6
+Rajasthan,consonant,d̪̤ː,6
+Rajasthan,consonant,fː,6
+Rajasthan,consonant,kʰː,6
+Rajasthan,consonant,kː,6
+Rajasthan,consonant,lː,6
+Rajasthan,consonant,mː,6
+Rajasthan,consonant,m̤,6
+Rajasthan,consonant,n̪̤,6
+Rajasthan,consonant,pʰː,6
+Rajasthan,consonant,pː,6
+Rajasthan,consonant,q,6
+Rajasthan,consonant,r,6
+Rajasthan,consonant,rː,6
+Rajasthan,consonant,sː,6
+Rajasthan,consonant,t̠ʃʰː,6
+Rajasthan,consonant,t̠ʃː,6
+Rajasthan,consonant,t̪ʰː,6
+Rajasthan,consonant,t̪ː,6
+Rajasthan,consonant,zː,6
+Rajasthan,consonant,ɖː,6
+Rajasthan,consonant,ɖ̤ː,6
+Rajasthan,consonant,ɡː,6
+Rajasthan,consonant,ɡ̤ː,6
+Rajasthan,consonant,ɽ̃,6
+Rajasthan,consonant,ʁ,6
+Rajasthan,consonant,ʂ,6
+Rajasthan,consonant,ʃː,6
+Rajasthan,consonant,ʈʰː,6
+Rajasthan,consonant,ʈː,6
+Rajasthan,consonant,ʋː,6
+Rajasthan,consonant,ʒ,6
+Rajasthan,consonant,ʔ,6
+Rajasthan,consonant,χ,6
+Rajasthan,consonant,n,4
+Rajasthan,consonant,ɡʱ,4
+Rajasthan,consonant,ɲ,4
+Rajasthan,consonant,ɳ,4
+Rajasthan,consonant,ʝ,4
+Rajasthan,consonant,b̤ː,3
+Rajasthan,consonant,cç,3
+Rajasthan,consonant,cçʰ,3
+Rajasthan,consonant,d̠ʒ̤ː,3
+Rajasthan,consonant,d̠̤ʒ̤,3
+Rajasthan,consonant,d̤ʒ̤,3
+Rajasthan,consonant,d̤ʒ̤ː,3
+Rajasthan,consonant,d̻,3
+Rajasthan,consonant,d̻̤,3
+Rajasthan,consonant,jː,3
+Rajasthan,consonant,l̤,3
+Rajasthan,consonant,l̪|l,3
+Rajasthan,consonant,l̪̤|l̤,3
+Rajasthan,consonant,l̻,3
+Rajasthan,consonant,nː,3
+Rajasthan,consonant,n̪ː,3
+Rajasthan,consonant,n̻,3
+Rajasthan,consonant,qː,3
+Rajasthan,consonant,r̪|r,3
+Rajasthan,consonant,s̪|s,3
+Rajasthan,consonant,t̻,3
+Rajasthan,consonant,t̻ʰ,3
+Rajasthan,consonant,w,3
+Rajasthan,consonant,z̪|z,3
+Rajasthan,consonant,ç,3
+Rajasthan,consonant,ŋː,3
+Rajasthan,consonant,ɟʝ,3
+Rajasthan,consonant,ɟ̤ʝ,3
+Rajasthan,consonant,β̞,3
+Rajasthan,consonant,bʱ,1
+Rajasthan,consonant,dz,1
+Rajasthan,consonant,d̪ʱ,1
+Rajasthan,consonant,mʱ,1
+Rajasthan,consonant,nʱ,1
+Rajasthan,consonant,ts,1
+Rajasthan,consonant,v,1
+Rajasthan,consonant,vʱ,1
+Rajasthan,consonant,ɖʱ,1
+Rajasthan,consonant,ɭ,1
+Rajasthan,vowel,ɪ,16
+Rajasthan,vowel,ʊ,16
+Rajasthan,vowel,ũː,12
+Rajasthan,vowel,ɪ̃,12
+Rajasthan,vowel,ʊ̃,12
+Rajasthan,vowel,ə,10
+Rajasthan,vowel,eː,9
+Rajasthan,vowel,ẽː,9
+Rajasthan,vowel,iː,9
+Rajasthan,vowel,ĩː,9
+Rajasthan,vowel,oː,9
+Rajasthan,vowel,õː,9
+Rajasthan,vowel,uː,9
+Rajasthan,vowel,æ,9
+Rajasthan,vowel,ɔ,9
+Rajasthan,vowel,ɛ,9
+Rajasthan,vowel,e,7
+Rajasthan,vowel,i,7
+Rajasthan,vowel,o,7
+Rajasthan,vowel,u,7
+Rajasthan,vowel,aː,6
+Rajasthan,vowel,ãː,6
+Rajasthan,vowel,ɑ,6
+Rajasthan,vowel,ə̃,6
+Rajasthan,vowel,ɜ,6
+Rajasthan,vowel,ɜ̃,6
+Rajasthan,vowel,a,4
+Rajasthan,vowel,ã̈ː,3
+Rajasthan,vowel,äː,3
+Rajasthan,vowel,ẽ̞,3
+Rajasthan,vowel,ĩ,3
+Rajasthan,vowel,õ,3
+Rajasthan,vowel,õ̞,3
+Rajasthan,vowel,æe̯,3
+Rajasthan,vowel,æẽ̯,3
+Rajasthan,vowel,æː,3
+Rajasthan,vowel,æ̞̃,3
+Rajasthan,vowel,ɑ̃,3
+Rajasthan,vowel,ɔo̯,3
+Rajasthan,vowel,ɔõ̯,3
+Rajasthan,vowel,ɔː,3
+Rajasthan,vowel,ɔ̃,3
+Rajasthan,vowel,ɔ̃ː,3
+Rajasthan,vowel,ɔ̤,3
+Rajasthan,vowel,ɛː,3
+Rajasthan,vowel,ɛ̃,3
+Rajasthan,vowel,ɛ̃ː,3
+Rajasthan,vowel,ɪ̈,3
+Rajasthan,vowel,ai,1
+Rajasthan,vowel,au,1
+Sikkim,consonant,h,2
+Sikkim,consonant,j,2
+Sikkim,consonant,k,2
+Sikkim,consonant,l,2
+Sikkim,consonant,m,2
+Sikkim,consonant,n,2
+Sikkim,consonant,p,2
+Sikkim,consonant,s,2
+Sikkim,consonant,ts,2
+Sikkim,consonant,z,2
+Sikkim,consonant,ŋ,2
+Sikkim,consonant,ɲ,2
+Sikkim,consonant,ʈ,2
+Sikkim,consonant,b,1
+Sikkim,consonant,cç,1
+Sikkim,consonant,dz,1
+Sikkim,consonant,d̪,1
+Sikkim,consonant,f,1
+Sikkim,consonant,kʰ,1
+Sikkim,consonant,l̥,1
+Sikkim,consonant,mb,1
+Sikkim,consonant,nd,1
+Sikkim,consonant,ndz,1
+Sikkim,consonant,ndʑ,1
+Sikkim,consonant,n̥,1
+Sikkim,consonant,pʰ,1
+Sikkim,consonant,r,1
+Sikkim,consonant,r̥,1
+Sikkim,consonant,t,1
+Sikkim,consonant,tsʰ,1
+Sikkim,consonant,tɕ,1
+Sikkim,consonant,tɕʰ,1
+Sikkim,consonant,tʰ,1
+Sikkim,consonant,t̪,1
+Sikkim,consonant,v,1
+Sikkim,consonant,w,1
+Sikkim,consonant,ç,1
+Sikkim,consonant,ŋɡ,1
+Sikkim,consonant,ŋ̊,1
+Sikkim,consonant,ɕ,1
+Sikkim,consonant,ɖ,1
+Sikkim,consonant,ɟʝ,1
+Sikkim,consonant,ɡ,1
+Sikkim,consonant,ɲ̊,1
+Sikkim,consonant,ɳɖ,1
+Sikkim,consonant,ɾ,1
+Sikkim,consonant,ʈʰ,1
+Sikkim,consonant,ʑ,1
+Sikkim,consonant,ʔ,1
+Sikkim,consonant,ʝ,1
+Sikkim,vowel,e,2
+Sikkim,vowel,i,2
+Sikkim,vowel,o,2
+Sikkim,vowel,u,2
+Sikkim,vowel,a,1
+Sikkim,vowel,aː,1
+Sikkim,vowel,ãː,1
+Sikkim,vowel,eː,1
+Sikkim,vowel,ẽː,1
+Sikkim,vowel,e̞,1
+Sikkim,vowel,iu,1
+Sikkim,vowel,iː,1
+Sikkim,vowel,ĩː,1
+Sikkim,vowel,ou,1
+Sikkim,vowel,oː,1
+Sikkim,vowel,õː,1
+Sikkim,vowel,ö,1
+Sikkim,vowel,uː,1
+Sikkim,vowel,ũː,1
+Sikkim,vowel,üː,1
+Sikkim,vowel,y,1
+Sikkim,vowel,yː,1
+Sikkim,vowel,ỹː,1
+Sikkim,vowel,ø,1
+Sikkim,vowel,øː,1
+Sikkim,vowel,ø̃ː,1
+Sikkim,vowel,ɐi,1
+Sikkim,vowel,ɐu,1
+Sikkim,vowel,ɑ,1
+Sikkim,vowel,ɔ,1
+Sikkim,vowel,ɛ,1
+Sikkim,vowel,ɛː,1
+Sikkim,vowel,ɛ̃ː,1
+Sikkim,vowel,ʌ,1
+Sindh,consonant,b,6
+Sindh,consonant,f,6
+Sindh,consonant,j,6
+Sindh,consonant,k,6
+Sindh,consonant,kʰ,6
+Sindh,consonant,m,6
+Sindh,consonant,p,6
+Sindh,consonant,pʰ,6
+Sindh,consonant,x,6
+Sindh,consonant,z,6
+Sindh,consonant,ɖ,6
+Sindh,consonant,ɡ,6
+Sindh,consonant,ɣ,6
+Sindh,consonant,ɽ,6
+Sindh,consonant,ʈ,6
+Sindh,consonant,ʈʰ,6
+Sindh,consonant,b̤,5
+Sindh,consonant,d̪,5
+Sindh,consonant,s,5
+Sindh,consonant,t̪,5
+Sindh,consonant,t̪ʰ,5
+Sindh,consonant,ŋ,5
+Sindh,consonant,ɖ̤,5
+Sindh,consonant,d̪̤,4
+Sindh,consonant,h,4
+Sindh,consonant,n,4
+Sindh,consonant,r,4
+Sindh,consonant,ɓ,4
+Sindh,consonant,ɲ,4
+Sindh,consonant,ɳ,4
+Sindh,consonant,l,3
+Sindh,consonant,q,3
+Sindh,consonant,ɠ,3
+Sindh,consonant,ɡ̤,3
+Sindh,consonant,ɽ̤,3
+Sindh,consonant,ʃ,3
+Sindh,consonant,ʄ,3
+Sindh,consonant,ʋ,3
+Sindh,consonant,c,2
+Sindh,consonant,d̠ʒ,2
+Sindh,consonant,d̠̤ʒ̤,2
+Sindh,consonant,n̤,2
+Sindh,consonant,t̠ʃ,2
+Sindh,consonant,t̠ʃʰ,2
+Sindh,consonant,w,2
+Sindh,consonant,ç,2
+Sindh,consonant,ɗ,2
+Sindh,consonant,ɟ,2
+Sindh,consonant,ɡʱ,2
+Sindh,consonant,ɳ̤,2
+Sindh,consonant,ɾ,2
+Sindh,consonant,ʂ,2
+Sindh,consonant,ᶑ,2
+Sindh,consonant,bɦ,1
+Sindh,consonant,cç,1
+Sindh,consonant,cçʰ,1
+Sindh,consonant,cʰ,1
+Sindh,consonant,c̤,1
+Sindh,consonant,d̪ɦ,1
+Sindh,consonant,d̻,1
+Sindh,consonant,d̻ʑ̻,1
+Sindh,consonant,d̻̤,1
+Sindh,consonant,d̻̤ʑ̻̤,1
+Sindh,consonant,lɦ,1
+Sindh,consonant,l̤,1
+Sindh,consonant,l̪,1
+Sindh,consonant,l̪̤,1
+Sindh,consonant,l̻,1
+Sindh,consonant,mɦ,1
+Sindh,consonant,m̤,1
+Sindh,consonant,nɦ,1
+Sindh,consonant,n̪,1
+Sindh,consonant,n̻,1
+Sindh,consonant,r̤,1
+Sindh,consonant,t̻,1
+Sindh,consonant,t̻ɕ̻,1
+Sindh,consonant,t̻ɕ̻ʰ,1
+Sindh,consonant,t̻ʰ,1
+Sindh,consonant,v,1
+Sindh,consonant,ɖɦ,1
+Sindh,consonant,ɟɦ,1
+Sindh,consonant,ɟʝ,1
+Sindh,consonant,ɟ̤,1
+Sindh,consonant,ɟ̤ʝ,1
+Sindh,consonant,ɡɦ,1
+Sindh,consonant,ɦ,1
+Sindh,consonant,ɳɦ,1
+Sindh,consonant,ɽʱ,1
+Sindh,consonant,ʔ,1
+Sindh,consonant,ʝ,1
+Sindh,vowel,i,5
+Sindh,vowel,u,5
+Sindh,vowel,ɔ,5
+Sindh,vowel,e,4
+Sindh,vowel,o,4
+Sindh,vowel,ə,4
+Sindh,vowel,ɪ,4
+Sindh,vowel,ʊ,4
+Sindh,vowel,ĩ,3
+Sindh,vowel,õ,3
+Sindh,vowel,ũː,3
+Sindh,vowel,æ,3
+Sindh,vowel,ɑ,3
+Sindh,vowel,ɑ̃,3
+Sindh,vowel,ə̃,3
+Sindh,vowel,ɛ,3
+Sindh,vowel,ʊ̃,3
+Sindh,vowel,a,2
+Sindh,vowel,ẽ̞,2
+Sindh,vowel,ĩː,2
+Sindh,vowel,oː,2
+Sindh,vowel,æ̞̃,2
+Sindh,vowel,ɐ̆,2
+Sindh,vowel,ɪ̃,2
+Sindh,vowel,ɪ̆,2
+Sindh,vowel,ʊ̆,2
+Sindh,vowel,ã̈ː,1
+Sindh,vowel,äː,1
+Sindh,vowel,eː,1
+Sindh,vowel,ẽ,1
+Sindh,vowel,ẽː,1
+Sindh,vowel,iː,1
+Sindh,vowel,õː,1
+Sindh,vowel,õ̞,1
+Sindh,vowel,uː,1
+Sindh,vowel,ũ,1
+Sindh,vowel,æ̃,1
+Sindh,vowel,ɑ̃ː,1
+Sindh,vowel,ɔː,1
+Sindh,vowel,ɔ̃,1
+Sindh,vowel,ɔ̃ː,1
+Sindh,vowel,ɛː,1
+Sindh,vowel,ɛ̃ː,1
+Sylhet,consonant,b,6
+Sylhet,consonant,h,6
+Sylhet,consonant,k,6
+Sylhet,consonant,kʰ,6
+Sylhet,consonant,m,6
+Sylhet,consonant,p,6
+Sylhet,consonant,pʰ,6
+Sylhet,consonant,ŋ,6
+Sylhet,consonant,ɲ,6
+Sylhet,consonant,ʔ,6
+Sylhet,consonant,d,4
+Sylhet,consonant,d̠ʒ,4
+Sylhet,consonant,j,4
+Sylhet,consonant,n,4
+Sylhet,consonant,r,4
+Sylhet,consonant,s,4
+Sylhet,consonant,t,4
+Sylhet,consonant,tʰ,4
+Sylhet,consonant,w,4
+Sylhet,consonant,ɭ,4
+Sylhet,consonant,ʃ,4
+Sylhet,consonant,b̤,2
+Sylhet,consonant,d̤,2
+Sylhet,consonant,d̪|d,2
+Sylhet,consonant,l,2
+Sylhet,consonant,n̪|n,2
+Sylhet,consonant,r̪|r,2
+Sylhet,consonant,s̪|s,2
+Sylhet,consonant,t̪|t,2
+Sylhet,consonant,t̪ʰ|tʰ,2
+Sylhet,consonant,ç,2
+Sylhet,consonant,ɟʝ,2
+Sylhet,consonant,ɟ̤ʝ,2
+Sylhet,consonant,ɡ,2
+Sylhet,consonant,ɡʱ,2
+Sylhet,consonant,ɾ,2
+Sylhet,vowel,a,6
+Sylhet,vowel,i,6
+Sylhet,vowel,u,6
+Sylhet,vowel,aː,4
+Sylhet,vowel,e,4
+Sylhet,vowel,o,4
+Sylhet,vowel,ɔ,4
+Sylhet,vowel,ɛ,4
+Sylhet,vowel,eː,2
+Sylhet,vowel,ia,2
+Sylhet,vowel,ie̞,2
+Sylhet,vowel,iː,2
+Sylhet,vowel,oː,2
+Sylhet,vowel,uo,2
+Sylhet,vowel,uː,2
+Sylhet,vowel,ə,2
+Sylhet,vowel,ɨ,2
+Sylhet,vowel,ɪ̯,2
+Sylhet,vowel,ʊ̯,2
+Tamil Nadu,consonant,b,20
+Tamil Nadu,consonant,d̪,20
+Tamil Nadu,consonant,j,20
+Tamil Nadu,consonant,m,20
+Tamil Nadu,consonant,n,20
+Tamil Nadu,consonant,ɡ,20
+Tamil Nadu,consonant,ɭ,20
+Tamil Nadu,consonant,l,19
+Tamil Nadu,consonant,ɖ,19
+Tamil Nadu,consonant,ɳ,19
+Tamil Nadu,consonant,k,16
+Tamil Nadu,consonant,p,16
+Tamil Nadu,consonant,r,16
+Tamil Nadu,consonant,t̪,16
+Tamil Nadu,consonant,ʈ,16
+Tamil Nadu,consonant,ŋ,15
+Tamil Nadu,consonant,ʂ,14
+Tamil Nadu,consonant,s,13
+Tamil Nadu,consonant,d,12
+Tamil Nadu,consonant,w,12
+Tamil Nadu,consonant,ɽ,12
+Tamil Nadu,consonant,cç,11
+Tamil Nadu,consonant,ɟʝ,11
+Tamil Nadu,consonant,ɲ,10
+Tamil Nadu,consonant,n̪,9
+Tamil Nadu,consonant,v,9
+Tamil Nadu,consonant,t,8
+Tamil Nadu,consonant,ɾ,8
+Tamil Nadu,consonant,d̠ʒ,7
+Tamil Nadu,consonant,kʰ,5
+Tamil Nadu,consonant,pʰ,5
+Tamil Nadu,consonant,t̪ʰ,5
+Tamil Nadu,consonant,x,5
+Tamil Nadu,consonant,ʈʰ,5
+Tamil Nadu,consonant,f,4
+Tamil Nadu,consonant,tʰ,4
+Tamil Nadu,consonant,t̠ʃʰ,4
+Tamil Nadu,consonant,z,4
+Tamil Nadu,consonant,h,3
+Tamil Nadu,consonant,ð,3
+Tamil Nadu,consonant,ʋ,3
+Tamil Nadu,consonant,c,2
+Tamil Nadu,consonant,dz,2
+Tamil Nadu,consonant,ts,2
+Tamil Nadu,consonant,ç,2
+Tamil Nadu,consonant,ɟ,2
+Tamil Nadu,consonant,ɣ,2
+Tamil Nadu,consonant,ʐ,2
+Tamil Nadu,consonant,ʝ,2
+Tamil Nadu,consonant,β,2
+Tamil Nadu,consonant,b̤,1
+Tamil Nadu,consonant,cçʰ,1
+Tamil Nadu,consonant,d̪̤,1
+Tamil Nadu,consonant,l̠˞,1
+Tamil Nadu,consonant,l̥,1
+Tamil Nadu,consonant,l̪,1
+Tamil Nadu,consonant,m̤,1
+Tamil Nadu,consonant,r̪,1
+Tamil Nadu,consonant,s̪,1
+Tamil Nadu,consonant,s̻̠,1
+Tamil Nadu,consonant,t̠ʃ,1
+Tamil Nadu,consonant,z̪,1
+Tamil Nadu,consonant,ɖ̤,1
+Tamil Nadu,consonant,ɗ,1
+Tamil Nadu,consonant,ɟ̤ʝ,1
+Tamil Nadu,consonant,ɡʱ,1
+Tamil Nadu,consonant,ɭ̥,1
+Tamil Nadu,consonant,ɸ,1
+Tamil Nadu,consonant,ɻ,1
+Tamil Nadu,consonant,ʃ,1
+Tamil Nadu,consonant,θ,1
+Tamil Nadu,vowel,i,19
+Tamil Nadu,vowel,u,19
+Tamil Nadu,vowel,a,18
+Tamil Nadu,vowel,e,14
+Tamil Nadu,vowel,o,14
+Tamil Nadu,vowel,iː,11
+Tamil Nadu,vowel,uː,11
+Tamil Nadu,vowel,aː,10
+Tamil Nadu,vowel,eː,8
+Tamil Nadu,vowel,e̞,8
+Tamil Nadu,vowel,oː,8
+Tamil Nadu,vowel,ə,8
+Tamil Nadu,vowel,ɨ,8
+Tamil Nadu,vowel,ɪ,6
+Tamil Nadu,vowel,ʌ,6
+Tamil Nadu,vowel,ɔ,5
+Tamil Nadu,vowel,ɛ,5
+Tamil Nadu,vowel,ʊ,5
+Tamil Nadu,vowel,o̞,4
+Tamil Nadu,vowel,ai,2
+Tamil Nadu,vowel,ä,2
+Tamil Nadu,vowel,ë,2
+Tamil Nadu,vowel,e̞ː,2
+Tamil Nadu,vowel,ë̞,2
+Tamil Nadu,vowel,ï,2
+Tamil Nadu,vowel,ö,2
+Tamil Nadu,vowel,o̞ː,2
+Tamil Nadu,vowel,ö̞,2
+Tamil Nadu,vowel,üː,2
+Tamil Nadu,vowel,u̞,2
+Tamil Nadu,vowel,æ,2
+Tamil Nadu,vowel,ɑ,2
+Tamil Nadu,vowel,ɑː,2
+Tamil Nadu,vowel,ɔː,2
+Tamil Nadu,vowel,əi,2
+Tamil Nadu,vowel,əː,2
+Tamil Nadu,vowel,ɛː,2
+Tamil Nadu,vowel,ʊ̈,2
+Tamil Nadu,vowel,au,1
+Tamil Nadu,vowel,aɪ,1
+Tamil Nadu,vowel,aʊ,1
+Tamil Nadu,vowel,ui,1
+Tamil Nadu,vowel,y,1
+Tamil Nadu,vowel,yː,1
+Tamil Nadu,vowel,æ̞̃,1
+Tamil Nadu,vowel,ø,1
+Tamil Nadu,vowel,øː,1
+Tamil Nadu,vowel,ɐi,1
+Tamil Nadu,vowel,ɪ̃,1
+Tamil Nadu,vowel,ɯ,1
+Tamil Nadu,vowel,ɯː,1
+Tamil Nadu,vowel,ʊː,1
+Tamil Nadu,vowel,ʊ̃,1
+Tamil Nadu,vowel,ʊ̈i,1
+Tamil Nadu,vowel,ʊ̞,1
+Tashigang,consonant,b,2
+Tashigang,consonant,d,2
+Tashigang,consonant,dz,2
+Tashigang,consonant,dʑ,2
+Tashigang,consonant,h,2
+Tashigang,consonant,j,2
+Tashigang,consonant,k,2
+Tashigang,consonant,kʰ,2
+Tashigang,consonant,l,2
+Tashigang,consonant,m,2
+Tashigang,consonant,n,2
+Tashigang,consonant,p,2
+Tashigang,consonant,pʰ,2
+Tashigang,consonant,s,2
+Tashigang,consonant,t,2
+Tashigang,consonant,ts,2
+Tashigang,consonant,tsʰ,2
+Tashigang,consonant,tɕ,2
+Tashigang,consonant,tɕʰ,2
+Tashigang,consonant,tʰ,2
+Tashigang,consonant,w,2
+Tashigang,consonant,z,2
+Tashigang,consonant,ŋ,2
+Tashigang,consonant,ɕ,2
+Tashigang,consonant,ɖ,2
+Tashigang,consonant,ɡ,2
+Tashigang,consonant,ɲ,2
+Tashigang,consonant,ɾ,2
+Tashigang,consonant,ʈ,2
+Tashigang,consonant,ʈʰ,2
+Tashigang,consonant,ʑ,2
+Tashigang,consonant,l̥,1
+Tashigang,consonant,ɬ,1
+Tashigang,vowel,a,2
+Tashigang,vowel,e,2
+Tashigang,vowel,i,2
+Tashigang,vowel,o,2
+Tashigang,vowel,u,2
+Tashigang,vowel,ai,1
+Tashigang,vowel,au,1
+Telangana,consonant,b,13
+Telangana,consonant,j,13
+Telangana,consonant,k,13
+Telangana,consonant,m,13
+Telangana,consonant,p,13
+Telangana,consonant,ɖ,13
+Telangana,consonant,ɡ,13
+Telangana,consonant,ɳ,13
+Telangana,consonant,ʈ,13
+Telangana,consonant,d̪,11
+Telangana,consonant,l,11
+Telangana,consonant,t̪,11
+Telangana,consonant,n,10
+Telangana,consonant,ɾ,10
+Telangana,consonant,b̤,9
+Telangana,consonant,dz,9
+Telangana,consonant,kʰ,9
+Telangana,consonant,pʰ,9
+Telangana,consonant,s,9
+Telangana,consonant,ts,9
+Telangana,consonant,ɖ̤,9
+Telangana,consonant,ɭ,9
+Telangana,consonant,ʂ,9
+Telangana,consonant,ʈʰ,9
+Telangana,consonant,f,8
+Telangana,consonant,h,8
+Telangana,consonant,w,7
+Telangana,consonant,ɡ̤,6
+Telangana,consonant,d̪̤,5
+Telangana,consonant,n̪,5
+Telangana,consonant,t̪ʰ,5
+Telangana,consonant,cç,4
+Telangana,consonant,s̪,4
+Telangana,consonant,t̠ʃ,4
+Telangana,consonant,ɟʝ,4
+Telangana,consonant,ɦ,4
+Telangana,consonant,ʃ,4
+Telangana,consonant,β̞,4
+Telangana,consonant,β̞ː,4
+Telangana,consonant,t,3
+Telangana,consonant,v,3
+Telangana,consonant,ŋ,3
+Telangana,consonant,ɡʱ,3
+Telangana,consonant,bː,2
+Telangana,consonant,c,2
+Telangana,consonant,cçʰ,2
+Telangana,consonant,cʰ,2
+Telangana,consonant,d,2
+Telangana,consonant,dzː,2
+Telangana,consonant,dː,2
+Telangana,consonant,d̠ʒ,2
+Telangana,consonant,d̤,2
+Telangana,consonant,d̪̤|d̤,2
+Telangana,consonant,kː,2
+Telangana,consonant,lː,2
+Telangana,consonant,l̪,2
+Telangana,consonant,mː,2
+Telangana,consonant,nː,2
+Telangana,consonant,pː,2
+Telangana,consonant,rː,2
+Telangana,consonant,r̪,2
+Telangana,consonant,tsː,2
+Telangana,consonant,tɕ,2
+Telangana,consonant,tː,2
+Telangana,consonant,ç,2
+Telangana,consonant,ɕ,2
+Telangana,consonant,ɖː,2
+Telangana,consonant,ɟ,2
+Telangana,consonant,ɟ̤,2
+Telangana,consonant,ɟ̤ʝ,2
+Telangana,consonant,ɡː,2
+Telangana,consonant,ɭː,2
+Telangana,consonant,ɲ,2
+Telangana,consonant,ɽ,2
+Telangana,consonant,ʈː,2
+Telangana,consonant,ʋ,2
+Telangana,consonant,d̤z,1
+Telangana,consonant,r,1
+Telangana,consonant,r̠,1
+Telangana,consonant,r̠ʲ,1
+Telangana,consonant,tsʰ,1
+Telangana,consonant,x,1
+Telangana,vowel,e,13
+Telangana,vowel,i,13
+Telangana,vowel,u,13
+Telangana,vowel,o,11
+Telangana,vowel,aː,10
+Telangana,vowel,eː,10
+Telangana,vowel,iː,10
+Telangana,vowel,oː,10
+Telangana,vowel,uː,10
+Telangana,vowel,æː,6
+Telangana,vowel,ɑ,6
+Telangana,vowel,a,5
+Telangana,vowel,ɛ,3
+Telangana,vowel,ɪ,3
+Telangana,vowel,ʊ,3
+Telangana,vowel,o̞,2
+Telangana,vowel,æ,2
+Telangana,vowel,ɐ,2
+Telangana,vowel,ɒː,2
+Telangana,vowel,ɔː,2
+Telangana,vowel,ə,2
+Telangana,vowel,ɛː,2
+Telangana,vowel,ɜ,2
+Telangana,vowel,ɪː,2
+Telangana,vowel,ʊː,2
+Telangana,vowel,u̞,1
+Telangana,vowel,ʌ,1
+Thimphu,consonant,b,1
+Thimphu,consonant,d,1
+Thimphu,consonant,dz,1
+Thimphu,consonant,dʑ,1
+Thimphu,consonant,h,1
+Thimphu,consonant,j,1
+Thimphu,consonant,k,1
+Thimphu,consonant,kʰ,1
+Thimphu,consonant,l,1
+Thimphu,consonant,l̥,1
+Thimphu,consonant,m,1
+Thimphu,consonant,n,1
+Thimphu,consonant,p,1
+Thimphu,consonant,pʰ,1
+Thimphu,consonant,r,1
+Thimphu,consonant,s,1
+Thimphu,consonant,t,1
+Thimphu,consonant,ts,1
+Thimphu,consonant,tsʰ,1
+Thimphu,consonant,tɕ,1
+Thimphu,consonant,tɕʰ,1
+Thimphu,consonant,tʰ,1
+Thimphu,consonant,w,1
+Thimphu,consonant,z,1
+Thimphu,consonant,ŋ,1
+Thimphu,consonant,ɕ,1
+Thimphu,consonant,ɖ,1
+Thimphu,consonant,ɡ,1
+Thimphu,consonant,ɲ,1
+Thimphu,consonant,ʈ,1
+Thimphu,consonant,ʈʰ,1
+Thimphu,consonant,ʑ,1
+Thimphu,vowel,ai,1
+Thimphu,vowel,au,1
+Thimphu,vowel,aːu,1
+Thimphu,vowel,e,1
+Thimphu,vowel,eu,1
+Thimphu,vowel,eː,1
+Thimphu,vowel,ẽː,1
+Thimphu,vowel,i,1
+Thimphu,vowel,iu,1
+Thimphu,vowel,iː,1
+Thimphu,vowel,ĩː,1
+Thimphu,vowel,o,1
+Thimphu,vowel,ou,1
+Thimphu,vowel,oː,1
+Thimphu,vowel,õː,1
+Thimphu,vowel,u,1
+Thimphu,vowel,uː,1
+Thimphu,vowel,ũː,1
+Thimphu,vowel,øu,1
+Thimphu,vowel,øː,1
+Thimphu,vowel,ɑ,1
+Thimphu,vowel,ɑː,1
+Thimphu,vowel,ɑ̃ː,1
+Thimphu,vowel,ɛu,1
+Thimphu,vowel,ɛː,1
+Thimphu,vowel,ʏː,1
+Tibet Autonomous Region,consonant,h,93
+Tibet Autonomous Region,consonant,j,93
+Tibet Autonomous Region,consonant,k,93
+Tibet Autonomous Region,consonant,kʰ,93
+Tibet Autonomous Region,consonant,m,93
+Tibet Autonomous Region,consonant,p,93
+Tibet Autonomous Region,consonant,pʰ,93
+Tibet Autonomous Region,consonant,w,93
+Tibet Autonomous Region,consonant,ŋ,93
+Tibet Autonomous Region,consonant,l,88
+Tibet Autonomous Region,consonant,s,88
+Tibet Autonomous Region,consonant,ts,88
+Tibet Autonomous Region,consonant,tsʰ,88
+Tibet Autonomous Region,consonant,n,83
+Tibet Autonomous Region,consonant,ɕ,78
+Tibet Autonomous Region,consonant,t,77
+Tibet Autonomous Region,consonant,tʰ,77
+Tibet Autonomous Region,consonant,tɕ,75
+Tibet Autonomous Region,consonant,tɕʰ,75
+Tibet Autonomous Region,consonant,ɲ,72
+Tibet Autonomous Region,consonant,b,68
+Tibet Autonomous Region,consonant,dz,68
+Tibet Autonomous Region,consonant,z,68
+Tibet Autonomous Region,consonant,d,67
+Tibet Autonomous Region,consonant,m̥,66
+Tibet Autonomous Region,consonant,l̥,62
+Tibet Autonomous Region,consonant,ʈ,62
+Tibet Autonomous Region,consonant,ʈʰ,62
+Tibet Autonomous Region,consonant,ɡ,60
+Tibet Autonomous Region,consonant,nd,59
+Tibet Autonomous Region,consonant,ndz,59
+Tibet Autonomous Region,consonant,ŋɡ,58
+Tibet Autonomous Region,consonant,n̥,56
+Tibet Autonomous Region,consonant,r,54
+Tibet Autonomous Region,consonant,mb,51
+Tibet Autonomous Region,consonant,dʑ,50
+Tibet Autonomous Region,consonant,ŋ̊,48
+Tibet Autonomous Region,consonant,ʂ,43
+Tibet Autonomous Region,consonant,ɖ,42
+Tibet Autonomous Region,consonant,ʑ,42
+Tibet Autonomous Region,consonant,ʔ,42
+Tibet Autonomous Region,consonant,ɲ̊,40
+Tibet Autonomous Region,consonant,ndʑ,34
+Tibet Autonomous Region,consonant,c,33
+Tibet Autonomous Region,consonant,cʰ,33
+Tibet Autonomous Region,consonant,sʰ,33
+Tibet Autonomous Region,consonant,x,33
+Tibet Autonomous Region,consonant,ɕʰ,33
+Tibet Autonomous Region,consonant,ɣ,33
+Tibet Autonomous Region,consonant,ɳɖ,33
+Tibet Autonomous Region,consonant,ʈʂ,30
+Tibet Autonomous Region,consonant,ʈʂʰ,30
+Tibet Autonomous Region,consonant,d̠ʒ,25
+Tibet Autonomous Region,consonant,t̠ʃ,25
+Tibet Autonomous Region,consonant,t̠ʃʰ,25
+Tibet Autonomous Region,consonant,ɖʐ,25
+Tibet Autonomous Region,consonant,ɦ,25
+Tibet Autonomous Region,consonant,ɳɖʐ,25
+Tibet Autonomous Region,consonant,ntsʰ,24
+Tibet Autonomous Region,consonant,ʐ,24
+Tibet Autonomous Region,consonant,r̥,22
+Tibet Autonomous Region,consonant,ɟ,18
+Tibet Autonomous Region,consonant,ɹ,18
+Tibet Autonomous Region,consonant,n̠d̠ʒ,17
+Tibet Autonomous Region,consonant,xʰ,17
+Tibet Autonomous Region,consonant,ʃ,17
+Tibet Autonomous Region,consonant,ʒ,17
+Tibet Autonomous Region,consonant,j̊,16
+Tibet Autonomous Region,consonant,mpʰ,16
+Tibet Autonomous Region,consonant,ntʰ,16
+Tibet Autonomous Region,consonant,t̪,16
+Tibet Autonomous Region,consonant,t̪ʰ,16
+Tibet Autonomous Region,consonant,ŋkʰ,16
+Tibet Autonomous Region,consonant,ɲɟ,16
+Tibet Autonomous Region,consonant,ɳʈʰ,16
+Tibet Autonomous Region,consonant,ɸ,16
+Tibet Autonomous Region,consonant,ʂʰ,16
+Tibet Autonomous Region,consonant,ɬ,13
+Tibet Autonomous Region,consonant,ɹ̥,13
+Tibet Autonomous Region,consonant,n̪,10
+Tibet Autonomous Region,consonant,cç,9
+Tibet Autonomous Region,consonant,cçʰ,9
+Tibet Autonomous Region,consonant,ç,9
+Tibet Autonomous Region,consonant,ɟʝ,9
+Tibet Autonomous Region,consonant,nsʰ,8
+Tibet Autonomous Region,consonant,ntɕʰ,8
+Tibet Autonomous Region,consonant,n̠t̠ʃʰ,8
+Tibet Autonomous Region,consonant,çʰ,8
+Tibet Autonomous Region,consonant,ŋxʰ,8
+Tibet Autonomous Region,consonant,ɮ,8
+Tibet Autonomous Region,consonant,ɰ,8
+Tibet Autonomous Region,consonant,ɲcʰ,8
+Tibet Autonomous Region,consonant,ɳ,8
+Tibet Autonomous Region,consonant,ɻ,8
+Tibet Autonomous Region,consonant,ɻ̊,8
+Tibet Autonomous Region,consonant,ɾ,8
+Tibet Autonomous Region,consonant,ʃʰ,8
+Tibet Autonomous Region,consonant,ʝ,8
+Tibet Autonomous Region,consonant,ʰc,8
+Tibet Autonomous Region,consonant,ʰk,8
+Tibet Autonomous Region,consonant,ʰl̥,8
+Tibet Autonomous Region,consonant,ʰp,8
+Tibet Autonomous Region,consonant,ʰt,8
+Tibet Autonomous Region,consonant,ʰʈ,8
+Tibet Autonomous Region,consonant,ʱb,8
+Tibet Autonomous Region,consonant,ʱd,8
+Tibet Autonomous Region,consonant,ʱdz,8
+Tibet Autonomous Region,consonant,ʱdʑ,8
+Tibet Autonomous Region,consonant,ʱj,8
+Tibet Autonomous Region,consonant,ʱl,8
+Tibet Autonomous Region,consonant,ʱm,8
+Tibet Autonomous Region,consonant,ʱn,8
+Tibet Autonomous Region,consonant,ʱz,8
+Tibet Autonomous Region,consonant,ʱŋ,8
+Tibet Autonomous Region,consonant,ʱɖ,8
+Tibet Autonomous Region,consonant,ʱɟ,8
+Tibet Autonomous Region,consonant,ʱɡ,8
+Tibet Autonomous Region,consonant,ʱɲ,8
+Tibet Autonomous Region,consonant,ʱʐ,8
+Tibet Autonomous Region,consonant,ʷd,8
+Tibet Autonomous Region,consonant,ʷl,8
+Tibet Autonomous Region,consonant,ʷm,8
+Tibet Autonomous Region,consonant,ʷz,8
+Tibet Autonomous Region,consonant,ʷɟ,8
+Tibet Autonomous Region,consonant,ʷʐ,8
+Tibet Autonomous Region,consonant,ʷʑ,8
+Tibet Autonomous Region,consonant,ʷʰk,8
+Tibet Autonomous Region,consonant,ʷʰs,8
+Tibet Autonomous Region,consonant,ʷʰsʰ,8
+Tibet Autonomous Region,consonant,ʷʰt,8
+Tibet Autonomous Region,consonant,ʷʰts,8
+Tibet Autonomous Region,consonant,ʷʰtɕ,8
+Tibet Autonomous Region,consonant,ʷʰɕʰ,8
+Tibet Autonomous Region,consonant,ʷʰʂʰ,8
+Tibet Autonomous Region,consonant,ʷʰʈ,8
+Tibet Autonomous Region,consonant,ʼj,8
+Tibet Autonomous Region,consonant,ʼl,8
+Tibet Autonomous Region,consonant,ʼm,8
+Tibet Autonomous Region,consonant,ʼn,8
+Tibet Autonomous Region,consonant,ʼs,8
+Tibet Autonomous Region,consonant,ʼw,8
+Tibet Autonomous Region,consonant,ʼŋ,8
+Tibet Autonomous Region,consonant,ʼɲ,8
+Tibet Autonomous Region,consonant,ʼʃ,8
+Tibet Autonomous Region,consonant,β,8
+Tibet Autonomous Region,consonant,kʲ,5
+Tibet Autonomous Region,consonant,kʲʰ,5
+Tibet Autonomous Region,consonant,l̪,5
+Tibet Autonomous Region,consonant,r̪,5
+Tibet Autonomous Region,consonant,s̪,5
+Tibet Autonomous Region,consonant,t̪s̪,5
+Tibet Autonomous Region,consonant,t̪s̪ʰ,5
+Tibet Autonomous Region,consonant,bʷ,1
+Tibet Autonomous Region,consonant,d̪,1
+Tibet Autonomous Region,consonant,d̪ʲ,1
+Tibet Autonomous Region,consonant,k̰,1
+Tibet Autonomous Region,consonant,lʲ,1
+Tibet Autonomous Region,consonant,pʷ,1
+Tibet Autonomous Region,consonant,p̰,1
+Tibet Autonomous Region,consonant,t̪ʲ,1
+Tibet Autonomous Region,tone,˦,5
+Tibet Autonomous Region,tone,˨˦,5
+Tibet Autonomous Region,tone,˥˩,1
+Tibet Autonomous Region,tone,˧,1
+Tibet Autonomous Region,tone,˩˥,1
+Tibet Autonomous Region,tone,˩˧˩,1
+Tibet Autonomous Region,vowel,a,92
+Tibet Autonomous Region,vowel,e,75
+Tibet Autonomous Region,vowel,i,75
+Tibet Autonomous Region,vowel,u,70
+Tibet Autonomous Region,vowel,o,62
+Tibet Autonomous Region,vowel,ɔ,60
+Tibet Autonomous Region,vowel,ɛ,59
+Tibet Autonomous Region,vowel,eː,55
+Tibet Autonomous Region,vowel,iː,55
+Tibet Autonomous Region,vowel,ə,51
+Tibet Autonomous Region,vowel,aː,46
+Tibet Autonomous Region,vowel,y,44
+Tibet Autonomous Region,vowel,oː,42
+Tibet Autonomous Region,vowel,uː,42
+Tibet Autonomous Region,vowel,ɯ,41
+Tibet Autonomous Region,vowel,ɔː,34
+Tibet Autonomous Region,vowel,ĩ,30
+Tibet Autonomous Region,vowel,ãː,28
+Tibet Autonomous Region,vowel,ĩː,27
+Tibet Autonomous Region,vowel,ɛː,27
+Tibet Autonomous Region,vowel,ũ,25
+Tibet Autonomous Region,vowel,yː,25
+Tibet Autonomous Region,vowel,ɑ,25
+Tibet Autonomous Region,vowel,ua,24
+Tibet Autonomous Region,vowel,ui,24
+Tibet Autonomous Region,vowel,ɑ̃,24
+Tibet Autonomous Region,vowel,ẽ,23
+Tibet Autonomous Region,vowel,õː,23
+Tibet Autonomous Region,vowel,ʊ,23
+Tibet Autonomous Region,vowel,ɔ̃,21
+Tibet Autonomous Region,vowel,ø,20
+Tibet Autonomous Region,vowel,øː,20
+Tibet Autonomous Region,vowel,ẽː,19
+Tibet Autonomous Region,vowel,ɪ,18
+Tibet Autonomous Region,vowel,õ,17
+Tibet Autonomous Region,vowel,ɑː,17
+Tibet Autonomous Region,vowel,ɨ,17
+Tibet Autonomous Region,vowel,ei,16
+Tibet Autonomous Region,vowel,ue,16
+Tibet Autonomous Region,vowel,əː,16
+Tibet Autonomous Region,vowel,ɯː,16
+Tibet Autonomous Region,vowel,ɯ̃,16
+Tibet Autonomous Region,vowel,ɵ,16
+Tibet Autonomous Region,vowel,ã,15
+Tibet Autonomous Region,vowel,ũː,15
+Tibet Autonomous Region,vowel,ɛ̃ː,14
+Tibet Autonomous Region,vowel,æ,13
+Tibet Autonomous Region,vowel,œ̃ː,13
+Tibet Autonomous Region,vowel,ʊ̃ː,13
+Tibet Autonomous Region,vowel,ỹː,12
+Tibet Autonomous Region,vowel,ʌ,9
+Tibet Autonomous Region,vowel,ao,8
+Tibet Autonomous Region,vowel,a̤,8
+Tibet Autonomous Region,vowel,a̤ː,8
+Tibet Autonomous Region,vowel,a̰,8
+Tibet Autonomous Region,vowel,e̤,8
+Tibet Autonomous Region,vowel,e̤ː,8
+Tibet Autonomous Region,vowel,ia,8
+Tibet Autonomous Region,vowel,iu,8
+Tibet Autonomous Region,vowel,iə,8
+Tibet Autonomous Region,vowel,i̤ː,8
+Tibet Autonomous Region,vowel,ou,8
+Tibet Autonomous Region,vowel,o̤,8
+Tibet Autonomous Region,vowel,o̤ː,8
+Tibet Autonomous Region,vowel,uẽ,8
+Tibet Autonomous Region,vowel,uæ,8
+Tibet Autonomous Region,vowel,uə,8
+Tibet Autonomous Region,vowel,ṳ,8
+Tibet Autonomous Region,vowel,ya,8
+Tibet Autonomous Region,vowel,yə,8
+Tibet Autonomous Region,vowel,y̤,8
+Tibet Autonomous Region,vowel,æ̃,8
+Tibet Autonomous Region,vowel,ø̤,8
+Tibet Autonomous Region,vowel,œ,8
+Tibet Autonomous Region,vowel,ɐ,8
+Tibet Autonomous Region,vowel,ɒ,8
+Tibet Autonomous Region,vowel,ɔ̜̃ː,8
+Tibet Autonomous Region,vowel,ɔ̤,8
+Tibet Autonomous Region,vowel,ɔ̤ː,8
+Tibet Autonomous Region,vowel,əo,8
+Tibet Autonomous Region,vowel,ə̃,8
+Tibet Autonomous Region,vowel,ɛi,8
+Tibet Autonomous Region,vowel,ɛ̃,8
+Tibet Autonomous Region,vowel,ɛ̤,8
+Tibet Autonomous Region,vowel,ɛ̤i̤,8
+Tibet Autonomous Region,vowel,ɤ,8
+Tibet Autonomous Region,vowel,ɨ̤,8
+Tibet Autonomous Region,vowel,ɵː,8
+Tibet Autonomous Region,vowel,ɵ̃,8
+Tibet Autonomous Region,vowel,ʉ,8
+Tibet Autonomous Region,vowel,ø̃ː,7
+Tibet Autonomous Region,vowel,ea,5
+Tibet Autonomous Region,vowel,ie,5
+Tibet Autonomous Region,vowel,ĩẽ,5
+Tibet Autonomous Region,vowel,oa,5
+Tibet Autonomous Region,vowel,õã,5
+Tibet Autonomous Region,vowel,œː,5
+Tibet Autonomous Region,vowel,ɔ̃ː,5
+Tibet Autonomous Region,vowel,ʊː,5
+Tibet Autonomous Region,vowel,ʊ̃,5
+Tibet Autonomous Region,vowel,õ̞,1
+Tibet Autonomous Region,vowel,ỹ,1
+Tibet Autonomous Region,vowel,ø̃,1
+Tibet Autonomous Region,vowel,ɪ̃,1
+Trashi Yangste,consonant,b,1
+Trashi Yangste,consonant,c,1
+Trashi Yangste,consonant,cʰ,1
+Trashi Yangste,consonant,d,1
+Trashi Yangste,consonant,dz,1
+Trashi Yangste,consonant,dʑ,1
+Trashi Yangste,consonant,h,1
+Trashi Yangste,consonant,j,1
+Trashi Yangste,consonant,k,1
+Trashi Yangste,consonant,kʰ,1
+Trashi Yangste,consonant,l,1
+Trashi Yangste,consonant,l̥,1
+Trashi Yangste,consonant,m,1
+Trashi Yangste,consonant,n,1
+Trashi Yangste,consonant,p,1
+Trashi Yangste,consonant,pʰ,1
+Trashi Yangste,consonant,r,1
+Trashi Yangste,consonant,s,1
+Trashi Yangste,consonant,t,1
+Trashi Yangste,consonant,ts,1
+Trashi Yangste,consonant,tsʰ,1
+Trashi Yangste,consonant,tɕ,1
+Trashi Yangste,consonant,tɕʰ,1
+Trashi Yangste,consonant,tʰ,1
+Trashi Yangste,consonant,w,1
+Trashi Yangste,consonant,z,1
+Trashi Yangste,consonant,ŋ,1
+Trashi Yangste,consonant,ɕ,1
+Trashi Yangste,consonant,ɖʐ,1
+Trashi Yangste,consonant,ɟ,1
+Trashi Yangste,consonant,ɡ,1
+Trashi Yangste,consonant,ɲ,1
+Trashi Yangste,consonant,ʂ,1
+Trashi Yangste,consonant,ʈʂ,1
+Trashi Yangste,consonant,ʈʂʰ,1
+Trashi Yangste,consonant,ʑ,1
+Trashi Yangste,consonant,ʔ,1
+Trashi Yangste,vowel,a,1
+Trashi Yangste,vowel,ai,1
+Trashi Yangste,vowel,au,1
+Trashi Yangste,vowel,aː,1
+Trashi Yangste,vowel,e,1
+Trashi Yangste,vowel,eu,1
+Trashi Yangste,vowel,eː,1
+Trashi Yangste,vowel,i,1
+Trashi Yangste,vowel,iu,1
+Trashi Yangste,vowel,iː,1
+Trashi Yangste,vowel,o,1
+Trashi Yangste,vowel,oː,1
+Trashi Yangste,vowel,u,1
+Trashi Yangste,vowel,uː,1
+Trashi Yangste,vowel,y,1
+Trashi Yangste,vowel,yː,1
+Trashi Yangste,vowel,ø,1
+Trashi Yangste,vowel,øː,1
+Trashi Yangste,vowel,ɔ,1
+Trashi Yangste,vowel,ɔː,1
+Trashi Yangste,vowel,ɛ,1
+Trashi Yangste,vowel,ɛː,1
+Tripura,consonant,b,1
+Tripura,consonant,cç,1
+Tripura,consonant,cçʰ,1
+Tripura,consonant,d̪,1
+Tripura,consonant,h,1
+Tripura,consonant,j,1
+Tripura,consonant,k,1
+Tripura,consonant,kʰ,1
+Tripura,consonant,l,1
+Tripura,consonant,m,1
+Tripura,consonant,n̪,1
+Tripura,consonant,p,1
+Tripura,consonant,pʰ,1
+Tripura,consonant,r,1
+Tripura,consonant,s,1
+Tripura,consonant,ts,1
+Tripura,consonant,tsʰ,1
+Tripura,consonant,t̪,1
+Tripura,consonant,t̪ʰ,1
+Tripura,consonant,w,1
+Tripura,consonant,ç,1
+Tripura,consonant,ŋ,1
+Tripura,consonant,ɟʝ,1
+Tripura,consonant,ɡ,1
+Tripura,consonant,ɲ,1
+Tripura,vowel,a,1
+Tripura,vowel,o,1
+Tripura,vowel,u,1
+Tripura,vowel,ɔ,1
+Tripura,vowel,ɛ,1
+Tripura,vowel,ɪ,1
+Tripura,vowel,ɯ,1
+Tripura,vowel,ʊ,1
+Tripura,vowel,ʌ,1
+Uttar Pradesh,consonant,b,1
+Uttar Pradesh,consonant,b̤,1
+Uttar Pradesh,consonant,cç,1
+Uttar Pradesh,consonant,cçʰ,1
+Uttar Pradesh,consonant,d̪,1
+Uttar Pradesh,consonant,d̪̤,1
+Uttar Pradesh,consonant,h,1
+Uttar Pradesh,consonant,j,1
+Uttar Pradesh,consonant,k,1
+Uttar Pradesh,consonant,kʰ,1
+Uttar Pradesh,consonant,l,1
+Uttar Pradesh,consonant,l̤,1
+Uttar Pradesh,consonant,m,1
+Uttar Pradesh,consonant,m̤,1
+Uttar Pradesh,consonant,n,1
+Uttar Pradesh,consonant,p,1
+Uttar Pradesh,consonant,pʰ,1
+Uttar Pradesh,consonant,r,1
+Uttar Pradesh,consonant,r̤,1
+Uttar Pradesh,consonant,s,1
+Uttar Pradesh,consonant,t̪,1
+Uttar Pradesh,consonant,t̪ʰ,1
+Uttar Pradesh,consonant,w,1
+Uttar Pradesh,consonant,ŋ,1
+Uttar Pradesh,consonant,ɖ,1
+Uttar Pradesh,consonant,ɖ̤,1
+Uttar Pradesh,consonant,ɟʝ,1
+Uttar Pradesh,consonant,ɟ̤ʝ,1
+Uttar Pradesh,consonant,ɡ,1
+Uttar Pradesh,consonant,ɡʱ,1
+Uttar Pradesh,consonant,ɦ,1
+Uttar Pradesh,consonant,ɲ,1
+Uttar Pradesh,consonant,ɳ,1
+Uttar Pradesh,consonant,ɽ,1
+Uttar Pradesh,consonant,ɽ̤,1
+Uttar Pradesh,consonant,ʈ,1
+Uttar Pradesh,consonant,ʈʰ,1
+Uttar Pradesh,vowel,e,1
+Uttar Pradesh,vowel,i,1
+Uttar Pradesh,vowel,o,1
+Uttar Pradesh,vowel,u,1
+Uttar Pradesh,vowel,æ,1
+Uttar Pradesh,vowel,ɑ,1
+Uttar Pradesh,vowel,ɔ,1
+Uttar Pradesh,vowel,ɛ,1
+Uttarakhand,consonant,b,2
+Uttarakhand,consonant,b̤,2
+Uttarakhand,consonant,cç,2
+Uttarakhand,consonant,cçʰ,2
+Uttarakhand,consonant,d̪,2
+Uttarakhand,consonant,d̪̤,2
+Uttarakhand,consonant,j,2
+Uttarakhand,consonant,k,2
+Uttarakhand,consonant,kʰ,2
+Uttarakhand,consonant,l,2
+Uttarakhand,consonant,m,2
+Uttarakhand,consonant,p,2
+Uttarakhand,consonant,pʰ,2
+Uttarakhand,consonant,t̪,2
+Uttarakhand,consonant,t̪ʰ,2
+Uttarakhand,consonant,w,2
+Uttarakhand,consonant,ç,2
+Uttarakhand,consonant,ŋ,2
+Uttarakhand,consonant,ɖ,2
+Uttarakhand,consonant,ɖ̤,2
+Uttarakhand,consonant,ɟʝ,2
+Uttarakhand,consonant,ɟ̤ʝ,2
+Uttarakhand,consonant,ɡ,2
+Uttarakhand,consonant,ɡʱ,2
+Uttarakhand,consonant,ɳ,2
+Uttarakhand,consonant,ɽ,2
+Uttarakhand,consonant,ʈ,2
+Uttarakhand,consonant,ʈʰ,2
+Uttarakhand,consonant,h,1
+Uttarakhand,consonant,n,1
+Uttarakhand,consonant,n̪,1
+Uttarakhand,consonant,r,1
+Uttarakhand,consonant,s,1
+Uttarakhand,consonant,ɦ,1
+Uttarakhand,consonant,ɭ,1
+Uttarakhand,consonant,ɲ,1
+Uttarakhand,consonant,ɾ,1
+Uttarakhand,vowel,a,2
+Uttarakhand,vowel,e,2
+Uttarakhand,vowel,i,2
+Uttarakhand,vowel,o,2
+Uttarakhand,vowel,u,2
+Uttarakhand,vowel,ɔ,2
+Uttarakhand,vowel,ɛ,2
+Uttarakhand,vowel,aː,1
+Uttarakhand,vowel,ẽ̞,1
+Uttarakhand,vowel,iː,1
+Uttarakhand,vowel,õː,1
+Uttarakhand,vowel,õ̞,1
+Uttarakhand,vowel,uː,1
+Uttarakhand,vowel,æ̞̃,1
+Uttarakhand,vowel,ɑ̃,1
+Uttarakhand,vowel,ə,1
+Uttarakhand,vowel,ə̃ː,1
+Uttarakhand,vowel,ɪ,1
+Uttarakhand,vowel,ʊ,1
+Uttarakhand,vowel,ʊ̃,1
+Uttarakhand,vowel,ʌ,1
+West Bengal,consonant,b,7
+West Bengal,consonant,j,7
+West Bengal,consonant,k,7
+West Bengal,consonant,l,7
+West Bengal,consonant,m,7
+West Bengal,consonant,p,7
+West Bengal,consonant,s,7
+West Bengal,consonant,w,7
+West Bengal,consonant,ŋ,7
+West Bengal,consonant,ɡ,7
+West Bengal,consonant,h,6
+West Bengal,consonant,ɖ,6
+West Bengal,consonant,ɲ,6
+West Bengal,consonant,ɽ,6
+West Bengal,consonant,ʈ,6
+West Bengal,consonant,n,5
+West Bengal,consonant,r,5
+West Bengal,consonant,c,4
+West Bengal,consonant,d̪,4
+West Bengal,consonant,t̪,4
+West Bengal,consonant,ɟ,4
+West Bengal,consonant,b̤,3
+West Bengal,consonant,d,3
+West Bengal,consonant,n̪,3
+West Bengal,consonant,t,3
+West Bengal,consonant,ʔ,3
+West Bengal,consonant,cç,2
+West Bengal,consonant,d̤,2
+West Bengal,consonant,kʰ,2
+West Bengal,consonant,pʰ,2
+West Bengal,consonant,q,2
+West Bengal,consonant,tʰ,2
+West Bengal,consonant,ɖ̤,2
+West Bengal,consonant,ɟʝ,2
+West Bengal,consonant,ɾ,2
+West Bengal,consonant,b̰,1
+West Bengal,consonant,cçʰ,1
+West Bengal,consonant,dʑ,1
+West Bengal,consonant,d̤ʑ̤,1
+West Bengal,consonant,d̪̤,1
+West Bengal,consonant,j̊,1
+West Bengal,consonant,k̰,1
+West Bengal,consonant,l̥,1
+West Bengal,consonant,m̥,1
+West Bengal,consonant,n̥,1
+West Bengal,consonant,p̰,1
+West Bengal,consonant,tɕ,1
+West Bengal,consonant,t̪ʰ,1
+West Bengal,consonant,t̪̰,1
+West Bengal,consonant,ɟ̤,1
+West Bengal,consonant,ɟ̤ʝ,1
+West Bengal,consonant,ɡʱ,1
+West Bengal,consonant,ɡ̤,1
+West Bengal,consonant,ɢ,1
+West Bengal,consonant,ɣ,1
+West Bengal,consonant,ɦ,1
+West Bengal,consonant,ɳ,1
+West Bengal,consonant,ɾ̥,1
+West Bengal,consonant,ʈʰ,1
+West Bengal,consonant,ʍ,1
+West Bengal,consonant,θ,1
+West Bengal,consonant,θ̪,1
+West Bengal,vowel,e,7
+West Bengal,vowel,i,7
+West Bengal,vowel,u,7
+West Bengal,vowel,a,6
+West Bengal,vowel,o,6
+West Bengal,vowel,aː,4
+West Bengal,vowel,ã,4
+West Bengal,vowel,eː,4
+West Bengal,vowel,iː,4
+West Bengal,vowel,ĩ,4
+West Bengal,vowel,oː,4
+West Bengal,vowel,uː,4
+West Bengal,vowel,õ,3
+West Bengal,vowel,ũ,3
+West Bengal,vowel,ə,3
+West Bengal,vowel,ai,2
+West Bengal,vowel,au,2
+West Bengal,vowel,ẽ,2
+West Bengal,vowel,iu,2
+West Bengal,vowel,oe,2
+West Bengal,vowel,oi,2
+West Bengal,vowel,õ̞,2
+West Bengal,vowel,ui,2
+West Bengal,vowel,ɪ̃,2
+West Bengal,vowel,ae,1
+West Bengal,vowel,ao,1
+West Bengal,vowel,ea,1
+West Bengal,vowel,ei,1
+West Bengal,vowel,eo,1
+West Bengal,vowel,eu,1
+West Bengal,vowel,e̞,1
+West Bengal,vowel,io,1
+West Bengal,vowel,iə,1
+West Bengal,vowel,oa,1
+West Bengal,vowel,uə,1
+West Bengal,vowel,ũː,1
+West Bengal,vowel,u̞,1
+West Bengal,vowel,æ̞̃,1
+West Bengal,vowel,ɑ,1
+West Bengal,vowel,ɔ,1
+West Bengal,vowel,ɔe,1
+West Bengal,vowel,ɔ̃,1
+West Bengal,vowel,əi,1
+West Bengal,vowel,əu,1
+West Bengal,vowel,ə̃,1
+West Bengal,vowel,ɛ,1
+West Bengal,vowel,ɛo,1
+West Bengal,vowel,ɛ̃,1
+West Bengal,vowel,ɪ,1
+West Bengal,vowel,ʊ,1
+West Bengal,vowel,ʊ̃,1
+West Bengal,vowel,ʌ,1
+Western Region,consonant,j,15
+Western Region,consonant,k,15
+Western Region,consonant,kʰ,15
+Western Region,consonant,m,15
+Western Region,consonant,p,15
+Western Region,consonant,pʰ,15
+Western Region,consonant,s,15
+Western Region,consonant,ŋ,15
+Western Region,consonant,l,14
+Western Region,consonant,ʈ,13
+Western Region,consonant,w,12
+Western Region,consonant,ʈʰ,12
+Western Region,consonant,b,11
+Western Region,consonant,r,11
+Western Region,consonant,ɡ,11
+Western Region,consonant,ɲ,11
+Western Region,consonant,n,10
+Western Region,consonant,ts,10
+Western Region,consonant,h,9
+Western Region,consonant,t,9
+Western Region,consonant,tsʰ,9
+Western Region,consonant,tʰ,9
+Western Region,consonant,ɖ,9
+Western Region,consonant,t̠ʃ,8
+Western Region,consonant,t̠ʃʰ,8
+Western Region,consonant,t̪,8
+Western Region,consonant,t̪ʰ,8
+Western Region,consonant,r̥,7
+Western Region,consonant,ʃ,7
+Western Region,consonant,d̪,6
+Western Region,consonant,l̥,6
+Western Region,consonant,d,5
+Western Region,consonant,dz,5
+Western Region,consonant,d̠ʒ,5
+Western Region,consonant,n̪,5
+Western Region,consonant,ç,5
+Western Region,consonant,ʔ,5
+Western Region,consonant,b̤,4
+Western Region,consonant,c,4
+Western Region,consonant,d̪̤,4
+Western Region,consonant,ɟ,4
+Western Region,consonant,ɾ,4
+Western Region,consonant,cç,3
+Western Region,consonant,cçʰ,3
+Western Region,consonant,m̥,3
+Western Region,consonant,x,3
+Western Region,consonant,z,3
+Western Region,consonant,ɖ̤,3
+Western Region,consonant,ɟʝ,3
+Western Region,consonant,ɟ̤ʝ,3
+Western Region,consonant,ɡʱ,3
+Western Region,consonant,cʰ,2
+Western Region,consonant,kʷ,2
+Western Region,consonant,kʷʰ,2
+Western Region,consonant,mʷ,2
+Western Region,consonant,pʷ,2
+Western Region,consonant,pʷʰ,2
+Western Region,consonant,ŋʷ,2
+Western Region,consonant,ɦ,2
+Western Region,consonant,ɳ,2
+Western Region,consonant,ɽ,2
+Western Region,consonant,ɽ̤,2
+Western Region,consonant,ʂ,2
+Western Region,consonant,χ,2
+Western Region,consonant,j̊,1
+Western Region,consonant,n̥,1
+Western Region,consonant,tɕ,1
+Western Region,consonant,ŋ̊,1
+Western Region,consonant,ɡ̤,1
+Western Region,consonant,ɬ,1
+Western Region,consonant,ɭ,1
+Western Region,consonant,ɭ̤,1
+Western Region,consonant,ʍ,1
+Western Region,tone,˥˩,1
+Western Region,tone,˧,1
+Western Region,tone,˧˦,1
+Western Region,tone,˨,1
+Western Region,tone,˩˥,1
+Western Region,vowel,e,13
+Western Region,vowel,i,13
+Western Region,vowel,o,13
+Western Region,vowel,u,13
+Western Region,vowel,a,10
+Western Region,vowel,ɛ,8
+Western Region,vowel,ã,5
+Western Region,vowel,ɑ,5
+Western Region,vowel,ɔ,5
+Western Region,vowel,ẽ,4
+Western Region,vowel,ĩ,4
+Western Region,vowel,õ,4
+Western Region,vowel,ũ,4
+Western Region,vowel,ə,4
+Western Region,vowel,ui̯,3
+Western Region,vowel,æ,3
+Western Region,vowel,œ,3
+Western Region,vowel,ʌ,3
+Western Region,vowel,ai̯,2
+Western Region,vowel,ei̯,2
+Western Region,vowel,oi̯,2
+Western Region,vowel,y,2
+Western Region,vowel,ɑ̃,2
+Western Region,vowel,ɪ,2
+Western Region,vowel,ɵ,2
+Western Region,vowel,ʉ,2
+Western Region,vowel,ʊ,2
+Western Region,vowel,ae,1
+Western Region,vowel,ai,1
+Western Region,vowel,au,1
+Western Region,vowel,au̯,1
+Western Region,vowel,aː,1
+Western Region,vowel,eː,1
+Western Region,vowel,e̤,1
+Western Region,vowel,iu,1
+Western Region,vowel,iː,1
+Western Region,vowel,i̤,1
+Western Region,vowel,oi,1
+Western Region,vowel,ou̯,1
+Western Region,vowel,oː,1
+Western Region,vowel,o̤,1
+Western Region,vowel,ue,1
+Western Region,vowel,ui,1
+Western Region,vowel,uː,1
+Western Region,vowel,ṳ,1
+Western Region,vowel,æː,1
+Western Region,vowel,œi̯,1
+Western Region,vowel,œː,1
+Western Region,vowel,ɑy,1
+Western Region,vowel,ɑɯ,1
+Western Region,vowel,ɑ̤,1
+Western Region,vowel,ɒ,1
+Western Region,vowel,əi,1
+Western Region,vowel,əu,1
+Western Region,vowel,ɛː,1
+Western Region,vowel,ɛ̃,1
+Western Region,vowel,ʌy,1
+Western Region,vowel,ʌɯ,1
+Western Region,vowel,ʌ̃,1
+Western Region,vowel,ʌ̤,1

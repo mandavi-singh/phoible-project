@@ -1,0 +1,30 @@
+State,n_languages,mean_vowel_index,mean_vowels,mean_consonants,mean_cv_ratio,mean_humidity,families
+Odisha,9,0.427,16.444,21.889,1.447,15.167,"Austroasiatic, Dravidian, Indo-Aryan"
+West Bengal,4,0.424,20.5,26.25,1.478,14.875,"Austroasiatic, Dravidian, Tibeto-Burman"
+Gujarat,3,0.414,23.333,32.667,1.417,10.833,Indo-Aryan
+Andhra Pradesh,6,0.403,16.833,25.333,1.536,14.083,"Austroasiatic, Dravidian"
+Haryana,1,0.4,20.0,30.0,1.5,11.0,Indo-Aryan
+Bihar,3,0.375,19.0,31.667,1.784,11.0,Indo-Aryan
+Karnataka,6,0.372,16.0,26.833,1.82,17.333,"Dravidian, Indo-Aryan"
+Kerala,2,0.359,17.5,32.0,1.917,19.0,Dravidian
+Sikkim,2,0.354,19.0,31.5,1.961,20.0,Tibeto-Burman
+Arunachal Pradesh,6,0.35,12.167,22.333,2.015,18.25,Tibeto-Burman
+Assam,6,0.336,12.833,24.833,2.188,20.0,"Austroasiatic, Indo-Aryan, Tibeto-Burman"
+Andaman and Nicobar Islands,3,0.326,9.0,19.0,2.093,16.0,"Austroasiatic, Other/Isolate"
+Tamil Nadu,9,0.321,13.444,28.333,2.289,19.0,"Dravidian, Indo-Aryan"
+Madhya Pradesh,3,0.311,15.333,33.333,2.322,10.333,"Austroasiatic, Indo-Aryan"
+Jharkhand,3,0.308,17.667,38.667,2.454,15.333,"Austroasiatic, Dravidian"
+Kashmir,7,0.298,15.429,34.429,2.848,8.5,"Indo-Aryan, Tibeto-Burman"
+Uttarakhand,2,0.298,14.0,32.5,2.409,9.75,Indo-Aryan
+Maharashtra,5,0.291,12.2,31.4,2.853,9.0,"Dravidian, Indo-Aryan"
+Punjab,1,0.286,20.0,50.0,2.5,6.0,Indo-Aryan
+Telangana,3,0.283,13.667,34.667,2.646,10.833,Dravidian
+Chhattisgarh,3,0.275,9.333,23.667,2.844,14.5,"Dravidian, Indo-Aryan"
+Tripura,1,0.265,9.0,25.0,2.778,20.0,Tibeto-Burman
+Manipur,6,0.26,9.333,27.0,3.098,20.0,Tibeto-Burman
+Rajasthan,2,0.231,16.5,53.5,3.343,8.5,Indo-Aryan
+Himachal Pradesh,5,0.215,9.2,33.2,4.273,8.5,"Indo-Aryan, Tibeto-Burman"
+Nagaland,6,0.195,7.333,31.0,4.504,20.0,Tibeto-Burman
+Meghalaya,1,0.192,5.0,21.0,4.2,20.0,Tibeto-Burman
+Uttar Pradesh,1,0.178,8.0,37.0,4.625,11.0,Indo-Aryan
+Mizoram,3,0.16,6.0,33.0,5.376,20.0,Tibeto-Burman
